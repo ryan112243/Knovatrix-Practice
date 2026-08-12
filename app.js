@@ -1,4 +1,4 @@
-﻿const STORAGE = {
+const STORAGE = {
   stats: "knovatrix-quiz-stats",
   history: "knovatrix-quiz-history-v2",
   wrong: "knovatrix-wrong-questions-v2",
@@ -44,6 +44,10 @@ const esc = value => String(value ?? "").replace(/[&<>"']/g, char => ({
 const formatMath = value => esc(value).replace(/\^(?:\{([^{}]+)\}|(-?\d+(?:\.\d+)?|[A-Za-z]|[+\-]))/g, (_, grouped, plain) => `<sup>${grouped ?? plain}</sup>`);
 const normal = value => String(value ?? "").trim().replace(/\s+/g, "").toLowerCase();
 const typeName = type => type === "short" ? "填充題" : "選擇題";
+const normalizeQuestion = question => {
+  const options = Array.isArray(question.options) ? question.options.filter(option => String(option ?? "").trim()) : [];
+  return { ...question, options, type: options.length >= 4 ? "mcq" : "short" };
+};
 const routeName = () => location.hash.slice(1).split("?")[0] || "/";
 const adSlot = placement => `<div class="ad-slot ad-slot-flow" data-ad-slot="${placement}" aria-label="贊助內容"></div>`;
 const values = (key, list = state.questions) => [...new Set(list.map(item => item[key]))].sort((a, b) => String(a).localeCompare(String(b), "zh-Hant"));
@@ -191,40 +195,27 @@ function beginSession(questions, label) {
   location.hash = "/quiz";
 }
 
-function quickStart(level = state.setup.level || values("level")[0]) {
-  const candidates = state.questions.filter(question => question.level === level);
-  state.setup.level = level;
-  state.setup.subject = "";
-  state.setup.decks = new Set();
-  state.setup.types = new Set(["mcq", "short"]);
-  state.setup.size = Math.min(5, candidates.length);
-  saveSetup();
-  beginSession(candidates, `${level}｜快速 5 題`);
-}
-
 function renderDashboard() {
   const levels = values("level");
   const rate = state.stats.answered ? Math.round(state.stats.correct / state.stats.answered * 100) : 0;
   const recent = state.history.slice(0, 3);
-  mount(`${globalNav("/")}<section class="mission-hero"><div><p class="eyebrow">MISSION CENTER</p><h1>今天要完成哪一場練習？</h1><p>從快速任務開始，或依學段、科目與單元建立自己的題組。</p><div class="hero-actions"><button class="button" id="custom-mission">建立自訂任務</button><button class="button secondary" id="quick-mission">快速練習 5 題</button></div></div><div class="today-panel"><span>累積正確率</span><b>${rate}%</b><small>${state.stats.correct} / ${state.stats.answered || 0} 題</small></div></section>
+  const learningPath = levels.length ? `<div class="level-launcher">${levels.map(level => {
+    const questions = state.questions.filter(question => question.level === level);
+    return `<button data-level="${esc(level)}"><b>${esc(level)}</b><span>${questions.length} 題 · ${values("deck", questions).length} 個單元</span></button>`;
+  }).join("")}</div>` : `<div class="empty-state"><b>題庫準備中</b><span>目前尚未加入可作答題目；題目上架後會在這裡依學段開始。</span></div>`;
+  mount(`${globalNav("/")}<section class="mission-hero"><div><p class="eyebrow">MISSION CENTER</p><h1>今天要完成哪一場練習？</h1><p>依學段、科目、單元與題型建立自己的練習任務。</p><div class="hero-actions"><button class="button" id="custom-mission">建立自訂任務</button></div></div><div class="today-panel"><span>累積正確率</span><b>${rate}%</b><small>${state.stats.correct} / ${state.stats.answered || 0} 題</small></div></section>
   ${adSlot("mobile-top")}${state.session.length && !state.resultSaved ? `<section class="resume-strip"><div><b>有一場尚未交卷的任務</b><span>${esc(state.sessionLabel)} · 已作答 ${Object.values(state.answers).filter(item => item.submitted).length} / ${state.session.length}</span></div><button class="button secondary" id="resume-mission">繼續作答</button></section>` : ""}
   <section class="dashboard-section"><div class="section-title"><div><p class="eyebrow">CHOOSE A MODE</p><h2>練習方式</h2></div></div><div class="mission-grid">
     <button class="mission-card primary" data-mode="custom"><span class="mission-index">01</span><b>自訂練習</b><p>逐步選擇學段、科目、單元與題型。</p><small>建立任務</small></button>
-    <button class="mission-card" data-mode="quick"><span class="mission-index">02</span><b>快速 5 題</b><p>從上次學段或目前第一個學段隨機出題。</p><small>立即開始</small></button>
-    <button class="mission-card ${state.wrongIds.size ? "" : "disabled"}" data-mode="wrong" ${state.wrongIds.size ? "" : "disabled"}><span class="mission-index">03</span><b>錯題重練</b><p>${state.wrongIds.size ? `目前有 ${state.wrongIds.size} 題待複習。` : "答錯的題目會自動收進這裡。"}</p><small>${state.wrongIds.size ? "開始複習" : "目前沒有錯題"}</small></button>
+    <button class="mission-card ${state.wrongIds.size ? "" : "disabled"}" data-mode="wrong" ${state.wrongIds.size ? "" : "disabled"}><span class="mission-index">02</span><b>錯題重練</b><p>${state.wrongIds.size ? `目前有 ${state.wrongIds.size} 題待複習。` : "完成作答後，答錯的題目會自動收進這裡。"}</p><small>${state.wrongIds.size ? "開始複習" : "尚未有錯題"}</small></button>
   </div></section>
-  <section class="dashboard-section split"><div><div class="section-title"><div><p class="eyebrow">LEARNING PATH</p><h2>依學段開始</h2></div></div><div class="level-launcher">${levels.map(level => {
-    const questions = state.questions.filter(question => question.level === level);
-    return `<button data-level="${esc(level)}"><b>${esc(level)}</b><span>${questions.length} 題 · ${values("deck", questions).length} 個單元</span></button>`;
-  }).join("")}</div></div><aside class="record-summary"><p class="eyebrow">YOUR RECORD</p><h2>練習摘要</h2><dl><div><dt>完成任務</dt><dd>${state.stats.sessions}</dd></div><div><dt>累積作答</dt><dd>${state.stats.answered}</dd></div><div><dt>錯題待複習</dt><dd>${state.wrongIds.size}</dd></div></dl></aside></section>
+  <section class="dashboard-section split"><div><div class="section-title"><div><p class="eyebrow">LEARNING PATH</p><h2>依學段開始</h2></div></div>${learningPath}</div><aside class="record-summary"><p class="eyebrow">YOUR RECORD</p><h2>練習摘要</h2><dl><div><dt>完成任務</dt><dd>${state.stats.sessions}</dd></div><div><dt>累積作答</dt><dd>${state.stats.answered}</dd></div><div><dt>錯題待複習</dt><dd>${state.wrongIds.size}</dd></div></dl></aside></section>
   <section class="dashboard-section"><div class="section-title"><div><p class="eyebrow">RECENT MISSIONS</p><h2>最近任務</h2></div><a href="#/progress">查看完整紀錄</a></div>${recent.length ? `<div class="recent-missions">${recent.map(item => `<article><div><b>${esc(item.label)}</b><span>${new Date(item.date).toLocaleDateString("zh-TW")}</span></div><strong>${item.correct} / ${item.total}</strong></article>`).join("")}</div>` : `<div class="empty-state">完成第一場任務後，這裡會顯示最近的練習紀錄。</div>`}</section>`);
   root.querySelector("#custom-mission").onclick = () => location.hash = "/setup/level";
   root.querySelector("#resume-mission")?.addEventListener("click", () => location.hash = "/quiz");
-  root.querySelector("#quick-mission").onclick = () => quickStart();
   root.querySelectorAll("[data-mode]").forEach(button => button.onclick = () => {
     if (button.dataset.mode === "custom") location.hash = "/setup/level";
-    if (button.dataset.mode === "quick") quickStart();
-    if (button.dataset.mode === "wrong") startWrongPractice();
+    if (button.dataset.mode === "wrong") location.hash = "/wrong";
   });
   root.querySelectorAll("[data-level]").forEach(button => button.onclick = () => {
     state.setup.level = button.dataset.level;
@@ -234,7 +225,6 @@ function renderDashboard() {
     location.hash = "/setup/subject";
   });
 }
-
 function renderCatalog() {
   const filter = state.catalog;
   const levelItems = values("level");
@@ -640,7 +630,7 @@ window.addEventListener("hashchange", renderRoute);
 fetch("data/questions.json")
   .then(response => response.json())
   .then(data => {
-    state.questions = data;
+    state.questions = Array.isArray(data) ? data.map(normalizeQuestion) : [];
     state.wrongIds = new Set([...state.wrongIds].filter(id => data.some(question => question.id === id)));
     restoreActiveSession();
     renderRoute();
