@@ -18,13 +18,24 @@
 GitHub Pages 使用 `main` 分支根目錄，網址：
 `https://ryan112243.github.io/Knovatrix-Practice/`
 
-## A-ADS 廣告設定
+## 廣告設定
 
-在 `ads.js` 的 `AADS_UNITS` 填入 A-ADS 後台建立的四個 Ad Unit ID：
+`ads.js` 支援 A-ADS、Adsterra 與自有廣告。只會從已填妥資料的來源中隨機選擇：
 
-- `desktop-left`：160 x 600
-- `desktop-right`：160 x 600
-- `mobile-top`：320 x 100
-- `mobile-bottom`：320 x 100
+- 每次開啟網站時，各版位隨機選擇一個可用來源，該次瀏覽期間維持不變。
+- 自有廣告可輪替，預設每 45 秒更換；第三方廣告不做自動刷新。
+- 桌面使用 `desktop-left`、`desktop-right`，建議 160 x 600。
+- 手機使用 `mobile-top`、`mobile-bottom`，建議 320 x 50 或平台提供的自適應格式。
+- 1180px 以下只顯示內容上方與題目下方，廣告不固定浮動、不遮住作答控制。
 
-寬於 1180px 時只顯示左右側欄；1180px 以下時只顯示內容上方與題目下方。廣告不使用固定浮動，不會遮住作答控制。
+A-ADS：將四個 Ad Unit ID 填入 `AD_CONFIG.providers.aads.units`。
+
+Adsterra：依後台提供的廣告程式碼，把每個版位的 `key`、`scriptUrl`、`width`、`height` 填入 `AD_CONFIG.providers.adsterra.units`。
+
+自有廣告：在 `AD_CONFIG.providers.house.ads` 加入物件：
+
+```js
+{ title: "廣告標題", text: "簡短說明", href: "https://example.com", image: "https://example.com/ad.jpg" }
+```
+
+若加入多筆，自有廣告會依 `houseRotationMs` 輪替；設為 `0` 可停用輪替。
