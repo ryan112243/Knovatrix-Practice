@@ -18,6 +18,9 @@ const AD_CONFIG = {
       ads: [
         { title: "RollerCoin", text: "", href: "https://rollercoin.com/?r=mn67zsfp", image: "https://static.rollercoin.com/static/img/ref/gen3/w160h600.gif" },
         { title: "RollerCoin", text: "", href: "https://rollercoin.com/?r=mn67zsfp", image: "https://static.rollercoin.com/static/img/ref/gen2/w160h600.gif" }
+      ],
+      mobileAds: [
+        { title: "RollerCoin", text: "", href: "https://rollercoin.com/?r=mn67zsfp", image: "https://static.rollercoin.com/static/img/ref/gen3/w320h50.gif" }
       ]
     }
   }
@@ -46,7 +49,7 @@ function configuredProviders(placement) {
   if (AD_CONFIG.providers.aads.units[group]) providers.push("aads");
   const adsterra = AD_CONFIG.providers.adsterra.units[group];
   if (adsterra && adsterra.key && adsterra.scriptUrl) providers.push("adsterra");
-  if (group === "desktop" && AD_CONFIG.providers.house.ads.length) providers.push("house");
+  if ((group === "desktop" && AD_CONFIG.providers.house.ads.length) || (group === "mobile" && AD_CONFIG.providers.house.mobileAds.length)) providers.push("house");
   return providers;
 }
 
@@ -101,8 +104,9 @@ function renderAdsterra(slot, placement) {
   slot.append(frame);
 }
 
-function renderHouse(slot, index = 0) {
-  const ads = AD_CONFIG.providers.house.ads;
+function renderHouse(slot, placement, index = 0) {
+  const group = placementGroup(placement);
+  const ads = group === "mobile" ? AD_CONFIG.providers.house.mobileAds : AD_CONFIG.providers.house.ads;
   if (!ads.length) return;
   const ad = ads[index % ads.length];
   const link = document.createElement("a");
@@ -126,14 +130,14 @@ function renderHouse(slot, index = 0) {
   link.append(copy);
   slot.replaceChildren(link);
   slot.classList.add("has-ad");
-
   const oldTimer = houseTimers.get(slot);
   if (oldTimer) window.clearTimeout(oldTimer);
   if (ads.length > 1 && AD_CONFIG.houseRotationMs >= 15000) {
-    const timer = window.setTimeout(() => renderHouse(slot, index + 1), AD_CONFIG.houseRotationMs);
+    const timer = window.setTimeout(() => renderHouse(slot, placement, index + 1), AD_CONFIG.houseRotationMs);
     houseTimers.set(slot, timer);
   }
 }
+
 
 function mountAds() {
   document.querySelectorAll("[data-ad-slot]").forEach(slot => {
@@ -146,7 +150,7 @@ function mountAds() {
     slot.dataset.adProvider = provider;
     if (provider === "aads") renderAads(slot, placement);
     if (provider === "adsterra") renderAdsterra(slot, placement);
-    if (provider === "house") renderHouse(slot);
+    if (provider === "house") renderHouse(slot, placement);
   });
 }
 
