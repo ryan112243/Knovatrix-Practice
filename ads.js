@@ -10,8 +10,8 @@ const AD_CONFIG = {
     },
     adsterra: {
       units: {
-        desktop: { key: "", scriptUrl: "", width: 160, height: 600 },
-        mobile: { key: "", scriptUrl: "", width: 320, height: 50 }
+        desktop: { key: "a49d8a3918b8e39eccff0d57a4cb8f06", scriptUrl: "https://www.highperformanceformat.com/a49d8a3918b8e39eccff0d57a4cb8f06/invoke.js", width: 160, height: 600 },
+        mobile: { key: "ae80e9de9d4329b9b6d0a17ac3308aaf", scriptUrl: "https://www.highperformanceformat.com/ae80e9de9d4329b9b6d0a17ac3308aaf/invoke.js", width: 320, height: 50 }
       }
     },
     house: {
