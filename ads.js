@@ -26,7 +26,7 @@ const AD_CONFIG = {
   }
 };
 
-const AD_SESSION_KEY = "knovatrix-ad-provider-v1";
+const AD_SESSION_KEY = "knovatrix-ad-provider-v2";
 const houseTimers = new WeakMap();
 
 function adIsDesktop() {
@@ -66,7 +66,8 @@ function providerFor(placement) {
   if (!available.length) return "";
   const selected = readSessionSelections();
   if (!available.includes(selected[placement])) {
-    selected[placement] = available[Math.floor(Math.random() * available.length)];
+    const weighted = available.flatMap(provider => provider === "aads" ? [provider, provider, provider] : [provider]);
+    selected[placement] = weighted[Math.floor(Math.random() * weighted.length)];
     try { sessionStorage.setItem(AD_SESSION_KEY, JSON.stringify(selected)); } catch {}
   }
   return selected[placement];
