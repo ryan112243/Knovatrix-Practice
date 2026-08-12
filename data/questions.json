@@ -1,0 +1,8 @@
+﻿[
+  {"id":"demo-math-001","level":"國小資優","deck":"因數與倍數入門","subject":"數學","type":"mcq","prompt":"若 N = 2^3 × 3^2，N 的正因數共有幾個？","options":["5 個","12 個","18 個","24 個"],"answer":1,"explanation":"正因數個數為 (3+1)×(2+1)=12。","source":"Knovatrix 原創示範題"},
+  {"id":"demo-math-002","level":"國小資優","deck":"因數與倍數入門","subject":"數學","type":"mcq","prompt":"下列哪一個數一定是完全平方數的正因數個數？","options":["奇數","偶數","質數","都不一定"],"answer":0,"explanation":"只有完全平方數有一個成對後剩下的平方根，因此正因數個數為奇數。","source":"Knovatrix 原創示範題"},
+  {"id":"demo-junior-001","level":"國中資優","deck":"同餘與整除","subject":"數學","type":"mcq","prompt":"123 × 456 + 789 除以 7 的餘數是多少？","options":["0","1","2","6"],"answer":2,"explanation":"123、456、789 分別先取 7 的餘數，再計算即可。","source":"Knovatrix 原創示範題"},
+  {"id":"demo-junior-002","level":"國中資優","deck":"細胞構造","subject":"生物","type":"mcq","prompt":"植物細胞放入濃食鹽水後，最可能出現什麼現象？","options":["細胞膜消失","質壁分離","細胞核分裂","葉綠體增多"],"answer":1,"explanation":"外界溶液濃度較高，水分離開植物細胞，會產生質壁分離。","source":"Knovatrix 原創示範題"},
+  {"id":"demo-senior-001","level":"高中資優","deck":"線性迴歸與誤差","subject":"科學實作","type":"mcq","prompt":"最小平方法的迴歸直線 y=mx+c 中，截距 c 等於下列何者？","options":["x̄−mȳ","ȳ−mx̄","m−x̄ȳ","x̄ȳ−m"],"answer":1,"explanation":"截距 c = ȳ − m x̄。","source":"Knovatrix 原創示範題"},
+  {"id":"demo-senior-002","level":"高中資優","deck":"線性迴歸與誤差","subject":"科學實作","type":"short","prompt":"若 5 組數據的答對題數為 3、4、5、4、4，平均值是多少？","answer":"4","explanation":"總和 20 除以 5，平均為 4。","source":"Knovatrix 原創示範題"}
+]

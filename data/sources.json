@@ -1,0 +1,7 @@
+﻿{
+  "policy": "未取得明確重製授權的外部試題只保留來源索引，不在刷題站重製全文。",
+  "sources": [
+    {"name":"Knovatrix 主站題庫","url":"https://ryan112243.github.io/Knovatrix/#/","status":"待逐題授權或改寫"},
+    {"name":"外部競賽官方頁面","status":"保留外連，不自動抓取全文"}
+  ]
+}
