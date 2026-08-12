@@ -16,7 +16,8 @@ const AD_CONFIG = {
     },
     house: {
       ads: [
-        // { title: "??????", text: "?芬?貔??", href: "https://example.com", image: "https://example.com/ad.jpg" }
+        { title: "RollerCoin", text: "", href: "https://rollercoin.com/?r=mn67zsfp", image: "https://static.rollercoin.com/static/img/ref/gen3/w160h600.gif" },
+        { title: "RollerCoin", text: "", href: "https://rollercoin.com/?r=mn67zsfp", image: "https://static.rollercoin.com/static/img/ref/gen2/w160h600.gif" }
       ]
     }
   }
@@ -45,7 +46,7 @@ function configuredProviders(placement) {
   if (AD_CONFIG.providers.aads.units[group]) providers.push("aads");
   const adsterra = AD_CONFIG.providers.adsterra.units[group];
   if (adsterra && adsterra.key && adsterra.scriptUrl) providers.push("adsterra");
-  if (AD_CONFIG.providers.house.ads.length) providers.push("house");
+  if (group === "desktop" && AD_CONFIG.providers.house.ads.length) providers.push("house");
   return providers;
 }
 
@@ -81,7 +82,7 @@ function renderAads(slot, placement) {
   const group = placementGroup(placement);
   const unitId = AD_CONFIG.providers.aads.units[group];
   const size = group === "desktop" ? "160x600" : "320x50";
-  const frame = makeFrame("A-ADS 撱??");
+  const frame = makeFrame("A-ADS ???");
   frame.dataset.aa = unitId;
   frame.width = group === "desktop" ? 160 : 320;
   frame.height = group === "desktop" ? 600 : 50;
