@@ -5,7 +5,7 @@ const AD_CONFIG = {
     aads: {
       units: {
         desktop: "2451882",
-        mobile: ""
+        mobile: "2451883"
       }
     },
     adsterra: {
