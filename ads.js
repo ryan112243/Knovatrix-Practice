@@ -4,22 +4,19 @@ const AD_CONFIG = {
   providers: {
     aads: {
       units: {
-        // 桌面左右共用一組 160 x 600 單元；手機上下共用一組 320 x 50 單元。
-        desktop: "",
+        desktop: "2451882",
         mobile: ""
       }
     },
     adsterra: {
       units: {
-        // 填入 Adsterra 桌面廣告單元的 key 與 scriptUrl。
         desktop: { key: "", scriptUrl: "", width: 160, height: 600 },
-        // 填入 Adsterra 手機廣告單元的 key 與 scriptUrl。
         mobile: { key: "", scriptUrl: "", width: 320, height: 50 }
       }
     },
     house: {
       ads: [
-        // { title: "廣告標題", text: "簡短說明", href: "https://example.com", image: "https://example.com/ad.jpg" }
+        // { title: "??????", text: "?芬?貔??", href: "https://example.com", image: "https://example.com/ad.jpg" }
       ]
     }
   }
@@ -81,16 +78,21 @@ function makeFrame(title) {
 }
 
 function renderAads(slot, placement) {
-  const unitId = AD_CONFIG.providers.aads.units[placementGroup(placement)];
-  const frame = makeFrame("A-ADS 廣告");
+  const group = placementGroup(placement);
+  const unitId = AD_CONFIG.providers.aads.units[group];
+  const size = group === "desktop" ? "160x600" : "320x50";
+  const frame = makeFrame("A-ADS 撱??");
   frame.dataset.aa = unitId;
-  frame.src = `https://acceptable.a-ads.com/${unitId}/?size=Adaptive`;
+  frame.width = group === "desktop" ? 160 : 320;
+  frame.height = group === "desktop" ? 600 : 50;
+  frame.src = `https://ad.a-ads.com/${unitId}/?size=${size}`;
   slot.append(frame);
 }
 
+
 function renderAdsterra(slot, placement) {
   const unit = AD_CONFIG.providers.adsterra.units[placementGroup(placement)];
-  const frame = makeFrame("Adsterra 廣告");
+  const frame = makeFrame("Adsterra ???");
   frame.width = unit.width;
   frame.height = unit.height;
   const options = JSON.stringify({ key: unit.key, format: "iframe", height: unit.height, width: unit.width, params: {} });
