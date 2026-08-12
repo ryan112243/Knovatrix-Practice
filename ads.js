@@ -26,8 +26,8 @@ const AD_CONFIG = {
   }
 };
 
-const AD_SESSION_KEY = "knovatrix-ad-provider-v3";
-const houseTimers = new WeakMap();
+const AD_SESSION_KEY = "knovatrix-ad-provider-v4";
+const refreshTimers = new WeakMap();
 
 function adIsDesktop() {
   return window.matchMedia("(min-width: 1181px)").matches;
@@ -61,17 +61,20 @@ function readSessionSelections() {
   }
 }
 
-function providerFor(placement) {
+function providerFor(placement, excluded = "") {
   const available = configuredProviders(placement);
   if (!available.length) return "";
   const selected = readSessionSelections();
-  if (!available.includes(selected[placement])) {
-    const weights = { aads: 2, adsterra: 2, house: 1 };
-    const weighted = available.flatMap(provider => Array(weights[provider] || 1).fill(provider));
-    selected[placement] = weighted[Math.floor(Math.random() * weighted.length)];
-    try { sessionStorage.setItem(AD_SESSION_KEY, JSON.stringify(selected)); } catch {}
-  }
-  return selected[placement];
+  let candidates = available.filter(provider => provider !== excluded);
+  if (!candidates.length) candidates = available;
+  const weights = { aads: 2, adsterra: 2, house: 1 };
+  const weighted = candidates.flatMap(provider => Array(weights[provider] || 1).fill(provider));
+  const provider = excluded || !available.includes(selected[placement])
+    ? weighted[Math.floor(Math.random() * weighted.length)]
+    : selected[placement];
+  selected[placement] = provider;
+  try { sessionStorage.setItem(AD_SESSION_KEY, JSON.stringify(selected)); } catch {}
+  return provider;
 }
 
 
@@ -112,11 +115,11 @@ function renderAdsterra(slot, placement) {
   mountExternalFrame(slot, frame);
 }
 
-function renderHouse(slot, placement, index = 0) {
+function renderHouse(slot, placement) {
   const group = placementGroup(placement);
   const ads = group === "mobile" ? AD_CONFIG.providers.house.mobileAds : AD_CONFIG.providers.house.ads;
   if (!ads.length) return;
-  const ad = ads[index % ads.length];
+  const ad = ads[Math.floor(Math.random() * ads.length)];
   const link = document.createElement("a");
   link.className = "house-ad";
   link.href = ad.href;
@@ -137,30 +140,49 @@ function renderHouse(slot, placement, index = 0) {
   copy.append(title, description);
   link.append(copy);
   slot.replaceChildren(link);
-  slot.classList.add("has-ad");
-  const oldTimer = houseTimers.get(slot);
+}
+
+
+function renderProvider(slot, placement, provider) {
+  slot.replaceChildren();
+  slot.classList.toggle("has-ad", Boolean(provider));
+  slot.dataset.adProvider = provider;
+  if (provider === "aads") renderAads(slot, placement);
+  if (provider === "adsterra") renderAdsterra(slot, placement);
+  if (provider === "house") renderHouse(slot, placement);
+}
+
+
+function scheduleRefresh(slot, placement, provider) {
+  const oldTimer = refreshTimers.get(slot);
   if (oldTimer) window.clearTimeout(oldTimer);
-  if (ads.length > 1 && AD_CONFIG.houseRotationMs >= 15000) {
-    const timer = window.setTimeout(() => renderHouse(slot, placement, index + 1), AD_CONFIG.houseRotationMs);
-    houseTimers.set(slot, timer);
-  }
+  const timer = window.setTimeout(() => {
+    if (!slot.isConnected || !placementIsVisible(placement)) return;
+    const nextProvider = providerFor(placement, provider);
+    renderProvider(slot, placement, nextProvider);
+    scheduleRefresh(slot, placement, nextProvider);
+  }, 40000);
+  refreshTimers.set(slot, timer);
 }
 
 
 function mountAds() {
   document.querySelectorAll("[data-ad-slot]").forEach(slot => {
     const placement = slot.dataset.adSlot;
-    const provider = placementIsVisible(placement) ? providerFor(placement) : "";
-    const oldTimer = houseTimers.get(slot);
+    const oldTimer = refreshTimers.get(slot);
     if (oldTimer) window.clearTimeout(oldTimer);
-    slot.replaceChildren();
-    slot.classList.toggle("has-ad", Boolean(provider));
-    slot.dataset.adProvider = provider;
-    if (provider === "aads") renderAads(slot, placement);
-    if (provider === "adsterra") renderAdsterra(slot, placement);
-    if (provider === "house") renderHouse(slot, placement);
+    if (!placementIsVisible(placement)) {
+      slot.replaceChildren();
+      slot.classList.remove("has-ad");
+      slot.dataset.adProvider = "";
+      return;
+    }
+    const provider = providerFor(placement);
+    renderProvider(slot, placement, provider);
+    scheduleRefresh(slot, placement, provider);
   });
 }
+
 
 let resizeTimer;
 window.addEventListener("resize", () => {
