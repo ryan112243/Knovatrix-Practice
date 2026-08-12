@@ -14,3 +14,4 @@ footer span{max-width:760px}
 @media(max-width:1180px){.practice-layout{width:min(calc(100% - 24px),1080px)}}
 @media(max-width:760px){.practice-layout{width:calc(100% - 24px)}footer span{max-width:38rem}}
 .question-text sup,.library-table sup,.choice sup,.feedback sup{font-size:.7em;line-height:0;vertical-align:super}
+.builder-select{display:grid;max-width:420px;gap:6px;color:var(--muted);font-size:12px;font-weight:800}.builder-select select{width:100%;min-height:46px;padding:10px 42px 10px 12px;border:1px solid var(--line);border-radius:7px;color:var(--ink);background:var(--white);font-size:15px;font-weight:800;cursor:pointer}.builder-select select:focus{outline:3px solid rgba(27,102,87,.16);border-color:var(--forest2)}
