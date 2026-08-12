@@ -1,5 +1,5 @@
 ﻿[
-  {"id":"e-math-001","level":"國小資優","deck":"因數與倍數","subject":"數學","type":"mcq","prompt":"若 N = 2^3 × 3^2，N 的正因數共有幾個？","options":["5 個","12 個","18 個","24 個"],"answer":1,"explanation":"正因數個數為 (3+1)×(2+1)=12。","source":"Knovatrix 原創題"},
+  {"id":"e-math-001","level":"國小資優","deck":"因數與倍數","subject":"數學","type":"mcq","prompt":"若 N = 2³ × 3²，N 的正因數共有幾個？","options":["5 個","12 個","18 個","24 個"],"answer":1,"explanation":"正因數個數為 (3+1)×(2+1)=12。","source":"Knovatrix 原創題"},
   {"id":"e-math-002","level":"國小資優","deck":"因數與倍數","subject":"數學","type":"mcq","prompt":"下列何者的正因數個數一定是奇數？","options":["完全平方數","質數","偶數","合數"],"answer":0,"explanation":"完全平方數有一個不成對的平方根，因此正因數個數為奇數。","source":"Knovatrix 原創題"},
   {"id":"e-math-003","level":"國小資優","deck":"因數與倍數","subject":"數學","type":"short","prompt":"84 和 126 的最大公因數是多少？","answer":"42","explanation":"84=2²×3×7，126=2×3²×7，共同質因數相乘為 42。","source":"Knovatrix 原創題"},
   {"id":"e-geo-001","level":"國小資優","deck":"面積與格點圖形","subject":"數學","type":"mcq","prompt":"兩個三角形共用頂點，且底邊在同一直線上。若底邊長比為 3:5，面積比為何？","options":["3:5","5:3","9:25","無法判斷"],"answer":0,"explanation":"共頂點且底邊共線時兩三角形等高，面積比等於底邊比。","source":"Knovatrix 原創題"},

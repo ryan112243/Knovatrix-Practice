@@ -13,3 +13,4 @@ footer{padding-inline:max(16px,calc((100vw - 1560px)/2 + 10px))}
 footer span{max-width:760px}
 @media(max-width:1180px){.practice-layout{width:min(calc(100% - 24px),1080px)}}
 @media(max-width:760px){.practice-layout{width:calc(100% - 24px)}footer span{max-width:38rem}}
+.question-text sup,.library-table sup,.choice sup,.feedback sup{font-size:.7em;line-height:0;vertical-align:super}
