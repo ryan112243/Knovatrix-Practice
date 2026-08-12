@@ -1,22 +1,20 @@
-﻿const AD_CONFIG = {
+const AD_CONFIG = {
   mode: "random-per-visit",
   houseRotationMs: 45000,
   providers: {
     aads: {
       units: {
-        "desktop-left": "",
-        "desktop-right": "",
-        "mobile-top": "",
-        "mobile-bottom": ""
+        // 桌面左右共用一組 160 x 600 單元；手機上下共用一組 320 x 50 單元。
+        desktop: "",
+        mobile: ""
       }
     },
     adsterra: {
       units: {
-        // Copy the key and script URL from each Adsterra ad-unit code.
-        "desktop-left": { key: "", scriptUrl: "", width: 160, height: 600 },
-        "desktop-right": { key: "", scriptUrl: "", width: 160, height: 600 },
-        "mobile-top": { key: "", scriptUrl: "", width: 320, height: 50 },
-        "mobile-bottom": { key: "", scriptUrl: "", width: 320, height: 50 }
+        // 填入 Adsterra 桌面廣告單元的 key 與 scriptUrl。
+        desktop: { key: "", scriptUrl: "", width: 160, height: 600 },
+        // 填入 Adsterra 手機廣告單元的 key 與 scriptUrl。
+        mobile: { key: "", scriptUrl: "", width: 320, height: 50 }
       }
     },
     house: {
@@ -34,16 +32,21 @@ function adIsDesktop() {
   return window.matchMedia("(min-width: 1181px)").matches;
 }
 
+function placementGroup(placement) {
+  return placement === "desktop-left" || placement === "desktop-right" ? "desktop" : "mobile";
+}
+
 function placementIsVisible(placement) {
   return adIsDesktop()
-    ? placement === "desktop-left" || placement === "desktop-right"
-    : placement === "mobile-top" || placement === "mobile-bottom";
+    ? placementGroup(placement) === "desktop"
+    : placementGroup(placement) === "mobile";
 }
 
 function configuredProviders(placement) {
+  const group = placementGroup(placement);
   const providers = [];
-  if (AD_CONFIG.providers.aads.units[placement]) providers.push("aads");
-  const adsterra = AD_CONFIG.providers.adsterra.units[placement];
+  if (AD_CONFIG.providers.aads.units[group]) providers.push("aads");
+  const adsterra = AD_CONFIG.providers.adsterra.units[group];
   if (adsterra && adsterra.key && adsterra.scriptUrl) providers.push("adsterra");
   if (AD_CONFIG.providers.house.ads.length) providers.push("house");
   return providers;
@@ -78,7 +81,7 @@ function makeFrame(title) {
 }
 
 function renderAads(slot, placement) {
-  const unitId = AD_CONFIG.providers.aads.units[placement];
+  const unitId = AD_CONFIG.providers.aads.units[placementGroup(placement)];
   const frame = makeFrame("A-ADS 廣告");
   frame.dataset.aa = unitId;
   frame.src = `https://acceptable.a-ads.com/${unitId}/?size=Adaptive`;
@@ -86,7 +89,7 @@ function renderAads(slot, placement) {
 }
 
 function renderAdsterra(slot, placement) {
-  const unit = AD_CONFIG.providers.adsterra.units[placement];
+  const unit = AD_CONFIG.providers.adsterra.units[placementGroup(placement)];
   const frame = makeFrame("Adsterra 廣告");
   frame.width = unit.width;
   frame.height = unit.height;
