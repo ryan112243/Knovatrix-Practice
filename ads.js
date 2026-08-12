@@ -26,7 +26,7 @@ const AD_CONFIG = {
   }
 };
 
-const AD_SESSION_KEY = "knovatrix-ad-provider-v2";
+const AD_SESSION_KEY = "knovatrix-ad-provider-v3";
 const houseTimers = new WeakMap();
 
 function adIsDesktop() {
@@ -66,12 +66,14 @@ function providerFor(placement) {
   if (!available.length) return "";
   const selected = readSessionSelections();
   if (!available.includes(selected[placement])) {
-    const weighted = available.flatMap(provider => provider === "aads" ? [provider, provider, provider] : [provider]);
+    const weights = { aads: 2, adsterra: 2, house: 1 };
+    const weighted = available.flatMap(provider => Array(weights[provider] || 1).fill(provider));
     selected[placement] = weighted[Math.floor(Math.random() * weighted.length)];
     try { sessionStorage.setItem(AD_SESSION_KEY, JSON.stringify(selected)); } catch {}
   }
   return selected[placement];
 }
+
 
 function makeFrame(title) {
   const frame = document.createElement("iframe");
@@ -82,34 +84,7 @@ function makeFrame(title) {
   return frame;
 }
 
-function mountExternalFrame(slot, frame, placement) {
-  let settled = false;
-  let fallbackTimer;
-  const fallback = () => {
-    if (settled) return;
-    settled = true;
-    if (fallbackTimer) window.clearTimeout(fallbackTimer);
-    renderHouse(slot, placement);
-  };
-  frame.addEventListener("error", fallback, { once: true });
-  frame.addEventListener("load", () => {
-    window.setTimeout(() => {
-      try {
-        const body = frame.contentDocument?.body;
-        const hasAdContent = !body || body.querySelector("iframe, img, video, object, embed, a") || body.children.length > 2;
-        if (hasAdContent) {
-          settled = true;
-          if (fallbackTimer) window.clearTimeout(fallbackTimer);
-        } else {
-          fallback();
-        }
-      } catch {
-        settled = true;
-        if (fallbackTimer) window.clearTimeout(fallbackTimer);
-      }
-    }, 1800);
-  }, { once: true });
-  fallbackTimer = window.setTimeout(fallback, 6000);
+function mountExternalFrame(slot, frame) {
   slot.append(frame);
 }
 
@@ -123,7 +98,7 @@ function renderAads(slot, placement) {
   frame.width = group === "desktop" ? 160 : 320;
   frame.height = group === "desktop" ? 600 : 50;
   frame.src = `https://ad.a-ads.com/${unitId}/?size=${size}`;
-  mountExternalFrame(slot, frame, placement);
+  mountExternalFrame(slot, frame);
 }
 
 
@@ -134,7 +109,7 @@ function renderAdsterra(slot, placement) {
   frame.height = unit.height;
   const options = JSON.stringify({ key: unit.key, format: "iframe", height: unit.height, width: unit.width, params: {} });
   frame.srcdoc = `<!doctype html><html><body style="margin:0;display:grid;place-items:center;min-height:100vh;overflow:hidden"><script>atOptions=${options}<\/script><script src="${unit.scriptUrl}"><\/script></body></html>`;
-  mountExternalFrame(slot, frame, placement);
+  mountExternalFrame(slot, frame);
 }
 
 function renderHouse(slot, placement, index = 0) {
