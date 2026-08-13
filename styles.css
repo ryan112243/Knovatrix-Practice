@@ -204,6 +204,10 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
 .question-title>span{display:grid;width:38px;height:38px;place-items:center;border-radius:7px;color:#fff;background:var(--forest);font-size:12px;font-weight:900}
 .question-title h1{margin:2px 0 0;font-size:21px;line-height:1.55}
 .question-title sup,.unit-row sup,.choice sup,.answer-feedback sup,.review-list sup,.wrong-list sup{font-size:.7em;line-height:0;vertical-align:super}
+.fraction{display:inline-grid;grid-template-rows:auto auto;vertical-align:middle;margin:0 .08em;line-height:1.05;text-align:center}
+.fraction>span:first-child{padding:0 .14em .05em;border-bottom:1px solid currentColor}
+.fraction>span:last-child{padding:.05em .14em 0}
+.overline{text-decoration:overline}
 .choices{display:grid;gap:9px}
 .choice{display:grid;grid-template-columns:auto 30px minmax(0,1fr);gap:9px;align-items:start;padding:12px;border:1px solid var(--line);border-radius:8px;background:#fbfcf9;cursor:pointer}
 .choice:hover,.choice.selected{border-color:var(--forest-2);background:var(--mint)}

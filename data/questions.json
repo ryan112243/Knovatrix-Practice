@@ -1,1 +1,4202 @@
-[]
+[
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-01-mcq",
+    "prompt": "將純循環小數 $0.\\overline{7}$ 化為分數，下列何者正確？",
+    "options": [
+      "7/10",
+      "7/9",
+      "7/11",
+      "7/99"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-01-short",
+    "prompt": "將純循環小數 $0.\\overline{7}$ 化為分數，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "7/9"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-02-mcq",
+    "prompt": "將 $0.\\overline{45}$ 化為最簡分數，其結果為何？",
+    "options": [
+      "5/11",
+      "45/100",
+      "9/20",
+      "4/9"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-02-short",
+    "prompt": "將 $0.\\overline{45}$ 化為最簡分數，其結果為何？\n請在下方填入正確答案。",
+    "answer": "5/11"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-03-mcq",
+    "prompt": "混循環小數 $0.1\\overline{2}$ 化為分數時，分母應該是多少？",
+    "options": [
+      "99",
+      "90",
+      "990",
+      "900"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-03-short",
+    "prompt": "混循環小數 $0.1\\overline{2}$ 化為分數時，分母應該是多少？\n請在下方填入正確答案。",
+    "answer": "90"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-04-mcq",
+    "prompt": "將混循環小數 $0.2\\overline{34}$ 化為分數，其「分子」的計算方式為何？",
+    "options": [
+      "234 - 2",
+      "234 - 23",
+      "234",
+      "234 - 34"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-04-short",
+    "prompt": "將混循環小數 $0.2\\overline{34}$ 化為分數，其「分子」的計算方式為何？\n請在下方填入正確答案。",
+    "answer": "234 - 2"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-05-mcq",
+    "prompt": "若一個純循環小數的循環節有 3 位（如 $0.\\overline{123}$），其分數形式的分母會是幾個 9？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "4 個"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-05-short",
+    "prompt": "若一個純循環小數的循環節有 3 位（如 $0.\\overline{123}$），其分數形式的分母會是幾個 9？\n請在下方填入正確答案。",
+    "answer": "3 個"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-06-mcq",
+    "prompt": "計算 $0.\\overline{3} + 0.\\overline{6}$ 的結果為何？",
+    "options": [
+      "0.9",
+      "1",
+      "1.1",
+      "$0.\\overline{99}$"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-06-short",
+    "prompt": "計算 $0.\\overline{3} + 0.\\overline{6}$ 的結果為何？\n請在下方填入正確答案。",
+    "answer": "1"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-07-mcq",
+    "prompt": "將 $0.3\\overline{5}$ 化為最簡分數，下列何者正確？",
+    "options": [
+      "35/99",
+      "35/90",
+      "16/45",
+      "32/99"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-07-short",
+    "prompt": "將 $0.3\\overline{5}$ 化為最簡分數，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "16/45"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-08-mcq",
+    "prompt": "比較大小：$a = 0.45$，$b = 0.\\overline{45}$，$c = 0.4\\overline{5}$，下列關係何者正確？",
+    "options": [
+      "c > b > a",
+      "b > c > a",
+      "a > b > c",
+      "c > a > b"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-08-short",
+    "prompt": "比較大小：$a = 0.45$，$b = 0.\\overline{45}$，$c = 0.4\\overline{5}$，下列關係何者正確？\n請在下方填入正確答案。",
+    "answer": "c > b > a"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-09-mcq",
+    "prompt": "若 $0.\\overline{a} = 7/9$，則 $a$ 的值為何？",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-09-short",
+    "prompt": "若 $0.\\overline{a} = 7/9$，則 $a$ 的值為何？\n請在下方填入正確答案。",
+    "answer": "7"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-10-mcq",
+    "prompt": "已知 $1/7 = 0.\\overline{142857}$，請問化為小數後，小數點後第 50 位數字是多少？",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-10-short",
+    "prompt": "已知 $1/7 = 0.\\overline{142857}$，請問化為小數後，小數點後第 50 位數字是多少？\n請在下方填入正確答案。",
+    "answer": "4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-11-mcq",
+    "prompt": "小廚師調配獨門醬汁，其中糖與鹽的比例寫著 $0.\\overline{27}$。請問這個比例化成最簡分數後是多少？",
+    "options": [
+      "27/100",
+      "3/10",
+      "3/11",
+      "9/33"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-11-short",
+    "prompt": "小廚師調配獨門醬汁，其中糖與鹽的比例寫著 $0.\\overline{27}$。請問這個比例化成最簡分數後是多少？\n請在下方填入正確答案。",
+    "answer": "3/11"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-12-mcq",
+    "prompt": "科學家測量一段雷射光的誤差值為 $0.1\\overline{6}$ 公分，為了方便紀錄，他想化為最簡分數，應為多少？",
+    "options": [
+      "1/6",
+      "1/5",
+      "4/25",
+      "8/45"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-12-short",
+    "prompt": "科學家測量一段雷射光的誤差值為 $0.1\\overline{6}$ 公分，為了方便紀錄，他想化為最簡分數，應為多少？\n請在下方填入正確答案。",
+    "answer": "1/6"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（36/99 = 4/11，4+11=15）",
+    "id": "elementary-gifted-fractions-13-mcq",
+    "prompt": "解密遊戲中，通關密碼是 $0.\\overline{36}$ 最簡分數的「分子與分母之和」。請問密碼是多少？",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "循環小數極速轉換",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（36/99 = 4/11，4+11=15）",
+    "id": "elementary-gifted-fractions-13-short",
+    "prompt": "解密遊戲中，通關密碼是 $0.\\overline{36}$ 最簡分數的「分子與分母之和」。請問密碼是多少？\n請在下方填入正確答案。",
+    "answer": "15"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-14-mcq",
+    "prompt": "關於「真分數」，若分子與分母同時加上同一個正數，其數值會如何變化？",
+    "options": [
+      "變大",
+      "變小",
+      "不變",
+      "變成 1"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-14-short",
+    "prompt": "關於「真分數」，若分子與分母同時加上同一個正數，其數值會如何變化？\n請在下方填入正確答案。",
+    "answer": "變大"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-15-mcq",
+    "prompt": "關於「假分數」，若分子與分母同時加上同一個正數，其數值會如何變化？",
+    "options": [
+      "變大",
+      "變小",
+      "不變",
+      "變成 1"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-15-short",
+    "prompt": "關於「假分數」，若分子與分母同時加上同一個正數，其數值會如何變化？\n請在下方填入正確答案。",
+    "answer": "變小"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-16-mcq",
+    "prompt": "真分數或假分數，若分子分母不斷同加極大的正數，其數值最後都會越來越接近哪一個數字？",
+    "options": [
+      "0",
+      "1",
+      "100",
+      "無限大"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-16-short",
+    "prompt": "真分數或假分數，若分子分母不斷同加極大的正數，其數值最後都會越來越接近哪一個數字？\n請在下方填入正確答案。",
+    "answer": "1"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-17-mcq",
+    "prompt": "將 $3/5$ 的分子分母同加 2 變成 $5/7$，請問 $3/5$ 和 $5/7$ 誰比較大？",
+    "options": [
+      "3/5",
+      "5/7",
+      "一樣大",
+      "無法比較"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-17-short",
+    "prompt": "將 $3/5$ 的分子分母同加 2 變成 $5/7$，請問 $3/5$ 和 $5/7$ 誰比較大？\n請在下方填入正確答案。",
+    "answer": "5/7"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-18-mcq",
+    "prompt": "將 $7/4$ 的分子分母同加 3 變成 $10/7$，請問 $7/4$ 和 $10/7$ 誰比較大？",
+    "options": [
+      "7/4",
+      "10/7",
+      "一樣大",
+      "無法比較"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-18-short",
+    "prompt": "將 $7/4$ 的分子分母同加 3 變成 $10/7$，請問 $7/4$ 和 $10/7$ 誰比較大？\n請在下方填入正確答案。",
+    "answer": "7/4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-19-mcq",
+    "prompt": "比較 $a = 99/100$ 與 $b = 100/101$ 的大小，下列何者正確？",
+    "options": [
+      "a > b",
+      "a < b",
+      "a = b",
+      "條件不足"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-19-short",
+    "prompt": "比較 $a = 99/100$ 與 $b = 100/101$ 的大小，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "a < b"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-20-mcq",
+    "prompt": "比較 $x = 101/100$ 與 $y = 102/101$ 的大小，下列何者正確？",
+    "options": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "條件不足"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-20-short",
+    "prompt": "比較 $x = 101/100$ 與 $y = 102/101$ 的大小，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "x > y"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-21-mcq",
+    "prompt": "若 $A = \\frac{12345}{12346}$，且 $B = \\frac{23456}{23457}$，則 A 與 B 的大小關係為？",
+    "options": [
+      "A > B",
+      "A < B",
+      "A = B",
+      "無法比較"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-21-short",
+    "prompt": "若 $A = \\frac{12345}{12346}$，且 $B = \\frac{23456}{23457}$，則 A 與 B 的大小關係為？\n請在下方填入正確答案。",
+    "answer": "A < B"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（加正數會變小，反之減正數會變大）",
+    "id": "elementary-gifted-fractions-22-mcq",
+    "prompt": "有一個假分數 $x/y$，若分子分母同時「減去」一個正數 $c$（且 $y > c$），其數值會如何變化？",
+    "options": [
+      "變大",
+      "變小",
+      "不變",
+      "接近 1"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（加正數會變小，反之減正數會變大）",
+    "id": "elementary-gifted-fractions-22-short",
+    "prompt": "有一個假分數 $x/y$，若分子分母同時「減去」一個正數 $c$（且 $y > c$），其數值會如何變化？\n請在下方填入正確答案。",
+    "answer": "變大"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-23-mcq",
+    "prompt": "若 $p/q$ 是真分數，$m$ 為正整數，比較 $p/q$ 與 $(p+m)/(q+m)$ 的大小。",
+    "options": [
+      "前者大",
+      "後者大",
+      "一樣大",
+      "不一定"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-23-short",
+    "prompt": "若 $p/q$ 是真分數，$m$ 為正整數，比較 $p/q$ 與 $(p+m)/(q+m)$ 的大小。\n請在下方填入正確答案。",
+    "answer": "後者大"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-24-mcq",
+    "prompt": "小華本季籃球投籃命中率為 $5/8$（5中/8投），接下來的 2 球他都投進了，命中率變成 $7/10$。請問他的命中率數值發生了什麼變化？",
+    "options": [
+      "上升",
+      "下降",
+      "不變",
+      "先降後升"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-24-short",
+    "prompt": "小華本季籃球投籃命中率為 $5/8$（5中/8投），接下來的 2 球他都投進了，命中率變成 $7/10$。請問他的命中率數值發生了什麼變化？\n請在下方填入正確答案。",
+    "answer": "上升"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-25-mcq",
+    "prompt": "某班男女比原為 $20/15$（男/女），新學期轉入男生 2 人、女生 2 人，比例變成 $22/17$。請問「男女比例」這個數值變大還是變小了？",
+    "options": [
+      "變大",
+      "變小",
+      "不變",
+      "變成了 1"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-25-short",
+    "prompt": "某班男女比原為 $20/15$（男/女），新學期轉入男生 2 人、女生 2 人，比例變成 $22/17$。請問「男女比例」這個數值變大還是變小了？\n請在下方填入正確答案。",
+    "answer": "變小"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（80/100 < 100/120，數值變大代表折數變高、變貴）",
+    "id": "elementary-gifted-fractions-26-mcq",
+    "prompt": "服飾店週年慶，原價 100 元賣 80 元（折數比為 $80/100$）。後來老闆宣布售價跟原價都同時調漲 20 元，變成 $100/120$。對消費者而言，新的折數比是變划算（數值變小）還是變貴（數值變大）？",
+    "options": [
+      "變划算",
+      "變貴",
+      "完全一樣",
+      "無法計算"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "真假分數的極限差分",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（80/100 < 100/120，數值變大代表折數變高、變貴）",
+    "id": "elementary-gifted-fractions-26-short",
+    "prompt": "服飾店週年慶，原價 100 元賣 80 元（折數比為 $80/100$）。後來老闆宣布售價跟原價都同時調漲 20 元，變成 $100/120$。對消費者而言，新的折數比是變划算（數值變小）還是變貴（數值變大）？\n請在下方填入正確答案。",
+    "answer": "變貴"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-27-mcq",
+    "prompt": "分數 $\\frac{1}{2 \\times 3}$ 根據裂項相消的心法，可以拆解成下列何者？",
+    "options": [
+      "1/2 + 1/3",
+      "1/2 - 1/3",
+      "1/2 * 1/3",
+      "1/2 ÷ 1/3"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-27-short",
+    "prompt": "分數 $\\frac{1}{2 \\times 3}$ 根據裂項相消的心法，可以拆解成下列何者？\n請在下方填入正確答案。",
+    "answer": "1/2 - 1/3"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-28-mcq",
+    "prompt": "代數型態的裂項 $\\frac{1}{n(n+1)}$，可以化簡為什麼形式？",
+    "options": [
+      "$\\frac{1}{n} - \\frac{1}{n+1}$",
+      "$\\frac{1}{n} + \\frac{1}{n+1}$",
+      "$n - (n+1)$",
+      "$\\frac{n}{n+1}$"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-28-short",
+    "prompt": "代數型態的裂項 $\\frac{1}{n(n+1)}$，可以化簡為什麼形式？\n請在下方填入正確答案。",
+    "answer": "$\\frac{1}{n} - \\frac{1}{n+1}$"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-29-mcq",
+    "prompt": "裂項相消法在數學速算中，最常被用來處理哪一種題型？",
+    "options": [
+      "繁分數化簡",
+      "循環小數加減",
+      "長串規律分數相加",
+      "最小公倍數求值"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-29-short",
+    "prompt": "裂項相消法在數學速算中，最常被用來處理哪一種題型？\n請在下方填入正確答案。",
+    "answer": "長串規律分數相加"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-30-mcq",
+    "prompt": "計算 $\\frac{1}{1 \\times 2} + \\frac{1}{2 \\times 3}$ 的結果為何？",
+    "options": [
+      "1/2",
+      "2/3",
+      "5/6",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-30-short",
+    "prompt": "計算 $\\frac{1}{1 \\times 2} + \\frac{1}{2 \\times 3}$ 的結果為何？\n請在下方填入正確答案。",
+    "answer": "2/3"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-31-mcq",
+    "prompt": "進階型裂項公式 $\\frac{1}{n(n+k)}$，應等於下列何者？",
+    "options": [
+      "$\\frac{1}{n} - \\frac{1}{n+k}$",
+      "$\\frac{1}{k}(\\frac{1}{n} - \\frac{1}{n+k})$",
+      "$k(\\frac{1}{n} - \\frac{1}{n+k})$",
+      "$\\frac{k}{n} - \\frac{1}{n+k}$"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-31-short",
+    "prompt": "進階型裂項公式 $\\frac{1}{n(n+k)}$，應等於下列何者？\n請在下方填入正確答案。",
+    "answer": "$\\frac{1}{k}(\\frac{1}{n} - \\frac{1}{n+k})$"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-32-mcq",
+    "prompt": "求 $\\frac{1}{1 \\times 2} + \\frac{1}{2 \\times 3} + ... + \\frac{1}{9 \\times 10}$ 的總和為何？",
+    "options": [
+      "9/10",
+      "8/9",
+      "10/11",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-32-short",
+    "prompt": "求 $\\frac{1}{1 \\times 2} + \\frac{1}{2 \\times 3} + ... + \\frac{1}{9 \\times 10}$ 的總和為何？\n請在下方填入正確答案。",
+    "answer": "9/10"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-33-mcq",
+    "prompt": "計算 $\\frac{1}{1 \\times 3} + \\frac{1}{3 \\times 5} + \\frac{1}{5 \\times 7}$ 的結果為何？",
+    "options": [
+      "6/7",
+      "3/7",
+      "4/7",
+      "5/7"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-33-short",
+    "prompt": "計算 $\\frac{1}{1 \\times 3} + \\frac{1}{3 \\times 5} + \\frac{1}{5 \\times 7}$ 的結果為何？\n請在下方填入正確答案。",
+    "answer": "3/7"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-34-mcq",
+    "prompt": "觀察數列相加：$\\frac{1}{3 \\times 7} + \\frac{1}{7 \\times 11} + \\frac{1}{11 \\times 15}$，套用進階裂項公式時，其分母差值 $k$ 為何？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-34-short",
+    "prompt": "觀察數列相加：$\\frac{1}{3 \\times 7} + \\frac{1}{7 \\times 11} + \\frac{1}{11 \\times 15}$，套用進階裂項公式時，其分母差值 $k$ 為何？\n請在下方填入正確答案。",
+    "answer": "4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（分子已等於差值，可直接消，結果為 $1 - 1/101$）",
+    "id": "elementary-gifted-fractions-35-mcq",
+    "prompt": "快速計算 $\\frac{2}{1 \\times 3} + \\frac{2}{3 \\times 5} + ... + \\frac{2}{99 \\times 101}$ 的結果為？",
+    "options": [
+      "100/101",
+      "50/101",
+      "99/100",
+      "1/101"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（分子已等於差值，可直接消，結果為 $1 - 1/101$）",
+    "id": "elementary-gifted-fractions-35-short",
+    "prompt": "快速計算 $\\frac{2}{1 \\times 3} + \\frac{2}{3 \\times 5} + ... + \\frac{2}{99 \\times 101}$ 的結果為？\n請在下方填入正確答案。",
+    "answer": "100/101"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-36-mcq",
+    "prompt": "機器人排骨牌，排第 1 層需 $\\frac{1}{1 \\times 2}$ 秒，第 2 層需 $\\frac{1}{2 \\times 3}$ 秒，以此類推。排完 99 層總共花了多少秒？",
+    "options": [
+      "98/99",
+      "99/100",
+      "1",
+      "100/101"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-36-short",
+    "prompt": "機器人排骨牌，排第 1 層需 $\\frac{1}{1 \\times 2}$ 秒，第 2 層需 $\\frac{1}{2 \\times 3}$ 秒，以此類推。排完 99 層總共花了多少秒？\n請在下方填入正確答案。",
+    "answer": "99/100"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-37-mcq",
+    "prompt": "植樹節活動中，每個班級負責的區域面積剛好呈現 $\\frac{1}{2 \\times 4} + \\frac{1}{4 \\times 6} + \\frac{1}{6 \\times 8} ...$ 的規律。若要快速算出總面積，應使用何種數學心法？",
+    "options": [
+      "繁分數化簡",
+      "真假分數極限",
+      "裂項相消",
+      "循環小數轉換"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-37-short",
+    "prompt": "植樹節活動中，每個班級負責的區域面積剛好呈現 $\\frac{1}{2 \\times 4} + \\frac{1}{4 \\times 6} + \\frac{1}{6 \\times 8} ...$ 的規律。若要快速算出總面積，應使用何種數學心法？\n請在下方填入正確答案。",
+    "answer": "裂項相消"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（1/3 * (1 - 1/7) = 2/7）",
+    "id": "elementary-gifted-fractions-38-mcq",
+    "prompt": "某國小舉辦接力賽，每棒距離是 $\\frac{1}{n(n+3)}$ 公里。第一棒 $n=1$，第二棒 $n=4$。若只跑兩棒，總距離是多少公里？",
+    "options": [
+      "2/7",
+      "3/7",
+      "2/21",
+      "5/21"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "裂項相消",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（1/3 * (1 - 1/7) = 2/7）",
+    "id": "elementary-gifted-fractions-38-short",
+    "prompt": "某國小舉辦接力賽，每棒距離是 $\\frac{1}{n(n+3)}$ 公里。第一棒 $n=1$，第二棒 $n=4$。若只跑兩棒，總距離是多少公里？\n請在下方填入正確答案。",
+    "answer": "2/7"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-39-mcq",
+    "prompt": "化簡繁分數時，最快且最不容易算錯的核心心法為何？",
+    "options": [
+      "大分子與大分母同乘所有「小分母的最小公倍數」",
+      "大分子與大分母直接交叉相乘",
+      "統一換成小數再相除",
+      "將分數顛倒相加"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-39-short",
+    "prompt": "化簡繁分數時，最快且最不容易算錯的核心心法為何？\n請在下方填入正確答案。",
+    "answer": "大分子與大分母同乘所有「小分母的最小公倍數」"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-40-mcq",
+    "prompt": "若要化簡 $\\frac{1/2}{1/3}$，大分子與大分母應該同乘以多少最快？",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-40-short",
+    "prompt": "若要化簡 $\\frac{1/2}{1/3}$，大分子與大分母應該同乘以多少最快？\n請在下方填入正確答案。",
+    "answer": "6"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-41-mcq",
+    "prompt": "承上題，化簡 $\\frac{1/2}{1/3}$ 的最終結果為何？",
+    "options": [
+      "2/3",
+      "3/2",
+      "1/6",
+      "6"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-41-short",
+    "prompt": "承上題，化簡 $\\frac{1/2}{1/3}$ 的最終結果為何？\n請在下方填入正確答案。",
+    "answer": "3/2"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-42-mcq",
+    "prompt": "若繁分數的分子為 $3/4$，分母為 $1/2$，化簡時同乘的最小公倍數為何？",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "12"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-42-short",
+    "prompt": "若繁分數的分子為 $3/4$，分母為 $1/2$，化簡時同乘的最小公倍數為何？\n請在下方填入正確答案。",
+    "answer": "4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-43-mcq",
+    "prompt": "化簡 $\\frac{1/2 + 1/3}{1/4 + 1/6}$ 時，大分子與大分母應同乘以多少？",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "48"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-43-short",
+    "prompt": "化簡 $\\frac{1/2 + 1/3}{1/4 + 1/6}$ 時，大分子與大分母應同乘以多少？\n請在下方填入正確答案。",
+    "answer": "12"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（同乘 12 後變成 (6+4)/(3+2) = 10/5 = 2）",
+    "id": "elementary-gifted-fractions-44-mcq",
+    "prompt": "承上題，$\\frac{1/2 + 1/3}{1/4 + 1/6}$ 的計算結果為何？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1/2"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（同乘 12 後變成 (6+4)/(3+2) = 10/5 = 2）",
+    "id": "elementary-gifted-fractions-44-short",
+    "prompt": "承上題，$\\frac{1/2 + 1/3}{1/4 + 1/6}$ 的計算結果為何？\n請在下方填入正確答案。",
+    "answer": "2"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-45-mcq",
+    "prompt": "試求 $\\frac{1 - 1/5}{1 + 1/5}$ 的值為何？",
+    "options": [
+      "2/3",
+      "3/2",
+      "4/5",
+      "5/6"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-45-short",
+    "prompt": "試求 $\\frac{1 - 1/5}{1 + 1/5}$ 的值為何？\n請在下方填入正確答案。",
+    "answer": "2/3"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（同乘 12 後變成 (4-3)/6 = 1/6）",
+    "id": "elementary-gifted-fractions-46-mcq",
+    "prompt": "化簡 $\\frac{1/3 - 1/4}{1/2}$ 的結果為？",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/4",
+      "1/3"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（同乘 12 後變成 (4-3)/6 = 1/6）",
+    "id": "elementary-gifted-fractions-46-short",
+    "prompt": "化簡 $\\frac{1/3 - 1/4}{1/2}$ 的結果為？\n請在下方填入正確答案。",
+    "answer": "1/6"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-47-mcq",
+    "prompt": "計算 $\\frac{2}{3/5}$，結果為何？",
+    "options": [
+      "6/5",
+      "5/6",
+      "10/3",
+      "3/10"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-47-short",
+    "prompt": "計算 $\\frac{2}{3/5}$，結果為何？\n請在下方填入正確答案。",
+    "answer": "10/3"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-48-mcq",
+    "prompt": "手搖飲店的隱藏配方表上寫著「檸檬汁：糖漿 = $\\frac{1/3}{1/8}$」，店員想把它改成好記的整數比，請問化簡後是多少比多少？",
+    "options": [
+      "3:8",
+      "8:3",
+      "1:24",
+      "24:1"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-fractions-48-short",
+    "prompt": "手搖飲店的隱藏配方表上寫著「檸檬汁：糖漿 = $\\frac{1/3}{1/8}$」，店員想把它改成好記的整數比，請問化簡後是多少比多少？\n請在下方填入正確答案。",
+    "answer": "8:3"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（同乘 4 後得到分子為 1，分母為 2）",
+    "id": "elementary-gifted-fractions-49-mcq",
+    "prompt": "建築圖紙上的縮尺比例寫著 $\\frac{1/4 \\text{ 吋}}{1/2 \\text{ 呎}}$。工程師想快速知道「1 吋對幾呎」，他將繁分數化簡後，答案是多少？",
+    "options": [
+      "1 吋對 1 呎",
+      "1 吋對 2 呎",
+      "1 吋對 4 呎",
+      "1 吋對 8 呎"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（同乘 4 後得到分子為 1，分母為 2）",
+    "id": "elementary-gifted-fractions-49-short",
+    "prompt": "建築圖紙上的縮尺比例寫著 $\\frac{1/4 \\text{ 吋}}{1/2 \\text{ 呎}}$。工程師想快速知道「1 吋對幾呎」，他將繁分數化簡後，答案是多少？\n請在下方填入正確答案。",
+    "answer": "1 吋對 2 呎"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（同乘 12 後，變成 (4+3) / (12-4-3) = 7/5）",
+    "id": "elementary-gifted-fractions-50-mcq",
+    "prompt": "媽媽分配零用錢，哥哥拿走全部的 $1/3$，弟弟拿走全部的 $1/4$，兩人拿走的比例總和與剩下比例的倍數關係可寫成 $\\frac{1/3 + 1/4}{1 - 1/3 - 1/4}$。化簡此繁分數後結果為何？",
+    "options": [
+      "7/5",
+      "5/7",
+      "12/7",
+      "7/12"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "繁分數化簡",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（同乘 12 後，變成 (4+3) / (12-4-3) = 7/5）",
+    "id": "elementary-gifted-fractions-50-short",
+    "prompt": "媽媽分配零用錢，哥哥拿走全部的 $1/3$，弟弟拿走全部的 $1/4$，兩人拿走的比例總和與剩下比例的倍數關係可寫成 $\\frac{1/3 + 1/4}{1 - 1/3 - 1/4}$。化簡此繁分數後結果為何？\n請在下方填入正確答案。",
+    "answer": "7/5"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-01-mcq",
+    "prompt": "判斷一個多位數是否為 8 的倍數，我們只需要看這個數的末幾位？",
+    "options": [
+      "末 1 位",
+      "末 2 位",
+      "末 3 位",
+      "末 4 位"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-01-short",
+    "prompt": "判斷一個多位數是否為 8 的倍數，我們只需要看這個數的末幾位？\n請在下方填入正確答案。",
+    "answer": "末 3 位"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-02-mcq",
+    "prompt": "判斷 7、11、13 的倍數時，可使用「截段法」。請問是從個位數起，每幾位畫分成一節？",
+    "options": [
+      "2 位",
+      "3 位",
+      "4 位",
+      "5 位"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-02-short",
+    "prompt": "判斷 7、11、13 的倍數時，可使用「截段法」。請問是從個位數起，每幾位畫分成一節？\n請在下方填入正確答案。",
+    "answer": "3 位"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-03-mcq",
+    "prompt": "7、11、13 能共用「三位截段法」的數學原理，是因為 7 × 11 × 13 等於多少？",
+    "options": [
+      "111",
+      "101",
+      "1001",
+      "10001"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-03-short",
+    "prompt": "7、11、13 能共用「三位截段法」的數學原理，是因為 7 × 11 × 13 等於多少？\n請在下方填入正確答案。",
+    "answer": "1001"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-04-mcq",
+    "prompt": "使用「三位截段法」時，是將「奇數節的和」與「偶數節的和」進行哪一種運算來做判斷？",
+    "options": [
+      "相加",
+      "相減（取差值）",
+      "相乘",
+      "相除"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-04-short",
+    "prompt": "使用「三位截段法」時，是將「奇數節的和」與「偶數節的和」進行哪一種運算來做判斷？\n請在下方填入正確答案。",
+    "answer": "相減（取差值）"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-05-mcq",
+    "prompt": "判斷 128104 是否為 8 的倍數，我們只需計算下列哪一個部分？",
+    "options": [
+      "128",
+      "281",
+      "104",
+      "810"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-05-short",
+    "prompt": "判斷 128104 是否為 8 的倍數，我們只需計算下列哪一個部分？\n請在下方填入正確答案。",
+    "answer": "104"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-06-mcq",
+    "prompt": "利用截段法判斷七位數 1,234,567 是否為 11 的倍數，應計算下列哪一個算式？",
+    "options": [
+      "567 - 234 + 1",
+      "1 + 2 + 3 + 4 + 5 + 6 + 7",
+      "123 - 456 + 7",
+      "765 - 432 + 1"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-06-short",
+    "prompt": "利用截段法判斷七位數 1,234,567 是否為 11 的倍數，應計算下列哪一個算式？\n請在下方填入正確答案。",
+    "answer": "567 - 234 + 1"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（末三位 67A 必須被 8 整除，672 ÷ 8 = 84）",
+    "id": "elementary-gifted-factors-07-mcq",
+    "prompt": "若五位數 $4567A$ 是 8 的倍數，則 $A$ 應該填入多少？",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（末三位 67A 必須被 8 整除，672 ÷ 8 = 84）",
+    "id": "elementary-gifted-factors-07-short",
+    "prompt": "若五位數 $4567A$ 是 8 的倍數，則 $A$ 應該填入多少？\n請在下方填入正確答案。",
+    "answer": "2"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（123 - 123 = 0，0 是任何數的倍數）",
+    "id": "elementary-gifted-factors-08-mcq",
+    "prompt": "六位數 123,123 可以被下列哪些數整除？",
+    "options": [
+      "只有 7",
+      "只有 11",
+      "只有 13",
+      "7、11、13 都可以"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（123 - 123 = 0，0 是任何數的倍數）",
+    "id": "elementary-gifted-factors-08-short",
+    "prompt": "六位數 123,123 可以被下列哪些數整除？\n請在下方填入正確答案。",
+    "answer": "7、11、13 都可以"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（三位截段法：X - 345 = 0，故 X = 345）",
+    "id": "elementary-gifted-factors-09-mcq",
+    "prompt": "若 $345,000 + X$ 是 1001 的倍數，且 $X$ 為一個三位數，請問 $X$ 等於多少？",
+    "options": [
+      "345",
+      "456",
+      "543",
+      "654"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（三位截段法：X - 345 = 0，故 X = 345）",
+    "id": "elementary-gifted-factors-09-short",
+    "prompt": "若 $345,000 + X$ 是 1001 的倍數，且 $X$ 為一個三位數，請問 $X$ 等於多少？\n請在下方填入正確答案。",
+    "answer": "345"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（2002 截段為 002 - 2 = 0，0 為 13 的倍數）",
+    "id": "elementary-gifted-factors-10-mcq",
+    "prompt": "利用截段法判斷，下列何者是 13 的倍數？",
+    "options": [
+      "2002",
+      "1005",
+      "3004",
+      "1301"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（2002 截段為 002 - 2 = 0，0 為 13 的倍數）",
+    "id": "elementary-gifted-factors-10-short",
+    "prompt": "利用截段法判斷，下列何者是 13 的倍數？\n請在下方填入正確答案。",
+    "answer": "2002"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（奇數節和：ABC+5，偶數節和：234。因為含有 7,11,13，差值應為 0，所以 234 - (ABC+5) = 0，ABC = 229）",
+    "id": "elementary-gifted-factors-11-mcq",
+    "prompt": "若一個七位數 5,234,ABC 含有質因數 7、11、13，則三位數 ABC 為何？",
+    "options": [
+      "229",
+      "234",
+      "239",
+      "523"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（奇數節和：ABC+5，偶數節和：234。因為含有 7,11,13，差值應為 0，所以 234 - (ABC+5) = 0，ABC = 229）",
+    "id": "elementary-gifted-factors-11-short",
+    "prompt": "若一個七位數 5,234,ABC 含有質因數 7、11、13，則三位數 ABC 為何？\n請在下方填入正確答案。",
+    "answer": "229"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-12-mcq",
+    "prompt": "解碼遊戲中，如果密碼是一個六位數，前三位是 852，且這組密碼能同時被 7、11、13 整除，後三位密碼應為多少？",
+    "options": [
+      "001",
+      "101",
+      "258",
+      "852"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-12-short",
+    "prompt": "解碼遊戲中，如果密碼是一個六位數，前三位是 852，且這組密碼能同時被 7、11、13 整除，後三位密碼應為多少？\n請在下方填入正確答案。",
+    "answer": "852"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（末三位 □52 需被 8 整除，代入 3 得 352 ÷ 8 = 44，完全整除）",
+    "id": "elementary-gifted-factors-13-mcq",
+    "prompt": "小明幫班上買了 8 箱相同的文具，發票總金額糊掉了，只看到「1□52 元」（千位為 1，百位看不清）。請問百位數字 □ 可能是多少？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（末三位 □52 需被 8 整除，代入 3 得 352 ÷ 8 = 44，完全整除）",
+    "id": "elementary-gifted-factors-13-short",
+    "prompt": "小明幫班上買了 8 箱相同的文具，發票總金額糊掉了，只看到「1□52 元」（千位為 1，百位看不清）。請問百位數字 □ 可能是多少？\n請在下方填入正確答案。",
+    "answer": "3"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-14-mcq",
+    "prompt": "超市進貨 1001 箱蘋果，剛好可以平分給 7 間店，再平分給店內 11 個專櫃，最後每個專櫃的蘋果剛好平分給 13 個員工。這情境驗證了 1001 是哪三個數的公倍數？",
+    "options": [
+      "7、9、11",
+      "2、3、5",
+      "7、11、13",
+      "11、13、17"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-14-short",
+    "prompt": "超市進貨 1001 箱蘋果，剛好可以平分給 7 間店，再平分給店內 11 個專櫃，最後每個專櫃的蘋果剛好平分給 13 個員工。這情境驗證了 1001 是哪三個數的公倍數？\n請在下方填入正確答案。",
+    "answer": "7、11、13"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（143 = 11 × 13）",
+    "id": "elementary-gifted-factors-15-mcq",
+    "prompt": "通訊兵解密時，利用截段法算出的奇偶節差值為 143，請問這份密碼一定可以被哪兩個質數整除？",
+    "options": [
+      "7 和 11",
+      "11 和 13",
+      "7 和 13",
+      "13 和 17"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（143 = 11 × 13）",
+    "id": "elementary-gifted-factors-15-short",
+    "prompt": "通訊兵解密時，利用截段法算出的奇偶節差值為 143，請問這份密碼一定可以被哪兩個質數整除？\n請在下方填入正確答案。",
+    "answer": "11 和 13"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（數字為 9,000,X，截段法差值為 X - 000 + 9 = X+9。X+9 需為 13 的倍數，最小為 13，故 X=4）",
+    "id": "elementary-gifted-factors-16-mcq",
+    "prompt": "電腦隨機生成一個七位數 9,000,000 + X（X 為小於 1000 的正整數）。若工程師希望這個數能被 13 整除，X 最小應設為多少？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "進階倍數判別法 (8、7、11、13)",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（數字為 9,000,X，截段法差值為 X - 000 + 9 = X+9。X+9 需為 13 的倍數，最小為 13，故 X=4）",
+    "id": "elementary-gifted-factors-16-short",
+    "prompt": "電腦隨機生成一個七位數 9,000,000 + X（X 為小於 1000 的正整數）。若工程師希望這個數能被 13 整除，X 最小應設為多少？\n請在下方填入正確答案。",
+    "answer": "4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-17-mcq",
+    "prompt": "將一個大於 1 的整數寫成「質數連乘積」的形式，稱為什麼？",
+    "options": [
+      "因式分解",
+      "標準分解式",
+      "質數相加",
+      "倍數拆解"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-17-short",
+    "prompt": "將一個大於 1 的整數寫成「質數連乘積」的形式，稱為什麼？\n請在下方填入正確答案。",
+    "answer": "標準分解式"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-18-mcq",
+    "prompt": "在標準分解式中，底數必須是哪一種數字？",
+    "options": [
+      "整數",
+      "合數",
+      "質數",
+      "奇數"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-18-short",
+    "prompt": "在標準分解式中，底數必須是哪一種數字？\n請在下方填入正確答案。",
+    "answer": "質數"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-19-mcq",
+    "prompt": "若 $N = p^a \\times q^b \\times r^c$（p、q、r 為相異質數），其「正因數個數」的計算公式為何？",
+    "options": [
+      "a + b + c",
+      "a × b × c",
+      "(a - 1)(b - 1)(c - 1)",
+      "(a + 1)(b + 1)(c + 1)"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-19-short",
+    "prompt": "若 $N = p^a \\times q^b \\times r^c$（p、q、r 為相異質數），其「正因數個數」的計算公式為何？\n請在下方填入正確答案。",
+    "answer": "(a + 1)(b + 1)(c + 1)"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（只有 1 和自己本身）",
+    "id": "elementary-gifted-factors-20-mcq",
+    "prompt": "任何一個「質數」的正因數個數必定是幾個？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "無限多個"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（只有 1 和自己本身）",
+    "id": "elementary-gifted-factors-20-short",
+    "prompt": "任何一個「質數」的正因數個數必定是幾個？\n請在下方填入正確答案。",
+    "answer": "2 個"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（(2+1) × (1+1) = 6）",
+    "id": "elementary-gifted-factors-21-mcq",
+    "prompt": "數字 12 的標準分解式為 $2^2 \\times 3^1$，它的正因數個數共有幾個？",
+    "options": [
+      "3 個",
+      "4 個",
+      "6 個",
+      "8 個"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（(2+1) × (1+1) = 6）",
+    "id": "elementary-gifted-factors-21-short",
+    "prompt": "數字 12 的標準分解式為 $2^2 \\times 3^1$，它的正因數個數共有幾個？\n請在下方填入正確答案。",
+    "answer": "6 個"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（(3+1) × (2+1) × (1+1) = 4 × 3 × 2 = 24）",
+    "id": "elementary-gifted-factors-22-mcq",
+    "prompt": "已知 $N = 2^3 \\times 5^2 \\times 7^1$，則 N 的正因數個數為？",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "48"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（(3+1) × (2+1) × (1+1) = 4 × 3 × 2 = 24）",
+    "id": "elementary-gifted-factors-22-short",
+    "prompt": "已知 $N = 2^3 \\times 5^2 \\times 7^1$，則 N 的正因數個數為？\n請在下方填入正確答案。",
+    "answer": "24"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（72 = 2³ × 3²，(3+1) × (2+1) = 12）",
+    "id": "elementary-gifted-factors-23-mcq",
+    "prompt": "請問數字 72 的正因數個數共有幾個？",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（72 = 2³ × 3²，(3+1) × (2+1) = 12）",
+    "id": "elementary-gifted-factors-23-short",
+    "prompt": "請問數字 72 的正因數個數共有幾個？\n請在下方填入正確答案。",
+    "answer": "12"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（1000 = 2³ × 5³，(3+1) × (3+1) = 16）",
+    "id": "elementary-gifted-factors-24-mcq",
+    "prompt": "請問 1000 共有幾個正因數？",
+    "options": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（1000 = 2³ × 5³，(3+1) × (3+1) = 16）",
+    "id": "elementary-gifted-factors-24-short",
+    "prompt": "請問 1000 共有幾個正因數？\n請在下方填入正確答案。",
+    "answer": "16"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（4 = 2²，(2+1) = 3 個。質數的平方數有 3 個因數）",
+    "id": "elementary-gifted-factors-25-mcq",
+    "prompt": "某數的正因數個數剛好是 3 個，這個數可能是下列何者？",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（4 = 2²，(2+1) = 3 個。質數的平方數有 3 個因數）",
+    "id": "elementary-gifted-factors-25-short",
+    "prompt": "某數的正因數個數剛好是 3 個，這個數可能是下列何者？\n請在下方填入正確答案。",
+    "answer": "4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（(x+1) × (2+1) = 15，x+1 = 5，x = 4）",
+    "id": "elementary-gifted-factors-26-mcq",
+    "prompt": "已知 $A = 3^x \\times 5^2$，且 A 共有 15 個正因數，請問指數 x 為多少？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（(x+1) × (2+1) = 15，x+1 = 5，x = 4）",
+    "id": "elementary-gifted-factors-26-short",
+    "prompt": "已知 $A = 3^x \\times 5^2$，且 A 共有 15 個正因數，請問指數 x 為多少？\n請在下方填入正確答案。",
+    "answer": "4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（(2+1) × (3+1) = 12）",
+    "id": "elementary-gifted-factors-27-mcq",
+    "prompt": "有一個數的標準分解式為 $p^2 \\times q^3$（p與q為相異質數），則其正因數個數為何？",
+    "options": [
+      "5",
+      "6",
+      "10",
+      "12"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（(2+1) × (3+1) = 12）",
+    "id": "elementary-gifted-factors-27-short",
+    "prompt": "有一個數的標準分解式為 $p^2 \\times q^3$（p與q為相異質數），則其正因數個數為何？\n請在下方填入正確答案。",
+    "answer": "12"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（360 = 2³ × 3² × 5¹，4 × 3 × 2 = 24）",
+    "id": "elementary-gifted-factors-28-mcq",
+    "prompt": "財主留下一筆 360 萬元的黃金，規定要平分給「等於 360 的因數個數」的村民。請問 360 的正因數有幾個？",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "30"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（360 = 2³ × 3² × 5¹，4 × 3 × 2 = 24）",
+    "id": "elementary-gifted-factors-28-short",
+    "prompt": "財主留下一筆 360 萬元的黃金，規定要平分給「等於 360 的因數個數」的村民。請問 360 的正因數有幾個？\n請在下方填入正確答案。",
+    "answer": "24"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（24 = 2³ × 3¹，4 × 2 = 8）",
+    "id": "elementary-gifted-factors-29-mcq",
+    "prompt": "小華想把 24 顆棋子排成長方形矩陣（長寬皆需為整數），請問有幾種不同的長寬組合配對（包含 1×24 和 24×1 皆算為一種）？也就是求 24 的因數個數。",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（24 = 2³ × 3¹，4 × 2 = 8）",
+    "id": "elementary-gifted-factors-29-short",
+    "prompt": "小華想把 24 顆棋子排成長方形矩陣（長寬皆需為整數），請問有幾種不同的長寬組合配對（包含 1×24 和 24×1 皆算為一種）？也就是求 24 的因數個數。\n請在下方填入正確答案。",
+    "answer": "8"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（108 = 2² × 3³，3 × 4 = 12）",
+    "id": "elementary-gifted-factors-30-mcq",
+    "prompt": "學校要頒發獎學金，條件是學生的「座號」必須剛好是 108 的因數。請問班上最多有幾位學生可以拿到獎學金？",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（108 = 2² × 3³，3 × 4 = 12）",
+    "id": "elementary-gifted-factors-30-short",
+    "prompt": "學校要頒發獎學金，條件是學生的「座號」必須剛好是 108 的因數。請問班上最多有幾位學生可以拿到獎學金？\n請在下方填入正確答案。",
+    "answer": "12"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（60 = 2² × 3¹ × 5¹，因數有 3 × 2 × 2 = 12 個，12 × 10 = 120）",
+    "id": "elementary-gifted-factors-31-mcq",
+    "prompt": "金庫密碼的提示為：「60 的所有正因數的個數乘以 10」。請問密碼是多少？",
+    "options": [
+      "60",
+      "100",
+      "120",
+      "240"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（60 = 2² × 3¹ × 5¹，因數有 3 × 2 × 2 = 12 個，12 × 10 = 120）",
+    "id": "elementary-gifted-factors-31-short",
+    "prompt": "金庫密碼的提示為：「60 的所有正因數的個數乘以 10」。請問密碼是多少？\n請在下方填入正確答案。",
+    "answer": "120"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（200 = 2³ × 5²，4 × 3 = 12）",
+    "id": "elementary-gifted-factors-32-mcq",
+    "prompt": "節慶燈泡的閃爍程式為每 200 秒一個大循環。工程師要找出 200 的所有因數來設定中間的閃爍點。請問 200 的因數有幾個？",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "標準分解式與因數個數",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（200 = 2³ × 5²，4 × 3 = 12）",
+    "id": "elementary-gifted-factors-32-short",
+    "prompt": "節慶燈泡的閃爍程式為每 200 秒一個大循環。工程師要找出 200 的所有因數來設定中間的閃爍點。請問 200 的因數有幾個？\n請在下方填入正確答案。",
+    "answer": "12"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-33-mcq",
+    "prompt": "下列哪一種類型的數字，其正因數個數必定為「奇數個」？",
+    "options": [
+      "質數",
+      "偶數",
+      "奇數",
+      "完全平方數"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-33-short",
+    "prompt": "下列哪一種類型的數字，其正因數個數必定為「奇數個」？\n請在下方填入正確答案。",
+    "answer": "完全平方數"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-34-mcq",
+    "prompt": "為什麼完全平方數的因數個數是奇數個？",
+    "options": [
+      "因為它只能被奇數整除",
+      "因為它的所有因數都是奇數",
+      "因為中間的平方根因數自己配自己，不重複計算",
+      "因為它必定含有質因數 3"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-34-short",
+    "prompt": "為什麼完全平方數的因數個數是奇數個？\n請在下方填入正確答案。",
+    "answer": "因為中間的平方根因數自己配自己，不重複計算"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（36 = 6 × 6）",
+    "id": "elementary-gifted-factors-35-mcq",
+    "prompt": "下列何者是完全平方數？",
+    "options": [
+      "24",
+      "36",
+      "48",
+      "60"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（36 = 6 × 6）",
+    "id": "elementary-gifted-factors-35-short",
+    "prompt": "下列何者是完全平方數？\n請在下方填入正確答案。",
+    "answer": "36"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-36-mcq",
+    "prompt": "完全平方數的標準分解式中，所有的質因數次方（指數）必然是？",
+    "options": [
+      "奇數",
+      "偶數",
+      "質數",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-factors-36-short",
+    "prompt": "完全平方數的標準分解式中，所有的質因數次方（指數）必然是？\n請在下方填入正確答案。",
+    "answer": "偶數"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（4 × 4 = 16）",
+    "id": "elementary-gifted-factors-37-mcq",
+    "prompt": "16 的因數有 1, 2, 4, 8, 16 共 5 個（奇數個）。其中「自己配自己」的那個因數是？",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（4 × 4 = 16）",
+    "id": "elementary-gifted-factors-37-short",
+    "prompt": "16 的因數有 1, 2, 4, 8, 16 共 5 個（奇數個）。其中「自己配自己」的那個因數是？\n請在下方填入正確答案。",
+    "answer": "4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（64 = 8²，是完全平方數）",
+    "id": "elementary-gifted-factors-38-mcq",
+    "prompt": "下列哪個數字的正因數個數是「奇數」？",
+    "options": [
+      "50",
+      "64",
+      "72",
+      "80"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（64 = 8²，是完全平方數）",
+    "id": "elementary-gifted-factors-38-short",
+    "prompt": "下列哪個數字的正因數個數是「奇數」？\n請在下方填入正確答案。",
+    "answer": "64"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（因數個數 = (a+1)(b+1) 為奇數，代表 a+1 和 b+1 都是奇數，故 a,b 必為偶數。這也符合完全平方數的次方必為偶數的規則。）",
+    "id": "elementary-gifted-factors-39-mcq",
+    "prompt": "已知數字 $M = 2^a \\times 3^b$ 有「奇數個」正因數，則 a 和 b 的奇偶性應為何？",
+    "options": [
+      "a, b 皆為奇數",
+      "a, b 皆為偶數",
+      "a 是奇數，b 是偶數",
+      "a 是偶數，b 是奇數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（因數個數 = (a+1)(b+1) 為奇數，代表 a+1 和 b+1 都是奇數，故 a,b 必為偶數。這也符合完全平方數的次方必為偶數的規則。）",
+    "id": "elementary-gifted-factors-39-short",
+    "prompt": "已知數字 $M = 2^a \\times 3^b$ 有「奇數個」正因數，則 a 和 b 的奇偶性應為何？\n請在下方填入正確答案。",
+    "answer": "a, b 皆為偶數"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（因數個數為 x+1 = 7，得 x=6。例如 $2^6=64$ 有 7 個因數）",
+    "id": "elementary-gifted-factors-40-mcq",
+    "prompt": "若 $P = p^x$ 有 7 個因數（p 為質數），則指數 x 為多少？",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（因數個數為 x+1 = 7，得 x=6。例如 $2^6=64$ 有 7 個因數）",
+    "id": "elementary-gifted-factors-40-short",
+    "prompt": "若 $P = p^x$ 有 7 個因數（p 為質數），則指數 x 為多少？\n請在下方填入正確答案。",
+    "answer": "6"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（9 個因數是奇數，所以必為完全平方數。36 = 2² × 3²，因數個數 = 3 × 3 = 9）",
+    "id": "elementary-gifted-factors-41-mcq",
+    "prompt": "若一個數剛好有 9 個正因數，且它是 100 以內的整數，這個數可能是？",
+    "options": [
+      "16",
+      "36",
+      "49",
+      "64"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（9 個因數是奇數，所以必為完全平方數。36 = 2² × 3²，因數個數 = 3 × 3 = 9）",
+    "id": "elementary-gifted-factors-41-short",
+    "prompt": "若一個數剛好有 9 個正因數，且它是 100 以內的整數，這個數可能是？\n請在下方填入正確答案。",
+    "answer": "36"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（即找 1~50 的完全平方數：$1^2, 2^2, 3^2, 4^2, 5^2, 6^2, 7^2$，共 7 個）",
+    "id": "elementary-gifted-factors-42-mcq",
+    "prompt": "在 1 到 50 的整數中，有幾個數字的正因數個數是「奇數個」？",
+    "options": [
+      "5 個",
+      "6 個",
+      "7 個",
+      "8 個"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（即找 1~50 的完全平方數：$1^2, 2^2, 3^2, 4^2, 5^2, 6^2, 7^2$，共 7 個）",
+    "id": "elementary-gifted-factors-42-short",
+    "prompt": "在 1 到 50 的整數中，有幾個數字的正因數個數是「奇數個」？\n請在下方填入正確答案。",
+    "answer": "7 個"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（當 M 為質數時因數最少，如 $2^2=4$ 的因數有 1, 2, 4 共 3 個）",
+    "id": "elementary-gifted-factors-43-mcq",
+    "prompt": "某數 $X = M^2$，M 為正整數且 $M > 1$，則 X 最少有幾個正因數？",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（當 M 為質數時因數最少，如 $2^2=4$ 的因數有 1, 2, 4 共 3 個）",
+    "id": "elementary-gifted-factors-43-short",
+    "prompt": "某數 $X = M^2$，M 為正整數且 $M > 1$，則 X 最少有幾個正因數？\n請在下方填入正確答案。",
+    "answer": "3"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（尋找 1~100 中的完全平方數，即 $1^2$ 到 $10^2$，共 10 個）",
+    "id": "elementary-gifted-factors-44-mcq",
+    "prompt": "經典私中題：飯店有 100 個房間（編號1~100）。經理走過 100 趟，第 1 趟把所有門打開；第 2 趟把編號是 2 的倍數的門狀態改變（開變關，關變開）；第 3 趟改變 3 的倍數，依此類推。最後門是「打開」的房間，其因數個數必須是奇數。請問最後有幾扇門是打開的？",
+    "options": [
+      "8 扇",
+      "9 扇",
+      "10 扇",
+      "11 扇"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（尋找 1~100 中的完全平方數，即 $1^2$ 到 $10^2$，共 10 個）",
+    "id": "elementary-gifted-factors-44-short",
+    "prompt": "經典私中題：飯店有 100 個房間（編號1~100）。經理走過 100 趟，第 1 趟把所有門打開；第 2 趟把編號是 2 的倍數的門狀態改變（開變關，關變開）；第 3 趟改變 3 的倍數，依此類推。最後門是「打開」的房間，其因數個數必須是奇數。請問最後有幾扇門是打開的？\n請在下方填入正確答案。",
+    "answer": "10 扇"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（144 = 2⁴ × 3²，因數個數 = 5 × 3 = 15）",
+    "id": "elementary-gifted-factors-45-mcq",
+    "prompt": "小芬在玩「數字翻牌」遊戲，她發現 144 這個號碼牌被翻動的次數特別，因為它的因數有奇數個。請問 144 到底有幾個正因數？",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（144 = 2⁴ × 3²，因數個數 = 5 × 3 = 15）",
+    "id": "elementary-gifted-factors-45-short",
+    "prompt": "小芬在玩「數字翻牌」遊戲，她發現 144 這個號碼牌被翻動的次數特別，因為它的因數有奇數個。請問 144 到底有幾個正因數？\n請在下方填入正確答案。",
+    "answer": "15"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（因數奇數個代表是完全平方數，且為 5 的倍數，故必須是 $25 (5^2)$ 的倍數。三位數的完全平方數且為 25 的倍數有：$15^2=225$，$20^2=400$，$25^2=625$，$30^2=900$。最大為 900）",
+    "id": "elementary-gifted-factors-46-mcq",
+    "prompt": "私中入學考挑戰題：「一個三位數的保險箱密碼，其因數個數是奇數，且它是 5 的倍數。請問這個密碼最大可能是多少？」",
+    "options": [
+      "225",
+      "400",
+      "625",
+      "900"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（因數奇數個代表是完全平方數，且為 5 的倍數，故必須是 $25 (5^2)$ 的倍數。三位數的完全平方數且為 25 的倍數有：$15^2=225$，$20^2=400$，$25^2=625$，$30^2=900$。最大為 900）",
+    "id": "elementary-gifted-factors-46-short",
+    "prompt": "私中入學考挑戰題：「一個三位數的保險箱密碼，其因數個數是奇數，且它是 5 的倍數。請問這個密碼最大可能是多少？」\n請在下方填入正確答案。",
+    "answer": "900"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（1~30 的完全平方數有 1, 4, 9, 16, 25，共 5 人）",
+    "id": "elementary-gifted-factors-47-mcq",
+    "prompt": "老師說：「今天座號的因數個數是『奇數』的同學要留下來當值日生。」若班上剛好有 30 位同學，請問會有幾個人留下來？",
+    "options": [
+      "4 人",
+      "5 人",
+      "6 人",
+      "7 人"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（1~30 的完全平方數有 1, 4, 9, 16, 25，共 5 人）",
+    "id": "elementary-gifted-factors-47-short",
+    "prompt": "老師說：「今天座號的因數個數是『奇數』的同學要留下來當值日生。」若班上剛好有 30 位同學，請問會有幾個人留下來？\n請在下方填入正確答案。",
+    "answer": "5 人"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$14^2 = 196$，$15^2 = 225$ 超過 200）",
+    "id": "elementary-gifted-factors-48-mcq",
+    "prompt": "尋寶圖上的提示寫著：「寶箱位置的座標數字，是 200 以內最大的完全平方數。」請問這個座標數字是多少？",
+    "options": [
+      "144",
+      "169",
+      "196",
+      "225"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$14^2 = 196$，$15^2 = 225$ 超過 200）",
+    "id": "elementary-gifted-factors-48-short",
+    "prompt": "尋寶圖上的提示寫著：「寶箱位置的座標數字，是 200 以內最大的完全平方數。」請問這個座標數字是多少？\n請在下方填入正確答案。",
+    "answer": "196"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（找平方數，因為 $20^2=400$，$21^2=441$，$22^2=484$，$23^2=529$(超過)。故共有 22 個）",
+    "id": "elementary-gifted-factors-49-mcq",
+    "prompt": "遊樂園的置物櫃編號從 1 到 500。為了舉辦驚喜活動，管理員將「因數個數為奇數」的櫃子裡放了小禮物。請問 1 到 500 中，有放禮物的櫃子共有幾個？",
+    "options": [
+      "20 個",
+      "21 個",
+      "22 個",
+      "23 個"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（找平方數，因為 $20^2=400$，$21^2=441$，$22^2=484$，$23^2=529$(超過)。故共有 22 個）",
+    "id": "elementary-gifted-factors-49-short",
+    "prompt": "遊樂園的置物櫃編號從 1 到 500。為了舉辦驚喜活動，管理員將「因數個數為奇數」的櫃子裡放了小禮物。請問 1 到 500 中，有放禮物的櫃子共有幾個？\n請在下方填入正確答案。",
+    "answer": "22 個"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（次方皆為偶數的是 $2^4 \\times 3^2$，它是完全平方數，因數有奇數個。其因數個數 = (4+1) × (2+1) = 15）",
+    "id": "elementary-gifted-factors-50-mcq",
+    "prompt": "數學營隊設計了一個密碼鎖，提示為：「請找出 $2^4 \\times 3^2$ 與 $2^3 \\times 3^4$ 這兩個數中，哪一個數的因數個數是奇數？」密碼就是這個數的因數個數。請問密碼是多少？",
+    "options": [
+      "12",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "完全平方數與奇數個因數（私中考點）",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（次方皆為偶數的是 $2^4 \\times 3^2$，它是完全平方數，因數有奇數個。其因數個數 = (4+1) × (2+1) = 15）",
+    "id": "elementary-gifted-factors-50-short",
+    "prompt": "數學營隊設計了一個密碼鎖，提示為：「請找出 $2^4 \\times 3^2$ 與 $2^3 \\times 3^4$ 這兩個數中，哪一個數的因數個數是奇數？」密碼就是這個數的因數個數。請問密碼是多少？\n請在下方填入正確答案。",
+    "answer": "15"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-01-mcq",
+    "prompt": "兩個三角形若共用一個頂點，且底邊在同一條直線上，則這兩個三角形的「面積比」會等於它們的什麼比？",
+    "options": [
+      "高度比",
+      "底邊比",
+      "周長比",
+      "角度比"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-01-short",
+    "prompt": "兩個三角形若共用一個頂點，且底邊在同一條直線上，則這兩個三角形的「面積比」會等於它們的什麼比？\n請在下方填入正確答案。",
+    "answer": "底邊比"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-02-mcq",
+    "prompt": "若兩個等高的三角形，其底邊長度的比為 3：5，則它們的面積比為何？",
+    "options": [
+      "5：3",
+      "9：25",
+      "3：5",
+      "1：1"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-02-short",
+    "prompt": "若兩個等高的三角形，其底邊長度的比為 3：5，則它們的面積比為何？\n請在下方填入正確答案。",
+    "answer": "3：5"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-03-mcq",
+    "prompt": "在一個三角形中，畫出一條「中線」（連接頂點與對邊中點的線段），這條中線會將原三角形平分成兩個小三角形。請問這兩個小三角形的面積有何關係？",
+    "options": [
+      "完全相等",
+      "差兩倍",
+      "無法比較",
+      "比例為 1：2"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-03-short",
+    "prompt": "在一個三角形中，畫出一條「中線」（連接頂點與對邊中點的線段），這條中線會將原三角形平分成兩個小三角形。請問這兩個小三角形的面積有何關係？\n請在下方填入正確答案。",
+    "answer": "完全相等"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-04-mcq",
+    "prompt": "$\\triangle ABC$ 中，D 點在 $\\overline{BC}$ 上。若 $\\overline{BD} : \\overline{DC} = 1 : 4$，則 $\\triangle ABD$ 與 $\\triangle ADC$ 的面積比為何？",
+    "options": [
+      "4：1",
+      "1：16",
+      "1：4",
+      "1：2"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-04-short",
+    "prompt": "$\\triangle ABC$ 中，D 點在 $\\overline{BC}$ 上。若 $\\overline{BD} : \\overline{DC} = 1 : 4$，則 $\\triangle ABD$ 與 $\\triangle ADC$ 的面積比為何？\n請在下方填入正確答案。",
+    "answer": "1：4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-05-mcq",
+    "prompt": "三角形的面積公式為「底 $\\times$ 高 $\\div 2$」。若兩個三角形高相等，則面積大小完全取決於何者？",
+    "options": [
+      "頂角角度",
+      "側邊長度",
+      "底邊長度",
+      "重心位置"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-05-short",
+    "prompt": "三角形的面積公式為「底 $\\times$ 高 $\\div 2$」。若兩個三角形高相等，則面積大小完全取決於何者？\n請在下方填入正確答案。",
+    "answer": "底邊長度"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-06-mcq",
+    "prompt": "$\\triangle ABC$ 的面積是 20，若將底邊 $\\overline{BC}$ 延長為原來的 3 倍（高不變），則新三角形的面積會變成多少？",
+    "options": [
+      "20",
+      "40",
+      "60",
+      "80"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-06-short",
+    "prompt": "$\\triangle ABC$ 的面積是 20，若將底邊 $\\overline{BC}$ 延長為原來的 3 倍（高不變），則新三角形的面積會變成多少？\n請在下方填入正確答案。",
+    "answer": "60"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（60 $\\times \\frac{2}{2+3} = 24$）",
+    "id": "elementary-gifted-geometry-07-mcq",
+    "prompt": "已知 $\\triangle ABC$ 面積為 60 平方公分。D 為 $\\overline{BC}$ 上一點，且 $\\overline{BD} : \\overline{DC} = 2 : 3$。請問 $\\triangle ABD$ 的面積是多少平方公分？",
+    "options": [
+      "20",
+      "24",
+      "30",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（60 $\\times \\frac{2}{2+3} = 24$）",
+    "id": "elementary-gifted-geometry-07-short",
+    "prompt": "已知 $\\triangle ABC$ 面積為 60 平方公分。D 為 $\\overline{BC}$ 上一點，且 $\\overline{BD} : \\overline{DC} = 2 : 3$。請問 $\\triangle ABD$ 的面積是多少平方公分？\n請在下方填入正確答案。",
+    "answer": "24"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$\\triangle ADC$ = 50，$\\triangle ABE$ 是 $\\triangle ADC$ 的一半 = 25）",
+    "id": "elementary-gifted-geometry-08-mcq",
+    "prompt": "$\\triangle ABC$ 面積為 100。$\\overline{AD}$ 為 $\\overline{BC}$ 邊上的中線，$\\overline{BE}$ 為 $\\triangle ADC$ 中 $\\overline{AC}$ 邊上的中線。請問 $\\triangle ABE$ 面積為何？",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "50"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$\\triangle ADC$ = 50，$\\triangle ABE$ 是 $\\triangle ADC$ 的一半 = 25）",
+    "id": "elementary-gifted-geometry-08-short",
+    "prompt": "$\\triangle ABC$ 面積為 100。$\\overline{AD}$ 為 $\\overline{BC}$ 邊上的中線，$\\overline{BE}$ 為 $\\triangle ADC$ 中 $\\overline{AC}$ 邊上的中線。請問 $\\triangle ABE$ 面積為何？\n請在下方填入正確答案。",
+    "answer": "25"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（底邊占 $\\frac{1}{3}$，面積為 48 $\\div$ 3 = 16）",
+    "id": "elementary-gifted-geometry-09-mcq",
+    "prompt": "$\\triangle ABC$ 面積為 48，D、E 兩點在 $\\overline{BC}$ 上，且將 $\\overline{BC}$ 三等分（$\\overline{BD} = \\overline{DE} = \\overline{EC}$）。請問 $\\triangle ADE$ 的面積為何？",
+    "options": [
+      "12",
+      "16",
+      "24",
+      "32"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（底邊占 $\\frac{1}{3}$，面積為 48 $\\div$ 3 = 16）",
+    "id": "elementary-gifted-geometry-09-short",
+    "prompt": "$\\triangle ABC$ 面積為 48，D、E 兩點在 $\\overline{BC}$ 上，且將 $\\overline{BC}$ 三等分（$\\overline{BD} = \\overline{DE} = \\overline{EC}$）。請問 $\\triangle ADE$ 的面積為何？\n請在下方填入正確答案。",
+    "answer": "16"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$\\triangle ABD$ 是 $\\frac{1}{2}$，$\\triangle BDE$ 又平分 $\\triangle ABD$，故為 $\\frac{1}{4}$）",
+    "id": "elementary-gifted-geometry-10-mcq",
+    "prompt": "$\\triangle ABC$ 中，$\\overline{AD}$ 為中線。E 為 $\\overline{AD}$ 的中點。請問 $\\triangle BDE$ 的面積是 $\\triangle ABC$ 面積的幾分之幾？",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$\\triangle ABD$ 是 $\\frac{1}{2}$，$\\triangle BDE$ 又平分 $\\triangle ABD$，故為 $\\frac{1}{4}$）",
+    "id": "elementary-gifted-geometry-10-short",
+    "prompt": "$\\triangle ABC$ 中，$\\overline{AD}$ 為中線。E 為 $\\overline{AD}$ 的中點。請問 $\\triangle BDE$ 的面積是 $\\triangle ABC$ 面積的幾分之幾？\n請在下方填入正確答案。",
+    "answer": "1/4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$\\triangle ADC$ 占 $\\frac{2}{3}$，$\\triangle CDE$ 占 $\\triangle ADC$ 的 $\\frac{1}{4}$，$\\frac{2}{3} \\times \\frac{1}{4} = \\frac{1}{6}$）",
+    "id": "elementary-gifted-geometry-11-mcq",
+    "prompt": "$\\triangle ABC$ 中，D 在 $\\overline{BC}$ 上，$\\overline{BD} : \\overline{DC} = 1 : 2$；E 在 $\\overline{AD}$ 上，$\\overline{AE} : \\overline{ED} = 3 : 1$。請問 $\\triangle CDE$ 面積與 $\\triangle ABC$ 面積的比值為何？",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/4",
+      "2/3"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$\\triangle ADC$ 占 $\\frac{2}{3}$，$\\triangle CDE$ 占 $\\triangle ADC$ 的 $\\frac{1}{4}$，$\\frac{2}{3} \\times \\frac{1}{4} = \\frac{1}{6}$）",
+    "id": "elementary-gifted-geometry-11-short",
+    "prompt": "$\\triangle ABC$ 中，D 在 $\\overline{BC}$ 上，$\\overline{BD} : \\overline{DC} = 1 : 2$；E 在 $\\overline{AD}$ 上，$\\overline{AE} : \\overline{ED} = 3 : 1$。請問 $\\triangle CDE$ 面積與 $\\triangle ABC$ 面積的比值為何？\n請在下方填入正確答案。",
+    "answer": "1/6"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（等高，面積比 = 底邊比 = 3.6 : 6.4 = 36 : 64 = 9 : 16）",
+    "id": "elementary-gifted-geometry-12-mcq",
+    "prompt": "直角三角形的兩股長分別為 6 和 8，斜邊長為 10。若從直角頂畫一條高到斜邊，將斜邊切成 3.6 與 6.4 兩段，則這兩塊小三角形的面積比為何？",
+    "options": [
+      "6：8",
+      "3：4",
+      "9：16",
+      "36：64"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（等高，面積比 = 底邊比 = 3.6 : 6.4 = 36 : 64 = 9 : 16）",
+    "id": "elementary-gifted-geometry-12-short",
+    "prompt": "直角三角形的兩股長分別為 6 和 8，斜邊長為 10。若從直角頂畫一條高到斜邊，將斜邊切成 3.6 與 6.4 兩段，則這兩塊小三角形的面積比為何？\n請在下方填入正確答案。",
+    "answer": "9：16"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-13-mcq",
+    "prompt": "小廚師烤了一個三角形披薩，他從頂角切了一刀到底邊，把底邊分成了 3 吋與 5 吋兩段。請問這兩塊披薩的份量（面積）比是多少？",
+    "options": [
+      "9：25",
+      "3：5",
+      "1：1",
+      "5：3"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-13-short",
+    "prompt": "小廚師烤了一個三角形披薩，他從頂角切了一刀到底邊，把底邊分成了 3 吋與 5 吋兩段。請問這兩塊披薩的份量（面積）比是多少？\n請在下方填入正確答案。",
+    "answer": "3：5"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（70 $\\times \\frac{2}{2+5} = 20$）",
+    "id": "elementary-gifted-geometry-14-mcq",
+    "prompt": "農夫有一塊面積 70 畝的三角形土地，他想分給兩個兒子。他從一角拉了一條直線到對邊，將邊界分成了 2：5 的比例。請問分到較小塊土地的兒子，得到了幾畝地？",
+    "options": [
+      "10 畝",
+      "20 畝",
+      "30 畝",
+      "50 畝"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（70 $\\times \\frac{2}{2+5} = 20$）",
+    "id": "elementary-gifted-geometry-14-short",
+    "prompt": "農夫有一塊面積 70 畝的三角形土地，他想分給兩個兒子。他從一角拉了一條直線到對邊，將邊界分成了 2：5 的比例。請問分到較小塊土地的兒子，得到了幾畝地？\n請在下方填入正確答案。",
+    "answer": "20 畝"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（15：25 = 3：5）",
+    "id": "elementary-gifted-geometry-15-mcq",
+    "prompt": "美術課時，小明在三角形畫布上拉了一條對角裝飾線，將長度 40 公分的底邊切成 15 公分與 25 公分。若左邊塗紅色、右邊塗藍色，則紅色與藍色顏料的使用量比例為何？",
+    "options": [
+      "3：5",
+      "5：3",
+      "9：25",
+      "1：1"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（15：25 = 3：5）",
+    "id": "elementary-gifted-geometry-15-short",
+    "prompt": "美術課時，小明在三角形畫布上拉了一條對角裝飾線，將長度 40 公分的底邊切成 15 公分與 25 公分。若左邊塗紅色、右邊塗藍色，則紅色與藍色顏料的使用量比例為何？\n請在下方填入正確答案。",
+    "answer": "3：5"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-16-mcq",
+    "prompt": "露營帳篷的側面是一個大三角形，拉鍊剛好是從頂端垂直拉到底部，將底部分成 2 公尺與 1 公尺。請問拉鍊左、右兩邊的帆布面積比是多少？",
+    "options": [
+      "4：1",
+      "1：2",
+      "2：1",
+      "無法計算"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-16-short",
+    "prompt": "露營帳篷的側面是一個大三角形，拉鍊剛好是從頂端垂直拉到底部，將底部分成 2 公尺與 1 公尺。請問拉鍊左、右兩邊的帆布面積比是多少？\n請在下方填入正確答案。",
+    "answer": "2：1"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（700 $\\times \\frac{4}{7} = 400$）",
+    "id": "elementary-gifted-geometry-17-mcq",
+    "prompt": "木工有一塊重 700 克的三角形木板。他從一個頂點鋸開，將底邊依 3：4 的比例鋸成兩塊。請問較重的那塊木板重多少克？（假設木材密度均勻，重量與面積成正比）",
+    "options": [
+      "300 克",
+      "400 克",
+      "450 克",
+      "500 克"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "等高面積比",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（700 $\\times \\frac{4}{7} = 400$）",
+    "id": "elementary-gifted-geometry-17-short",
+    "prompt": "木工有一塊重 700 克的三角形木板。他從一個頂點鋸開，將底邊依 3：4 的比例鋸成兩塊。請問較重的那塊木板重多少克？（假設木材密度均勻，重量與面積成正比）\n請在下方填入正確答案。",
+    "answer": "400 克"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-18-mcq",
+    "prompt": "在梯形中畫出兩條對角線，會將梯形切成上、下、左、右四塊三角形。請問哪兩塊三角形的「面積必定相等」？",
+    "options": [
+      "上和下",
+      "左和右",
+      "上和左",
+      "下和右"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-18-short",
+    "prompt": "在梯形中畫出兩條對角線，會將梯形切成上、下、左、右四塊三角形。請問哪兩塊三角形的「面積必定相等」？\n請在下方填入正確答案。",
+    "answer": "左和右"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-19-mcq",
+    "prompt": "梯形蝴蝶定理中，若上底與下底的長度比為 $a : b$，則「上三角形」與「下三角形」的面積比會是多少？",
+    "options": [
+      "$a : b$",
+      "$2a : 2b$",
+      "$a^2 : b^2$",
+      "$a^3 : b^3$"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-19-short",
+    "prompt": "梯形蝴蝶定理中，若上底與下底的長度比為 $a : b$，則「上三角形」與「下三角形」的面積比會是多少？\n請在下方填入正確答案。",
+    "answer": "$a^2 : b^2$"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-20-mcq",
+    "prompt": "承上題，如果梯形的上底是下底的 $\\frac{1}{2}$（即底邊比 1：2），則上三角形與下三角形的面積比為何？",
+    "options": [
+      "1：2",
+      "1：3",
+      "1：4",
+      "1：8"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-20-short",
+    "prompt": "承上題，如果梯形的上底是下底的 $\\frac{1}{2}$（即底邊比 1：2），則上三角形與下三角形的面積比為何？\n請在下方填入正確答案。",
+    "answer": "1：4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$L \\times R = Top \\times Bottom$，又因 $L=R$，故 $L^2 = Top \\times Bottom$）",
+    "id": "elementary-gifted-geometry-21-mcq",
+    "prompt": "梯形蝴蝶定理中，左、右兩塊相等面積的三角形，若將它們的面積相乘，會等於另外兩塊三角形的什麼運算結果？",
+    "options": [
+      "上面積 $+$ 下面積",
+      "上面積 $\\times$ 下面積",
+      "(上面積 $+$ 下面積) $\\div 2$",
+      "下面積 $-$ 上面積"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$L \\times R = Top \\times Bottom$，又因 $L=R$，故 $L^2 = Top \\times Bottom$）",
+    "id": "elementary-gifted-geometry-21-short",
+    "prompt": "梯形蝴蝶定理中，左、右兩塊相等面積的三角形，若將它們的面積相乘，會等於另外兩塊三角形的什麼運算結果？\n請在下方填入正確答案。",
+    "answer": "上面積 $\\times$ 下面積"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-22-mcq",
+    "prompt": "若梯形的上底與下底長度比為 2：3，請問上三角形與下三角形的面積比為何？",
+    "options": [
+      "2：3",
+      "4：9",
+      "8：27",
+      "4：6"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-22-short",
+    "prompt": "若梯形的上底與下底長度比為 2：3，請問上三角形與下三角形的面積比為何？\n請在下方填入正確答案。",
+    "answer": "4：9"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-23-mcq",
+    "prompt": "梯形對角線切出的四塊面積分別為上(U)、下(D)、左(L)、右(R)。下列哪一個等式一定正確？",
+    "options": [
+      "U = D",
+      "L = R",
+      "U + D = L + R",
+      "、左(L)、右(R)。下列哪一個等式一定正確？"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-23-short",
+    "prompt": "梯形對角線切出的四塊面積分別為上(U)、下(D)、左(L)、右(R)。下列哪一個等式一定正確？\n請在下方填入正確答案。",
+    "answer": "L = R"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$L^2 = 4 \\times 9 = 36$，故 $L = 6$）",
+    "id": "elementary-gifted-geometry-24-mcq",
+    "prompt": "梯形對角線交錯後，已知上三角形面積為 4，下三角形面積為 9。請問左三角形面積為多少？",
+    "options": [
+      "5",
+      "6",
+      "6.5",
+      "13"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$L^2 = 4 \\times 9 = 36$，故 $L = 6$）",
+    "id": "elementary-gifted-geometry-24-short",
+    "prompt": "梯形對角線交錯後，已知上三角形面積為 4，下三角形面積為 9。請問左三角形面積為多少？\n請在下方填入正確答案。",
+    "answer": "6"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（4 + 9 + 6 + 6 = 25）",
+    "id": "elementary-gifted-geometry-25-mcq",
+    "prompt": "承上題（上面積=4，下面積=9，左、右皆為 6），此梯形的「總面積」是多少？",
+    "options": [
+      "13",
+      "24",
+      "25",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（4 + 9 + 6 + 6 = 25）",
+    "id": "elementary-gifted-geometry-25-short",
+    "prompt": "承上題（上面積=4，下面積=9，左、右皆為 6），此梯形的「總面積」是多少？\n請在下方填入正確答案。",
+    "answer": "25"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（面積比 = $1^2 : 3^2 = 1 : 9$。$2 \\times 9 = 18$）",
+    "id": "elementary-gifted-geometry-26-mcq",
+    "prompt": "一個梯形的上底與下底之比為 1：3，已知上三角形面積為 2，請問下三角形面積為何？",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "18"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（面積比 = $1^2 : 3^2 = 1 : 9$。$2 \\times 9 = 18$）",
+    "id": "elementary-gifted-geometry-26-short",
+    "prompt": "一個梯形的上底與下底之比為 1：3，已知上三角形面積為 2，請問下三角形面積為何？\n請在下方填入正確答案。",
+    "answer": "18"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（左三角形面積 = $\\sqrt{2 \\times 18} = \\sqrt{36} = 6$。或利用等高原理，上：左 = 1：3，故 $2 \\times 3 = 6$）",
+    "id": "elementary-gifted-geometry-27-mcq",
+    "prompt": "承上題（上底：下底 = 1：3，上面積 = 2），請問左三角形面積是多少？",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（左三角形面積 = $\\sqrt{2 \\times 18} = \\sqrt{36} = 6$。或利用等高原理，上：左 = 1：3，故 $2 \\times 3 = 6$）",
+    "id": "elementary-gifted-geometry-27-short",
+    "prompt": "承上題（上底：下底 = 1：3，上面積 = 2），請問左三角形面積是多少？\n請在下方填入正確答案。",
+    "answer": "6"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$L^2 = U \\times D \\rightarrow 20 \\times 20 = 10 \\times D \\rightarrow 400 = 10D \\rightarrow D = 40$）",
+    "id": "elementary-gifted-geometry-28-mcq",
+    "prompt": "一個梯形對角線相交後，左三角形面積為 20，上三角形面積為 10，請問下三角形面積是多少？",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$L^2 = U \\times D \\rightarrow 20 \\times 20 = 10 \\times D \\rightarrow 400 = 10D \\rightarrow D = 40$）",
+    "id": "elementary-gifted-geometry-28-short",
+    "prompt": "一個梯形對角線相交後，左三角形面積為 20，上三角形面積為 10，請問下三角形面積是多少？\n請在下方填入正確答案。",
+    "answer": "40"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（總面積的平方根剛好是 $3+5=8$。四塊面積佔比為 $3^2 : 5^2 : (3\\times 5) : (3\\times 5) = 9 : 25 : 15 : 15$。總和恰為 64，故上三角形 = 9）",
+    "id": "elementary-gifted-geometry-29-mcq",
+    "prompt": "若梯形總面積為 64 平方單位，上、下底的長度比為 3：5。請問上三角形的面積為何？",
+    "options": [
+      "9",
+      "15",
+      "25",
+      "30"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（總面積的平方根剛好是 $3+5=8$。四塊面積佔比為 $3^2 : 5^2 : (3\\times 5) : (3\\times 5) = 9 : 25 : 15 : 15$。總和恰為 64，故上三角形 = 9）",
+    "id": "elementary-gifted-geometry-29-short",
+    "prompt": "若梯形總面積為 64 平方單位，上、下底的長度比為 3：5。請問上三角形的面積為何？\n請在下方填入正確答案。",
+    "answer": "9"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（底邊比 1：2，面積比 $1^2 : 2^2 = 1 : 4$。$5 \\times 4 = 20$）",
+    "id": "elementary-gifted-geometry-30-mcq",
+    "prompt": "公園裡有一個梯形花圃，中間有兩條交叉的對角線步道。園丁知道上底邊為 2 公尺，下底邊為 4 公尺。若靠上底的花圃面積為 5 平方公尺，請問靠下底的花圃面積是多少？",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（底邊比 1：2，面積比 $1^2 : 2^2 = 1 : 4$。$5 \\times 4 = 20$）",
+    "id": "elementary-gifted-geometry-30-short",
+    "prompt": "公園裡有一個梯形花圃，中間有兩條交叉的對角線步道。園丁知道上底邊為 2 公尺，下底邊為 4 公尺。若靠上底的花圃面積為 5 平方公尺，請問靠下底的花圃面積是多少？\n請在下方填入正確答案。",
+    "answer": "20"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（蝴蝶定理：左右面積必定相等）",
+    "id": "elementary-gifted-geometry-31-mcq",
+    "prompt": "藝術家設計了一面梯形彩繪玻璃，中間有金屬條呈現 X 型交叉。若左側三角形玻璃的面積是 15 平方公分，請問右側三角形玻璃面積應該是多少？",
+    "options": [
+      "10 平方公分",
+      "15 平方公分",
+      "20 平方公分",
+      "條件不足無法計算"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（蝴蝶定理：左右面積必定相等）",
+    "id": "elementary-gifted-geometry-31-short",
+    "prompt": "藝術家設計了一面梯形彩繪玻璃，中間有金屬條呈現 X 型交叉。若左側三角形玻璃的面積是 15 平方公分，請問右側三角形玻璃面積應該是多少？\n請在下方填入正確答案。",
+    "answer": "15 平方公分"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（面積比 100：400 = 1：4，開根號得邊長比 1：2）",
+    "id": "elementary-gifted-geometry-32-mcq",
+    "prompt": "城市規劃中有一塊梯形廣場被對角線分成四區。北區（上）面積 100 坪，南區（下）面積 400 坪。請問廣場北邊與南邊的邊界長度比是多少？",
+    "options": [
+      "1：2",
+      "1：3",
+      "1：4",
+      "1：16"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（面積比 100：400 = 1：4，開根號得邊長比 1：2）",
+    "id": "elementary-gifted-geometry-32-short",
+    "prompt": "城市規劃中有一塊梯形廣場被對角線分成四區。北區（上）面積 100 坪，南區（下）面積 400 坪。請問廣場北邊與南邊的邊界長度比是多少？\n請在下方填入正確答案。",
+    "answer": "1：2"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$12 \\times 12 = 9 \\times D \\rightarrow 144 = 9D \\rightarrow D = 16$）",
+    "id": "elementary-gifted-geometry-33-mcq",
+    "prompt": "小華做了一個梯形風箏，兩根竹條交叉當作骨架。若測得左翼面積 12、右翼面積 12，頭部（上）面積 9。請問尾部（下）面積應為多少，風箏的數學比例才正確？",
+    "options": [
+      "9",
+      "12",
+      "16",
+      "24"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$12 \\times 12 = 9 \\times D \\rightarrow 144 = 9D \\rightarrow D = 16$）",
+    "id": "elementary-gifted-geometry-33-short",
+    "prompt": "小華做了一個梯形風箏，兩根竹條交叉當作骨架。若測得左翼面積 12、右翼面積 12，頭部（上）面積 9。請問尾部（下）面積應為多少，風箏的數學比例才正確？\n請在下方填入正確答案。",
+    "answer": "16"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$30 \\times 30 = 18 \\times D \\rightarrow 900 = 18D \\rightarrow D = 50$）",
+    "id": "elementary-gifted-geometry-34-mcq",
+    "prompt": "測量員發現一塊梯形林地被兩條直線道路交叉貫穿，左側與右側林地面積皆為 30 公畝。若上側林地為 18 公畝，請問下側林地面積為何？",
+    "options": [
+      "18 公畝",
+      "30 公畝",
+      "42 公畝",
+      "50 公畝"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "梯形蝴蝶定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$30 \\times 30 = 18 \\times D \\rightarrow 900 = 18D \\rightarrow D = 50$）",
+    "id": "elementary-gifted-geometry-34-short",
+    "prompt": "測量員發現一塊梯形林地被兩條直線道路交叉貫穿，左側與右側林地面積皆為 30 公畝。若上側林地為 18 公畝，請問下側林地面積為何？\n請在下方填入正確答案。",
+    "answer": "50 公畝"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-35-mcq",
+    "prompt": "皮克定理（Pick's Theorem）主要用來計算什麼圖形的面積？",
+    "options": [
+      "所有圓形",
+      "頂點都在「格點（座標為整數）」上的多邊形",
+      "空間中的立體圖形",
+      "任意不規則曲線"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "",
+    "id": "elementary-gifted-geometry-35-short",
+    "prompt": "皮克定理（Pick's Theorem）主要用來計算什麼圖形的面積？\n請在下方填入正確答案。",
+    "answer": "頂點都在「格點（座標為整數）」上的多邊形"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$I$ = Interior points）",
+    "id": "elementary-gifted-geometry-36-mcq",
+    "prompt": "皮克定理的公式為 $Area = I + \\frac{B}{2} - 1$。請問公式中的「$I$」代表什麼？",
+    "options": [
+      "面積總和",
+      "圖形內部的格點數",
+      "圖形邊界上的格點數",
+      "圖形的邊長"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$I$ = Interior points）",
+    "id": "elementary-gifted-geometry-36-short",
+    "prompt": "皮克定理的公式為 $Area = I + \\frac{B}{2} - 1$。請問公式中的「$I$」代表什麼？\n請在下方填入正確答案。",
+    "answer": "圖形內部的格點數"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$B$ = Boundary points）",
+    "id": "elementary-gifted-geometry-37-mcq",
+    "prompt": "承上題，公式中的「$B$」代表什麼意思？",
+    "options": [
+      "圖形內部的格點數",
+      "圖形邊界上的格點數",
+      "多邊形的邊數",
+      "底邊的長度"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$B$ = Boundary points）",
+    "id": "elementary-gifted-geometry-37-short",
+    "prompt": "承上題，公式中的「$B$」代表什麼意思？\n請在下方填入正確答案。",
+    "answer": "圖形邊界上的格點數"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$0 + \\frac{4}{2} - 1 = 1$）",
+    "id": "elementary-gifted-geometry-38-mcq",
+    "prompt": "若一個格點多邊形的內部沒有任何格點（$I = 0$），且邊界上有 4 個格點（$B = 4$），根據皮克定理，其面積為多少？",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$0 + \\frac{4}{2} - 1 = 1$）",
+    "id": "elementary-gifted-geometry-38-short",
+    "prompt": "若一個格點多邊形的內部沒有任何格點（$I = 0$），且邊界上有 4 個格點（$B = 4$），根據皮克定理，其面積為多少？\n請在下方填入正確答案。",
+    "answer": "1"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$2 + \\frac{6}{2} - 1 = 4$）",
+    "id": "elementary-gifted-geometry-39-mcq",
+    "prompt": "某格點三角形的內部有 2 個格點（$I = 2$），邊界上有 6 個格點（$B = 6$）。請問面積為何？",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（$2 + \\frac{6}{2} - 1 = 4$）",
+    "id": "elementary-gifted-geometry-39-short",
+    "prompt": "某格點三角形的內部有 2 個格點（$I = 2$），邊界上有 6 個格點（$B = 6$）。請問面積為何？\n請在下方填入正確答案。",
+    "answer": "4"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（因為 $B/2$ 會產生 0.5）",
+    "id": "elementary-gifted-geometry-40-mcq",
+    "prompt": "若圖形的邊界格點數 $B$ 是奇數，則算出來的面積會是哪種數值？",
+    "options": [
+      "偶數",
+      "奇數",
+      "帶有 .5 的小數",
+      "無理數"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "基礎記憶",
+    "source": "使用者提供題庫",
+    "explanation": "（因為 $B/2$ 會產生 0.5）",
+    "id": "elementary-gifted-geometry-40-short",
+    "prompt": "若圖形的邊界格點數 $B$ 是奇數，則算出來的面積會是哪種數值？\n請在下方填入正確答案。",
+    "answer": "帶有 .5 的小數"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$10 = I + 4 - 1 \\rightarrow 10 = I + 3 \\rightarrow I = 7$）",
+    "id": "elementary-gifted-geometry-41-mcq",
+    "prompt": "已知一個格點多邊形的面積為 10，邊界上的格點數 $B = 8$。請問圖形內部的格點數 $I$ 是多少？",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$10 = I + 4 - 1 \\rightarrow 10 = I + 3 \\rightarrow I = 7$）",
+    "id": "elementary-gifted-geometry-41-short",
+    "prompt": "已知一個格點多邊形的面積為 10，邊界上的格點數 $B = 8$。請問圖形內部的格點數 $I$ 是多少？\n請在下方填入正確答案。",
+    "answer": "7"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$5 = 3 + \\frac{B}{2} - 1 \\rightarrow 3 = \\frac{B}{2} \\rightarrow B = 6$）",
+    "id": "elementary-gifted-geometry-42-mcq",
+    "prompt": "某格點圖形的面積為 5，已知內部有 3 個格點（$I = 3$），請問邊界上的格點數 $B$ 共有幾個？",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$5 = 3 + \\frac{B}{2} - 1 \\rightarrow 3 = \\frac{B}{2} \\rightarrow B = 6$）",
+    "id": "elementary-gifted-geometry-42-short",
+    "prompt": "某格點圖形的面積為 5，已知內部有 3 個格點（$I = 3$），請問邊界上的格點數 $B$ 共有幾個？\n請在下方填入正確答案。",
+    "answer": "6"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$4 = I + \\frac{8}{2} - 1 \\rightarrow 4 = I + 3 \\rightarrow I = 1$。也就是正中心那一點）",
+    "id": "elementary-gifted-geometry-43-mcq",
+    "prompt": "在方格紙上畫一個邊長為 2 的正方形（四個頂點都在格點上）。其面積為 4，邊界上有 8 個格點。請問正方形內部有幾個格點？",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（$4 = I + \\frac{8}{2} - 1 \\rightarrow 4 = I + 3 \\rightarrow I = 1$。也就是正中心那一點）",
+    "id": "elementary-gifted-geometry-43-short",
+    "prompt": "在方格紙上畫一個邊長為 2 的正方形（四個頂點都在格點上）。其面積為 4，邊界上有 8 個格點。請問正方形內部有幾個格點？\n請在下方填入正確答案。",
+    "answer": "1"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（最少需 $I=0, B=3$（三角形），面積 $= 0 + 1.5 - 1 = 0.5$）",
+    "id": "elementary-gifted-geometry-44-mcq",
+    "prompt": "在格點上能畫出的「面積最小的有效多邊形（不為一條直線）」，其面積是多少？",
+    "options": [
+      "0.5",
+      "1",
+      "1.5",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（最少需 $I=0, B=3$（三角形），面積 $= 0 + 1.5 - 1 = 0.5$）",
+    "id": "elementary-gifted-geometry-44-short",
+    "prompt": "在格點上能畫出的「面積最小的有效多邊形（不為一條直線）」，其面積是多少？\n請在下方填入正確答案。",
+    "answer": "0.5"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（若 $B$ 是奇數，$B/2$ 會有小數點；必須為偶數才能整除，得出整數面積）",
+    "id": "elementary-gifted-geometry-45-mcq",
+    "prompt": "小宇算出一格點多邊形的面積剛好是「整數」，這表示該圖形的邊界格點數 $B$ 必須具備什麼條件？",
+    "options": [
+      "$B$ 必須是質數",
+      "$B$ 必須是 3 的倍數",
+      "$B$ 必須是奇數",
+      "$B$ 必須是偶數"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "進階推論",
+    "source": "使用者提供題庫",
+    "explanation": "（若 $B$ 是奇數，$B/2$ 會有小數點；必須為偶數才能整除，得出整數面積）",
+    "id": "elementary-gifted-geometry-45-short",
+    "prompt": "小宇算出一格點多邊形的面積剛好是「整數」，這表示該圖形的邊界格點數 $B$ 必須具備什麼條件？\n請在下方填入正確答案。",
+    "answer": "$B$ 必須是偶數"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$I=5, B=10$。面積 $= 5 + 5 - 1 = 9$）",
+    "id": "elementary-gifted-geometry-46-mcq",
+    "prompt": "益智課使用「釘板（Geoboard）」排圖形。橡皮筋圍出的多邊形，剛好圈住了裡面 5 根釘子，且橡皮筋本身碰觸到了邊界上 10 根釘子。請問這個圖形的面積是多少？",
+    "options": [
+      "9",
+      "10",
+      "14",
+      "15"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$I=5, B=10$。面積 $= 5 + 5 - 1 = 9$）",
+    "id": "elementary-gifted-geometry-46-short",
+    "prompt": "益智課使用「釘板（Geoboard）」排圖形。橡皮筋圍出的多邊形，剛好圈住了裡面 5 根釘子，且橡皮筋本身碰觸到了邊界上 10 根釘子。請問這個圖形的面積是多少？\n請在下方填入正確答案。",
+    "answer": "9"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$12 + \\frac{14}{2} - 1 = 12 + 7 - 1 = 18$）",
+    "id": "elementary-gifted-geometry-47-mcq",
+    "prompt": "麥塊（Minecraft）創作者在座標圖上設計像素畫。他畫了一個不規則多邊形，數了一下內部有 12 個座標點，邊界線剛好經過 14 個座標點。請問這個圖形佔了多少面積單位？",
+    "options": [
+      "18",
+      "19",
+      "25",
+      "26"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$12 + \\frac{14}{2} - 1 = 12 + 7 - 1 = 18$）",
+    "id": "elementary-gifted-geometry-47-short",
+    "prompt": "麥塊（Minecraft）創作者在座標圖上設計像素畫。他畫了一個不規則多邊形，數了一下內部有 12 個座標點，邊界線剛好經過 14 個座標點。請問這個圖形佔了多少面積單位？\n請在下方填入正確答案。",
+    "answer": "18"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$30 + \\frac{20}{2} - 1 = 39$）",
+    "id": "elementary-gifted-geometry-48-mcq",
+    "prompt": "測量員在地圖座標（每格為 1 單位）上標記一座森林的範圍。已知作為邊界的樹木剛好都在座標格點上，共 20 棵；而森林內部恰好有 30 棵樹在座標格點上。這座森林的面積是多少單位？",
+    "options": [
+      "39",
+      "40",
+      "49",
+      "50"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$30 + \\frac{20}{2} - 1 = 39$）",
+    "id": "elementary-gifted-geometry-48-short",
+    "prompt": "測量員在地圖座標（每格為 1 單位）上標記一座森林的範圍。已知作為邊界的樹木剛好都在座標格點上，共 20 棵；而森林內部恰好有 30 棵樹在座標格點上。這座森林的面積是多少單位？\n請在下方填入正確答案。",
+    "answer": "39"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$15.5 = I + 3.5 - 1 \\rightarrow 15.5 = I + 2.5 \\rightarrow I = 13$）",
+    "id": "elementary-gifted-geometry-49-mcq",
+    "prompt": "學生在圖形解謎中得知，某個格點圖形的面積是 15.5，且邊界上剛好有 7 個點。請問這個圖形「內部」包覆了幾個格點？",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$15.5 = I + 3.5 - 1 \\rightarrow 15.5 = I + 2.5 \\rightarrow I = 13$）",
+    "id": "elementary-gifted-geometry-49-short",
+    "prompt": "學生在圖形解謎中得知，某個格點圖形的面積是 15.5，且邊界上剛好有 7 個點。請問這個圖形「內部」包覆了幾個格點？\n請在下方填入正確答案。",
+    "answer": "13"
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$I=4, B=16$。面積 $= 4 + 8 - 1 = 11$）",
+    "id": "elementary-gifted-geometry-50-mcq",
+    "prompt": "農夫用柵欄在方格座標狀的農地上圍出一個雞舍。柵欄的柱子必須插在格點上，他總共用了 16 根柱子（皆在邊界）。他在雞舍內部每個格點上放了 1 個飼料盆，總共放了 4 個。請問雞舍總面積是多少？",
+    "options": [
+      "11",
+      "12",
+      "19",
+      "20"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國小資優",
+    "subject": "數學",
+    "deck": "皮克定理",
+    "skill": "情境素養",
+    "source": "使用者提供題庫",
+    "explanation": "（$I=4, B=16$。面積 $= 4 + 8 - 1 = 11$）",
+    "id": "elementary-gifted-geometry-50-short",
+    "prompt": "農夫用柵欄在方格座標狀的農地上圍出一個雞舍。柵欄的柱子必須插在格點上，他總共用了 16 根柱子（皆在邊界）。他在雞舍內部每個格點上放了 1 個飼料盆，總共放了 4 個。請問雞舍總面積是多少？\n請在下方填入正確答案。",
+    "answer": "11"
+  }
+]

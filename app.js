@@ -41,7 +41,19 @@ const root = document.querySelector("#app");
 const esc = value => String(value ?? "").replace(/[&<>"']/g, char => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
 }[char]));
-const formatMath = value => esc(value).replace(/\^(?:\{([^{}]+)\}|(-?\d+(?:\.\d+)?|[A-Za-z]|[+\-]))/g, (_, grouped, plain) => `<sup>${grouped ?? plain}</sup>`);
+const formatMath = value => {
+  let output = esc(value).replace(/\$([^$]+)\$/g, "$1");
+  output = output
+    .replace(/\\text\{([^{}]+)\}/g, "$1")
+    .replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, (_, numerator, denominator) => `<span class="fraction"><span>${numerator}</span><span>${denominator}</span></span>`)
+    .replace(/\\overline\{([^{}]+)\}/g, '<span class="overline">$1</span>')
+    .replace(/\\sqrt\{([^{}]+)\}/g, '\u221a($1)')
+    .replace(/\\triangle/g, '\u25b3')
+    .replace(/\\times/g, '\u00d7')
+    .replace(/\\div/g, '\u00f7')
+    .replace(/\\rightarrow/g, '\u2192');
+  return output.replace(/\^(?:\{([^{}]+)\}|(-?\d+(?:\.\d+)?|[A-Za-z]|[+\-]))/g, (_, grouped, plain) => `<sup>${grouped ?? plain}</sup>`);
+};
 const normal = value => String(value ?? "").trim().replace(/\s+/g, "").toLowerCase();
 const typeName = type => type === "short" ? "填充題" : "選擇題";
 const normalizeQuestion = question => {
