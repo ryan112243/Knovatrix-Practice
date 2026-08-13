@@ -87098,5 +87098,6005 @@
     "id": "bank-unit-2070-short",
     "prompt": "請判斷：關於「光年」，哪一個說法正確？\n請在下方填入正確答案。",
     "answer": "光一年走過的距離單位"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：任意整數 a 可寫為 a=bq+r，且 0≤r<b。",
+    "id": "gifted-gifted-001-mcq",
+    "prompt": "關於「帶餘除法」，下列何者正確？",
+    "options": [
+      "餘數可大於除數",
+      "商一定小於零",
+      "餘數不必唯一",
+      "任意整數 a 可寫為 a=bq+r，且 0≤r<b"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：任意整數 a 可寫為 a=bq+r，且 0≤r<b。",
+    "id": "gifted-gifted-001-short",
+    "prompt": "關於「帶餘除法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "任意整數 a 可寫為 a=bq+r，且 0≤r<b"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：gcd(a,b)=gcd(b,a mod b)。",
+    "id": "gifted-gifted-002-mcq",
+    "prompt": "關於「歐幾里得算法」，下列何者正確？",
+    "options": [
+      "只能靠質因數分解",
+      "不能處理大數",
+      "gcd(a,b)=gcd(b,a mod b)",
+      "最大公因數等於兩數和"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：gcd(a,b)=gcd(b,a mod b)。",
+    "id": "gifted-gifted-002-short",
+    "prompt": "關於「歐幾里得算法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "gcd(a,b)=gcd(b,a mod b)"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：大於 1 且正因數只有 1 與本身。",
+    "id": "gifted-gifted-003-mcq",
+    "prompt": "關於「質數」，下列何者正確？",
+    "options": [
+      "所有負數",
+      "大於 1 且正因數只有 1 與本身",
+      "所有奇數",
+      "1 是最小質數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：大於 1 且正因數只有 1 與本身。",
+    "id": "gifted-gifted-003-short",
+    "prompt": "關於「質數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "大於 1 且正因數只有 1 與本身"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：每個大於 1 的整數可唯一分解為質數乘積（忽略順序）。",
+    "id": "gifted-gifted-004-mcq",
+    "prompt": "關於「唯一分解定理」，下列何者正確？",
+    "options": [
+      "每個大於 1 的整數可唯一分解為質數乘積（忽略順序）",
+      "質因數分解不唯一",
+      "所有整數都是質數",
+      "只能分解偶數"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：每個大於 1 的整數可唯一分解為質數乘積（忽略順序）。",
+    "id": "gifted-gifted-004-short",
+    "prompt": "關於「唯一分解定理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "每個大於 1 的整數可唯一分解為質數乘積（忽略順序）"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 a≡b (mod n)，c≡d (mod n)，則 a+c≡b+d。",
+    "id": "gifted-gifted-005-mcq",
+    "prompt": "關於「模運算加法」，下列何者正確？",
+    "options": [
+      "同餘數不能相加",
+      "同餘只可用除法",
+      "餘數一定相等於原數",
+      "若 a≡b (mod n)，c≡d (mod n)，則 a+c≡b+d"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 a≡b (mod n)，c≡d (mod n)，則 a+c≡b+d。",
+    "id": "gifted-gifted-005-short",
+    "prompt": "關於「模運算加法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "若 a≡b (mod n)，c≡d (mod n)，則 a+c≡b+d"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 a≡b (mod n)，c≡d (mod n)，則 ac≡bd。",
+    "id": "gifted-gifted-006-mcq",
+    "prompt": "關於「模運算乘法」，下列何者正確？",
+    "options": [
+      "乘法後模數改變",
+      "只能處理質數模",
+      "若 a≡b (mod n)，c≡d (mod n)，則 ac≡bd",
+      "同餘數不能相乘"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 a≡b (mod n)，c≡d (mod n)，則 ac≡bd。",
+    "id": "gifted-gifted-006-short",
+    "prompt": "關於「模運算乘法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "若 a≡b (mod n)，c≡d (mod n)，則 ac≡bd"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：p 為質數且 p 不整除 a 時，a^(p-1)≡1 (mod p)。",
+    "id": "gifted-gifted-007-mcq",
+    "prompt": "關於「費馬小定理」，下列何者正確？",
+    "options": [
+      "不需 p 為質數",
+      "p 為質數且 p 不整除 a 時，a^(p-1)≡1 (mod p)",
+      "所有 a 都有 a^p≡0",
+      "只適用合數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：p 為質數且 p 不整除 a 時，a^(p-1)≡1 (mod p)。",
+    "id": "gifted-gifted-007-short",
+    "prompt": "關於「費馬小定理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "p 為質數且 p 不整除 a 時，a^(p-1)≡1 (mod p)"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：奇數加奇數為偶數。",
+    "id": "gifted-gifted-008-mcq",
+    "prompt": "關於「奇偶性」，下列何者正確？",
+    "options": [
+      "奇數加奇數為偶數",
+      "奇數加奇數為奇數",
+      "偶數加偶數為奇數",
+      "奇數乘奇數為偶數"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：奇數加奇數為偶數。",
+    "id": "gifted-gifted-008-short",
+    "prompt": "關於「奇偶性」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "奇數加奇數為偶數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：任何整數平方除以 4 的餘數只可能為 0 或 1。",
+    "id": "gifted-gifted-009-mcq",
+    "prompt": "關於「平方餘數」，下列何者正確？",
+    "options": [
+      "平方除以 4 可餘 2",
+      "平方除以 4 可餘 3",
+      "平方餘數沒有規律",
+      "任何整數平方除以 4 的餘數只可能為 0 或 1"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：任何整數平方除以 4 的餘數只可能為 0 或 1。",
+    "id": "gifted-gifted-009-short",
+    "prompt": "關於「平方餘數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "任何整數平方除以 4 的餘數只可能為 0 或 1"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 d 同時整除 a、b，則 d 也整除 ax+by。",
+    "id": "gifted-gifted-010-mcq",
+    "prompt": "關於「整除線性組合」，下列何者正確？",
+    "options": [
+      "只能取 x=y=1",
+      "d 必定等於 a+b",
+      "若 d 同時整除 a、b，則 d 也整除 ax+by",
+      "整除性不會保留"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 d 同時整除 a、b，則 d 也整除 ax+by。",
+    "id": "gifted-gifted-010-short",
+    "prompt": "關於「整除線性組合」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "若 d 同時整除 a、b，則 d 也整除 ax+by"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 gcd(c,n)=1 且 ac≡bc (mod n)，則可消去 c。",
+    "id": "gifted-gifted-011-mcq",
+    "prompt": "關於「同餘消去」，下列何者正確？",
+    "options": [
+      "同餘不能消去",
+      "若 gcd(c,n)=1 且 ac≡bc (mod n)，則可消去 c",
+      "任何 c 都可消去",
+      "只能消去零"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜整除、質數與同餘",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 gcd(c,n)=1 且 ac≡bc (mod n)，則可消去 c。",
+    "id": "gifted-gifted-011-short",
+    "prompt": "關於「同餘消去」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "若 gcd(c,n)=1 且 ac≡bc (mod n)，則可消去 c"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：非零多項式的次數是各項中最高次數。",
+    "id": "gifted-gifted-012-mcq",
+    "prompt": "關於「多項式次數」，下列何者正確？",
+    "options": [
+      "非零多項式的次數是各項中最高次數",
+      "等於項數",
+      "等於最高係數",
+      "常數多項式次數一定 1"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：非零多項式的次數是各項中最高次數。",
+    "id": "gifted-gifted-012-short",
+    "prompt": "關於「多項式次數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "非零多項式的次數是各項中最高次數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：多項式 f(x) 除以 x-a 的餘式為 f(a)。",
+    "id": "gifted-gifted-013-mcq",
+    "prompt": "關於「餘式定理」，下列何者正確？",
+    "options": [
+      "餘式永遠為零",
+      "只可用於二次式",
+      "需先因式分解",
+      "多項式 f(x) 除以 x-a 的餘式為 f(a)"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：多項式 f(x) 除以 x-a 的餘式為 f(a)。",
+    "id": "gifted-gifted-013-short",
+    "prompt": "關於「餘式定理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "多項式 f(x) 除以 x-a 的餘式為 f(a)"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：f(a)=0 時，x-a 是 f(x) 的因式。",
+    "id": "gifted-gifted-014-mcq",
+    "prompt": "關於「因式定理」，下列何者正確？",
+    "options": [
+      "因式不影響根",
+      "只適用常數",
+      "f(a)=0 時，x-a 是 f(x) 的因式",
+      "f(a)=1 才是因式"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：f(a)=0 時，x-a 是 f(x) 的因式。",
+    "id": "gifted-gifted-014-short",
+    "prompt": "關於「因式定理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "f(a)=0 時，x-a 是 f(x) 的因式"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：二次 ax²+bx+c 的兩根和為 -b/a、根積為 c/a。",
+    "id": "gifted-gifted-015-mcq",
+    "prompt": "關於「韋達定理」，下列何者正確？",
+    "options": [
+      "只適用無實根",
+      "二次 ax²+bx+c 的兩根和為 -b/a、根積為 c/a",
+      "根和為 b/a",
+      "根積為 -c/a"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：二次 ax²+bx+c 的兩根和為 -b/a、根積為 c/a。",
+    "id": "gifted-gifted-015-short",
+    "prompt": "關於「韋達定理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "二次 ax²+bx+c 的兩根和為 -b/a、根積為 c/a"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可將二次式整理為平方加減常數。",
+    "id": "gifted-gifted-016-mcq",
+    "prompt": "關於「配方法」，下列何者正確？",
+    "options": [
+      "可將二次式整理為平方加減常數",
+      "只可用於一次式",
+      "不能求最值",
+      "不需調整係數"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可將二次式整理為平方加減常數。",
+    "id": "gifted-gifted-016-short",
+    "prompt": "關於「配方法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "可將二次式整理為平方加減常數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：非負 a,b 有 a+b≥2√(ab)。",
+    "id": "gifted-gifted-017-mcq",
+    "prompt": "關於「均值不等式」，下列何者正確？",
+    "options": [
+      "a+b≤2√(ab)",
+      "只在 a=b 以外成立",
+      "不需非負條件",
+      "非負 a,b 有 a+b≥2√(ab)"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：非負 a,b 有 a+b≥2√(ab)。",
+    "id": "gifted-gifted-017-short",
+    "prompt": "關於「均值不等式」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "非負 a,b 有 a+b≥2√(ab)"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：任何實數 t 都有 t²≥0。",
+    "id": "gifted-gifted-018-mcq",
+    "prompt": "關於「平方非負」，下列何者正確？",
+    "options": [
+      "負數平方仍為負",
+      "只對整數成立",
+      "任何實數 t 都有 t²≥0",
+      "t² 一定大於 0"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：任何實數 t 都有 t²≥0。",
+    "id": "gifted-gifted-018-short",
+    "prompt": "關於「平方非負」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "任何實數 t 都有 t²≥0"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：|x| 表示 x 到 0 的距離，故 |x|≥0。",
+    "id": "gifted-gifted-019-mcq",
+    "prompt": "關於「絕對值」，下列何者正確？",
+    "options": [
+      "只對正數有意義",
+      "|x| 表示 x 到 0 的距離，故 |x|≥0",
+      "|x| 可為負",
+      "|x|=x 永遠成立"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：|x| 表示 x 到 0 的距離，故 |x|≥0。",
+    "id": "gifted-gifted-019-short",
+    "prompt": "關於「絕對值」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "|x| 表示 x 到 0 的距離，故 |x|≥0"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：二次方程判別式可判定相異實根數。",
+    "id": "gifted-gifted-020-mcq",
+    "prompt": "關於「根的個數」，下列何者正確？",
+    "options": [
+      "二次方程判別式可判定相異實根數",
+      "只看常數項",
+      "根數永遠兩個",
+      "判別式只求斜率"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：二次方程判別式可判定相異實根數。",
+    "id": "gifted-gifted-020-short",
+    "prompt": "關於「根的個數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "二次方程判別式可判定相異實根數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：兩多項式對所有 x 值相等時，各對應係數相等。",
+    "id": "gifted-gifted-021-mcq",
+    "prompt": "關於「多項式恆等」，下列何者正確？",
+    "options": [
+      "只要一個 x 相等即可",
+      "係數可任意不同",
+      "恆等式不需驗證",
+      "兩多項式對所有 x 值相等時，各對應係數相等"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：兩多項式對所有 x 值相等時，各對應係數相等。",
+    "id": "gifted-gifted-021-short",
+    "prompt": "關於「多項式恆等」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "兩多項式對所有 x 值相等時，各對應係數相等"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：把複雜式視為新變數可降低結構複雜度。",
+    "id": "gifted-gifted-022-mcq",
+    "prompt": "關於「代換法」，下列何者正確？",
+    "options": [
+      "不能代換根式",
+      "只可代換常數",
+      "把複雜式視為新變數可降低結構複雜度",
+      "代換一定增加次數"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜多項式、方程與不等式",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：把複雜式視為新變數可降低結構複雜度。",
+    "id": "gifted-gifted-022-short",
+    "prompt": "關於「代換法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "把複雜式視為新變數可降低結構複雜度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：每個自變數輸入只能對應一個函數值。",
+    "id": "gifted-gifted-023-mcq",
+    "prompt": "關於「函數定義」，下列何者正確？",
+    "options": [
+      "圖形必為直線",
+      "每個自變數輸入只能對應一個函數值",
+      "一個輸入可對應多個輸出",
+      "不需定義域"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：每個自變數輸入只能對應一個函數值。",
+    "id": "gifted-gifted-023-short",
+    "prompt": "關於「函數定義」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "每個自變數輸入只能對應一個函數值"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：用前幾項關係定義後續項。",
+    "id": "gifted-gifted-024-mcq",
+    "prompt": "關於「遞迴數列」，下列何者正確？",
+    "options": [
+      "用前幾項關係定義後續項",
+      "每項必有顯式公式",
+      "不能計算",
+      "只可等差"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：用前幾項關係定義後續項。",
+    "id": "gifted-gifted-024-short",
+    "prompt": "關於「遞迴數列」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "用前幾項關係定義後續項"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：a_n=a_1+(n-1)d。",
+    "id": "gifted-gifted-025-mcq",
+    "prompt": "關於「等差數列」，下列何者正確？",
+    "options": [
+      "a_n=a_1d^n",
+      "公差每項不同",
+      "一定遞增",
+      "a_n=a_1+(n-1)d"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：a_n=a_1+(n-1)d。",
+    "id": "gifted-gifted-025-short",
+    "prompt": "關於「等差數列」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "a_n=a_1+(n-1)d"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：a_n=a_1r^(n-1)。",
+    "id": "gifted-gifted-026-mcq",
+    "prompt": "關於「等比數列」，下列何者正確？",
+    "options": [
+      "公比等於加法",
+      "一定為整數",
+      "a_n=a_1r^(n-1)",
+      "相鄰項差固定"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：a_n=a_1r^(n-1)。",
+    "id": "gifted-gifted-026-short",
+    "prompt": "關於「等比數列」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "a_n=a_1r^(n-1)"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：前 n 項和為 n(a_1+a_n)/2。",
+    "id": "gifted-gifted-027-mcq",
+    "prompt": "關於「等差級數」，下列何者正確？",
+    "options": [
+      "只可正公差",
+      "前 n 項和為 n(a_1+a_n)/2",
+      "等於首末項相乘",
+      "不需項數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：前 n 項和為 n(a_1+a_n)/2。",
+    "id": "gifted-gifted-027-short",
+    "prompt": "關於「等差級數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "前 n 項和為 n(a_1+a_n)/2"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：公比 r≠1 時前 n 項和為 a_1(1-r^n)/(1-r)。",
+    "id": "gifted-gifted-028-mcq",
+    "prompt": "關於「等比級數」，下列何者正確？",
+    "options": [
+      "公比 r≠1 時前 n 項和為 a_1(1-r^n)/(1-r)",
+      "只需首項加末項",
+      "公比不可為零",
+      "不能求和"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：公比 r≠1 時前 n 項和為 a_1(1-r^n)/(1-r)。",
+    "id": "gifted-gifted-028-short",
+    "prompt": "關於「等比級數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "公比 r≠1 時前 n 項和為 a_1(1-r^n)/(1-r)"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若相鄰差全正則數列遞增。",
+    "id": "gifted-gifted-029-mcq",
+    "prompt": "關於「單調性」，下列何者正確？",
+    "options": [
+      "遞增數列差一定負",
+      "只看第一項",
+      "與差無關",
+      "若相鄰差全正則數列遞增"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若相鄰差全正則數列遞增。",
+    "id": "gifted-gifted-029-short",
+    "prompt": "關於「單調性」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "若相鄰差全正則數列遞增"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：找最小重複週期後可用索引除以週期長度。",
+    "id": "gifted-gifted-030-mcq",
+    "prompt": "關於「週期數列」，下列何者正確？",
+    "options": [
+      "週期一定為 2",
+      "不能用餘數",
+      "找最小重複週期後可用索引除以週期長度",
+      "每項都要算到目標"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：找最小重複週期後可用索引除以週期長度。",
+    "id": "gifted-gifted-030-short",
+    "prompt": "關於「週期數列」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "找最小重複週期後可用索引除以週期長度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：(f∘g)(x)=f(g(x))。",
+    "id": "gifted-gifted-031-mcq",
+    "prompt": "關於「函數合成」，下列何者正確？",
+    "options": [
+      "只能合成線型函數",
+      "(f∘g)(x)=f(g(x))",
+      "等於 f(x)+g(x)",
+      "順序不影響"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：(f∘g)(x)=f(g(x))。",
+    "id": "gifted-gifted-031-short",
+    "prompt": "關於「函數合成」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "(f∘g)(x)=f(g(x))"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：一一對應函數才可能有反函數。",
+    "id": "gifted-gifted-032-mcq",
+    "prompt": "關於「反函數」，下列何者正確？",
+    "options": [
+      "一一對應函數才可能有反函數",
+      "所有函數都有反函數",
+      "反函數等於倒數",
+      "不需要交換 x、y"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：一一對應函數才可能有反函數。",
+    "id": "gifted-gifted-032-short",
+    "prompt": "關於「反函數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "一一對應函數才可能有反函數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可先列前幾項找規律，再用歸納或代入驗證。",
+    "id": "gifted-gifted-033-mcq",
+    "prompt": "關於「遞迴猜想」，下列何者正確？",
+    "options": [
+      "列幾項即完全證明",
+      "不需驗證",
+      "只能猜偶數項",
+      "可先列前幾項找規律，再用歸納或代入驗證"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜函數、數列與遞迴",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可先列前幾項找規律，再用歸納或代入驗證。",
+    "id": "gifted-gifted-033-short",
+    "prompt": "關於「遞迴猜想」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "可先列前幾項找規律，再用歸納或代入驗證"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：任一三角形內角和為 180°。",
+    "id": "gifted-gifted-034-mcq",
+    "prompt": "關於「三角形內角和」，下列何者正確？",
+    "options": [
+      "只直角三角形為 180°",
+      "與邊長相等",
+      "任一三角形內角和為 180°",
+      "為 360°"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：任一三角形內角和為 180°。",
+    "id": "gifted-gifted-034-short",
+    "prompt": "關於「三角形內角和」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "任一三角形內角和為 180°"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：外角等於兩個不相鄰內角和。",
+    "id": "gifted-gifted-035-mcq",
+    "prompt": "關於「外角定理」，下列何者正確？",
+    "options": [
+      "外角和為 180°",
+      "外角等於兩個不相鄰內角和",
+      "外角等於相鄰內角",
+      "外角永遠 90°"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：外角等於兩個不相鄰內角和。",
+    "id": "gifted-gifted-035-short",
+    "prompt": "關於「外角定理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "外角等於兩個不相鄰內角和"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：直角三角形斜邊平方等於兩股平方和。",
+    "id": "gifted-gifted-036-mcq",
+    "prompt": "關於「畢氏定理」，下列何者正確？",
+    "options": [
+      "直角三角形斜邊平方等於兩股平方和",
+      "任意三角形皆可用",
+      "斜邊最短",
+      "兩股和等於斜邊"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：直角三角形斜邊平方等於兩股平方和。",
+    "id": "gifted-gifted-036-short",
+    "prompt": "關於「畢氏定理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "直角三角形斜邊平方等於兩股平方和"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：對應角相等、對應邊成比例。",
+    "id": "gifted-gifted-037-mcq",
+    "prompt": "關於「相似三角形」，下列何者正確？",
+    "options": [
+      "對應邊必相等",
+      "面積必相等",
+      "周長必相等",
+      "對應角相等、對應邊成比例"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：對應角相等、對應邊成比例。",
+    "id": "gifted-gifted-037-short",
+    "prompt": "關於「相似三角形」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "對應角相等、對應邊成比例"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：兩角分別相等可判定三角形相似。",
+    "id": "gifted-gifted-038-mcq",
+    "prompt": "關於「AA 判定」，下列何者正確？",
+    "options": [
+      "只需一角",
+      "只比較周長",
+      "兩角分別相等可判定三角形相似",
+      "兩角相等可判定全等"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：兩角分別相等可判定三角形相似。",
+    "id": "gifted-gifted-038-short",
+    "prompt": "關於「AA 判定」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "兩角分別相等可判定三角形相似"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：等於相似比的平方。",
+    "id": "gifted-gifted-039-mcq",
+    "prompt": "關於「相似面積比」，下列何者正確？",
+    "options": [
+      "與相似比無關",
+      "等於相似比的平方",
+      "等於相似比",
+      "等於相似比的立方"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：等於相似比的平方。",
+    "id": "gifted-gifted-039-short",
+    "prompt": "關於「相似面積比」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "等於相似比的平方"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同弧所對圓周角為圓心角的一半。",
+    "id": "gifted-gifted-040-mcq",
+    "prompt": "關於「圓周角」，下列何者正確？",
+    "options": [
+      "同弧所對圓周角為圓心角的一半",
+      "等於圓心角兩倍",
+      "一定是 90°",
+      "與弧無關"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同弧所對圓周角為圓心角的一半。",
+    "id": "gifted-gifted-040-short",
+    "prompt": "關於「圓周角」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "同弧所對圓周角為圓心角的一半"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：半圓所對圓周角為 90°。",
+    "id": "gifted-gifted-041-mcq",
+    "prompt": "關於「直徑圓周角」，下列何者正確？",
+    "options": [
+      "為 180°",
+      "為 60°",
+      "為 0°",
+      "半圓所對圓周角為 90°"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：半圓所對圓周角為 90°。",
+    "id": "gifted-gifted-041-short",
+    "prompt": "關於「直徑圓周角」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "半圓所對圓周角為 90°"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：切線與切點半徑垂直。",
+    "id": "gifted-gifted-042-mcq",
+    "prompt": "關於「切線半徑」，下列何者正確？",
+    "options": [
+      "切線通過圓心",
+      "切線不接觸圓",
+      "切線與切點半徑垂直",
+      "切線與半徑平行"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：切線與切點半徑垂直。",
+    "id": "gifted-gifted-042-short",
+    "prompt": "關於「切線半徑」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "切線與切點半徑垂直"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：通過圓心且垂直弦時平分該弦。",
+    "id": "gifted-gifted-043-mcq",
+    "prompt": "關於「弦中垂線」，下列何者正確？",
+    "options": [
+      "不需圓心",
+      "通過圓心且垂直弦時平分該弦",
+      "所有弦都是直徑",
+      "弦一定平行"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：通過圓心且垂直弦時平分該弦。",
+    "id": "gifted-gifted-043-short",
+    "prompt": "關於「弦中垂線」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "通過圓心且垂直弦時平分該弦"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先標示對應角與對應邊，再建立比例。",
+    "id": "gifted-gifted-044-mcq",
+    "prompt": "關於「相似解題」，下列何者正確？",
+    "options": [
+      "先標示對應角與對應邊，再建立比例",
+      "直接猜比例",
+      "只量圖形",
+      "不需確認對應"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜三角形、圓與相似",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先標示對應角與對應邊，再建立比例。",
+    "id": "gifted-gifted-044-short",
+    "prompt": "關於「相似解題」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "先標示對應角與對應邊，再建立比例"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：互斥分類情況的選法相加。",
+    "id": "gifted-gifted-045-mcq",
+    "prompt": "關於「加法原理」，下列何者正確？",
+    "options": [
+      "所有選法相乘",
+      "一定用除法",
+      "不需避免重複",
+      "互斥分類情況的選法相加"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：互斥分類情況的選法相加。",
+    "id": "gifted-gifted-045-short",
+    "prompt": "關於「加法原理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "互斥分類情況的選法相加"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：連續步驟的選法相乘。",
+    "id": "gifted-gifted-046-mcq",
+    "prompt": "關於「乘法原理」，下列何者正確？",
+    "options": [
+      "只看最後一步",
+      "不能用於排列",
+      "連續步驟的選法相乘",
+      "所有步驟相加"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：連續步驟的選法相乘。",
+    "id": "gifted-gifted-046-short",
+    "prompt": "關於「乘法原理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "連續步驟的選法相乘"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：重視順序的選取。",
+    "id": "gifted-gifted-047-mcq",
+    "prompt": "關於「排列」，下列何者正確？",
+    "options": [
+      "只選一個物件",
+      "重視順序的選取",
+      "不重視順序",
+      "一定可重複"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：重視順序的選取。",
+    "id": "gifted-gifted-047-short",
+    "prompt": "關於「排列」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "重視順序的選取"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：不重視順序的選取。",
+    "id": "gifted-gifted-048-mcq",
+    "prompt": "關於「組合」，下列何者正確？",
+    "options": [
+      "不重視順序的選取",
+      "必須排座位",
+      "等於排列乘 n!",
+      "只能選全部"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：不重視順序的選取。",
+    "id": "gifted-gifted-048-short",
+    "prompt": "關於「組合」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "不重視順序的選取"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：n! = n(n-1)…1。",
+    "id": "gifted-gifted-049-mcq",
+    "prompt": "關於「階乘」，下列何者正確？",
+    "options": [
+      "n!=n+n",
+      "0!=0",
+      "階乘可為負",
+      "n! = n(n-1)…1"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：n! = n(n-1)…1。",
+    "id": "gifted-gifted-049-short",
+    "prompt": "關於「階乘」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "n! = n(n-1)…1"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：C(n,r)=n!/[r!(n-r)!]。",
+    "id": "gifted-gifted-050-mcq",
+    "prompt": "關於「組合公式」，下列何者正確？",
+    "options": [
+      "不需除法",
+      "等於 n^r",
+      "C(n,r)=n!/[r!(n-r)!]",
+      "C(n,r)=n!r!"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：C(n,r)=n!/[r!(n-r)!]。",
+    "id": "gifted-gifted-050-short",
+    "prompt": "關於「組合公式」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "C(n,r)=n!/[r!(n-r)!]"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：P(n,r)=n!/(n-r)!。",
+    "id": "gifted-gifted-051-mcq",
+    "prompt": "關於「排列公式」，下列何者正確？",
+    "options": [
+      "不分順序",
+      "P(n,r)=n!/(n-r)!",
+      "P(n,r)=C(n,r)",
+      "等於 r!/(n-r)!"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：P(n,r)=n!/(n-r)!。",
+    "id": "gifted-gifted-051-short",
+    "prompt": "關於「排列公式」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "P(n,r)=n!/(n-r)!"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：有利結果數除以等可能總結果數。",
+    "id": "gifted-gifted-052-mcq",
+    "prompt": "關於「古典機率」，下列何者正確？",
+    "options": [
+      "有利結果數除以等可能總結果數",
+      "總結果除有利結果",
+      "機率必大於 1",
+      "可為負"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：有利結果數除以等可能總結果數。",
+    "id": "gifted-gifted-052-short",
+    "prompt": "關於「古典機率」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "有利結果數除以等可能總結果數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：P(A^c)=1-P(A)。",
+    "id": "gifted-gifted-053-mcq",
+    "prompt": "關於「補事件」，下列何者正確？",
+    "options": [
+      "等於 P(A)",
+      "等於 1+P(A)",
+      "一定為零",
+      "P(A^c)=1-P(A)"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：P(A^c)=1-P(A)。",
+    "id": "gifted-gifted-053-short",
+    "prompt": "關於「補事件」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "P(A^c)=1-P(A)"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：|A∪B|=|A|+|B|-|A∩B|。",
+    "id": "gifted-gifted-054-mcq",
+    "prompt": "關於「容斥原理」，下列何者正確？",
+    "options": [
+      "聯集等於乘積",
+      "只適用互斥",
+      "|A∪B|=|A|+|B|-|A∩B|",
+      "交集要加兩次"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：|A∪B|=|A|+|B|-|A∩B|。",
+    "id": "gifted-gifted-054-short",
+    "prompt": "關於「容斥原理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "|A∪B|=|A|+|B|-|A∩B|"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：N+1 個物件放 N 個盒子，至少一盒有兩個。",
+    "id": "gifted-gifted-055-mcq",
+    "prompt": "關於「抽屜原理」，下列何者正確？",
+    "options": [
+      "與數量無關",
+      "N+1 個物件放 N 個盒子，至少一盒有兩個",
+      "N 個物件放 N 盒必重複",
+      "每盒剛好一個"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "先修｜排列組合與機率",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：N+1 個物件放 N 個盒子，至少一盒有兩個。",
+    "id": "gifted-gifted-055-short",
+    "prompt": "關於「抽屜原理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "N+1 個物件放 N 個盒子，至少一盒有兩個"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：整數解方程常需利用整除性與範圍。",
+    "id": "gifted-gifted-056-mcq",
+    "prompt": "關於「不定方程」，下列何者正確？",
+    "options": [
+      "整數解方程常需利用整除性與範圍",
+      "所有解必為實數",
+      "只可用公式解",
+      "不需考慮整數"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：整數解方程常需利用整除性與範圍。",
+    "id": "gifted-gifted-056-short",
+    "prompt": "關於「不定方程」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "整數解方程常需利用整除性與範圍"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：ax+by=c 有整數解的必要充分條件是 gcd(a,b) 整除 c。",
+    "id": "gifted-gifted-057-mcq",
+    "prompt": "關於「線性不定方程」，下列何者正確？",
+    "options": [
+      "只要 c 為正",
+      "a,b 必互質",
+      "永遠有解",
+      "ax+by=c 有整數解的必要充分條件是 gcd(a,b) 整除 c"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：ax+by=c 有整數解的必要充分條件是 gcd(a,b) 整除 c。",
+    "id": "gifted-gifted-057-short",
+    "prompt": "關於「線性不定方程」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "ax+by=c 有整數解的必要充分條件是 gcd(a,b) 整除 c"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可先取模排除不可能整數解。",
+    "id": "gifted-gifted-058-mcq",
+    "prompt": "關於「模運算篩選」，下列何者正確？",
+    "options": [
+      "無法判斷解",
+      "必須列舉全部",
+      "可先取模排除不可能整數解",
+      "模運算只能求餘數"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可先取模排除不可能整數解。",
+    "id": "gifted-gifted-058-short",
+    "prompt": "關於「模運算篩選」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "可先取模排除不可能整數解"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可利用左右奇偶矛盾證明無整數解。",
+    "id": "gifted-gifted-059-mcq",
+    "prompt": "關於「奇偶性篩選」，下列何者正確？",
+    "options": [
+      "不能作證明",
+      "可利用左右奇偶矛盾證明無整數解",
+      "奇偶性不影響方程",
+      "只適用偶數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可利用左右奇偶矛盾證明無整數解。",
+    "id": "gifted-gifted-059-short",
+    "prompt": "關於「奇偶性篩選」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "可利用左右奇偶矛盾證明無整數解"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：乘積中質因數指數相加。",
+    "id": "gifted-gifted-060-mcq",
+    "prompt": "關於「質因數指數」，下列何者正確？",
+    "options": [
+      "乘積中質因數指數相加",
+      "質因數指數相乘",
+      "除法時也相加",
+      "與整除無關"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：乘積中質因數指數相加。",
+    "id": "gifted-gifted-060-short",
+    "prompt": "關於「質因數指數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "乘積中質因數指數相加"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 n=∏p_i^a_i，正因數個數為 ∏(a_i+1)。",
+    "id": "gifted-gifted-061-mcq",
+    "prompt": "關於「正因數個數」，下列何者正確？",
+    "options": [
+      "等於質因數數量",
+      "等於指數和",
+      "永遠為偶數",
+      "若 n=∏p_i^a_i，正因數個數為 ∏(a_i+1)"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若 n=∏p_i^a_i，正因數個數為 ∏(a_i+1)。",
+    "id": "gifted-gifted-061-short",
+    "prompt": "關於「正因數個數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "若 n=∏p_i^a_i，正因數個數為 ∏(a_i+1)"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：質因數分解中每個指數皆為偶數。",
+    "id": "gifted-gifted-062-mcq",
+    "prompt": "關於「完全平方數」，下列何者正確？",
+    "options": [
+      "因數個數一定偶數",
+      "一定大於 100",
+      "質因數分解中每個指數皆為偶數",
+      "只要是偶數"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：質因數分解中每個指數皆為偶數。",
+    "id": "gifted-gifted-062-short",
+    "prompt": "關於「完全平方數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "質因數分解中每個指數皆為偶數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：φ(n) 表示 1 到 n 中與 n 互質的正整數個數。",
+    "id": "gifted-gifted-063-mcq",
+    "prompt": "關於「歐拉函數」，下列何者正確？",
+    "options": [
+      "永遠等於 n",
+      "φ(n) 表示 1 到 n 中與 n 互質的正整數個數",
+      "表示 n 的因數個數",
+      "表示質數個數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：φ(n) 表示 1 到 n 中與 n 互質的正整數個數。",
+    "id": "gifted-gifted-063-short",
+    "prompt": "關於「歐拉函數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "φ(n) 表示 1 到 n 中與 n 互質的正整數個數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：gcd(a,b)=1。",
+    "id": "gifted-gifted-064-mcq",
+    "prompt": "關於「互質」，下列何者正確？",
+    "options": [
+      "gcd(a,b)=1",
+      "a,b 都是質數",
+      "a,b 一定相鄰",
+      "和為 1"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：gcd(a,b)=1。",
+    "id": "gifted-gifted-064-short",
+    "prompt": "關於「互質」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "gcd(a,b)=1"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：對互質模數的同餘條件可逐步合併。",
+    "id": "gifted-gifted-065-mcq",
+    "prompt": "關於「中國剩餘思路」，下列何者正確？",
+    "options": [
+      "同餘條件不能合併",
+      "只能用一個模數",
+      "不需互質條件",
+      "對互質模數的同餘條件可逐步合併"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：對互質模數的同餘條件可逐步合併。",
+    "id": "gifted-gifted-065-short",
+    "prompt": "關於「中國剩餘思路」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "對互質模數的同餘條件可逐步合併"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：正因數成對相乘為 n，平方數才有中間未配對因數。",
+    "id": "gifted-gifted-066-mcq",
+    "prompt": "關於「因數配對」，下列何者正確？",
+    "options": [
+      "平方數因數必偶數",
+      "與平方無關",
+      "正因數成對相乘為 n，平方數才有中間未配對因數",
+      "所有因數都成三個一組"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不定方程與數論函數",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：正因數成對相乘為 n，平方數才有中間未配對因數。",
+    "id": "gifted-gifted-066-short",
+    "prompt": "關於「因數配對」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "正因數成對相乘為 n，平方數才有中間未配對因數"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：(∑x_i²)(∑y_i²)≥(∑x_iy_i)²。",
+    "id": "gifted-gifted-067-mcq",
+    "prompt": "關於「柯西不等式」，下列何者正確？",
+    "options": [
+      "無等號條件",
+      "(∑x_i²)(∑y_i²)≥(∑x_iy_i)²",
+      "內積一定大於平方和",
+      "只適用負數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：(∑x_i²)(∑y_i²)≥(∑x_iy_i)²。",
+    "id": "gifted-gifted-067-short",
+    "prompt": "關於「柯西不等式」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "(∑x_i²)(∑y_i²)≥(∑x_iy_i)²"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：非負數相等時取得等號。",
+    "id": "gifted-gifted-068-mcq",
+    "prompt": "關於「AM-GM 等號」，下列何者正確？",
+    "options": [
+      "非負數相等時取得等號",
+      "一大一小時等號",
+      "永遠不等號",
+      "等號與數值無關"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：非負數相等時取得等號。",
+    "id": "gifted-gifted-068-short",
+    "prompt": "關於「AM-GM 等號」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "非負數相等時取得等號"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：把式子寫成平方加常數可找最小或最大值。",
+    "id": "gifted-gifted-069-mcq",
+    "prompt": "關於「配方最值」，下列何者正確？",
+    "options": [
+      "平方項無法判斷",
+      "只看係數和",
+      "不需範圍",
+      "把式子寫成平方加常數可找最小或最大值"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：把式子寫成平方加常數可找最小或最大值。",
+    "id": "gifted-gifted-069-short",
+    "prompt": "關於「配方最值」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "把式子寫成平方加常數可找最小或最大值"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可代入特殊值如 0、1 或互換變數找關係。",
+    "id": "gifted-gifted-070-mcq",
+    "prompt": "關於「函數方程」，下列何者正確？",
+    "options": [
+      "只可畫圖",
+      "一定沒有解",
+      "可代入特殊值如 0、1 或互換變數找關係",
+      "不能代入"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可代入特殊值如 0、1 或互換變數找關係。",
+    "id": "gifted-gifted-070-short",
+    "prompt": "關於「函數方程」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "可代入特殊值如 0、1 或互換變數找關係"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：嚴格單調函數具有一對一性。",
+    "id": "gifted-gifted-071-mcq",
+    "prompt": "關於「單調函數」，下列何者正確？",
+    "options": [
+      "與反函數無關",
+      "嚴格單調函數具有一對一性",
+      "單調函數一定常數",
+      "一對一必不單調"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：嚴格單調函數具有一對一性。",
+    "id": "gifted-gifted-071-short",
+    "prompt": "關於「單調函數」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "嚴格單調函數具有一對一性"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：二次項係數正時拋物線開口向上，利於找最小值。",
+    "id": "gifted-gifted-072-mcq",
+    "prompt": "關於「凸性直覺」，下列何者正確？",
+    "options": [
+      "二次項係數正時拋物線開口向上，利於找最小值",
+      "係數正向下",
+      "與最值無關",
+      "沒有頂點"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：二次項係數正時拋物線開口向上，利於找最小值。",
+    "id": "gifted-gifted-072-short",
+    "prompt": "關於「凸性直覺」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "二次項係數正時拋物線開口向上，利於找最小值"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：依內部式正負分情況討論。",
+    "id": "gifted-gifted-073-mcq",
+    "prompt": "關於「絕對值分段」，下列何者正確？",
+    "options": [
+      "可直接刪絕對值",
+      "絕對值一定等於負",
+      "不需分段",
+      "依內部式正負分情況討論"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：依內部式正負分情況討論。",
+    "id": "gifted-gifted-073-short",
+    "prompt": "關於「絕對值分段」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "依內部式正負分情況討論"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：兩邊乘負數時不等號方向反轉。",
+    "id": "gifted-gifted-074-mcq",
+    "prompt": "關於「不等式乘法」，下列何者正確？",
+    "options": [
+      "兩邊乘零可任意除",
+      "只在等式適用",
+      "兩邊乘負數時不等號方向反轉",
+      "方向不變"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：兩邊乘負數時不等號方向反轉。",
+    "id": "gifted-gifted-074-short",
+    "prompt": "關於「不等式乘法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "兩邊乘負數時不等號方向反轉"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若函數有上界下界，可限制可能解範圍。",
+    "id": "gifted-gifted-075-mcq",
+    "prompt": "關於「有界性」，下列何者正確？",
+    "options": [
+      "只看定義域",
+      "若函數有上界下界，可限制可能解範圍",
+      "與解無關",
+      "一定無限大"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：若函數有上界下界，可限制可能解範圍。",
+    "id": "gifted-gifted-075-short",
+    "prompt": "關於「有界性」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "若函數有上界下界，可限制可能解範圍"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：將一個等式中的 x 換成特定表達式可產生新關係。",
+    "id": "gifted-gifted-076-mcq",
+    "prompt": "關於「函數代入」，下列何者正確？",
+    "options": [
+      "將一個等式中的 x 換成特定表達式可產生新關係",
+      "代入會破壞等式",
+      "只可代常數",
+      "不需定義域"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：將一個等式中的 x 換成特定表達式可產生新關係。",
+    "id": "gifted-gifted-076-short",
+    "prompt": "關於「函數代入」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "將一個等式中的 x 換成特定表達式可產生新關係"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：假設結論不成立並導出矛盾。",
+    "id": "gifted-gifted-077-mcq",
+    "prompt": "關於「反證法」，下列何者正確？",
+    "options": [
+      "直接宣布錯誤",
+      "不需假設",
+      "只能用於數列",
+      "假設結論不成立並導出矛盾"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜不等式與函數方程",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：假設結論不成立並導出矛盾。",
+    "id": "gifted-gifted-077-short",
+    "prompt": "關於「反證法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "假設結論不成立並導出矛盾"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：所有點沿同方向同距離移動，保持長度角度。",
+    "id": "gifted-gifted-078-mcq",
+    "prompt": "關於「平移」，下列何者正確？",
+    "options": [
+      "會改變角度",
+      "一定旋轉",
+      "所有點沿同方向同距離移動，保持長度角度",
+      "會改變圖形大小"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：所有點沿同方向同距離移動，保持長度角度。",
+    "id": "gifted-gifted-078-short",
+    "prompt": "關於「平移」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "所有點沿同方向同距離移動，保持長度角度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：繞固定中心轉固定角度，保持距離與角度。",
+    "id": "gifted-gifted-079-mcq",
+    "prompt": "關於「旋轉」，下列何者正確？",
+    "options": [
+      "只能轉 90°",
+      "繞固定中心轉固定角度，保持距離與角度",
+      "會改變所有長度",
+      "沒有中心"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：繞固定中心轉固定角度，保持距離與角度。",
+    "id": "gifted-gifted-079-short",
+    "prompt": "關於「旋轉」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "繞固定中心轉固定角度，保持距離與角度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：對稱軸上點不動，對應點到軸距離相等。",
+    "id": "gifted-gifted-080-mcq",
+    "prompt": "關於「鏡射」，下列何者正確？",
+    "options": [
+      "對稱軸上點不動，對應點到軸距離相等",
+      "會改變面積",
+      "對應線段不等長",
+      "沒有方向"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：對稱軸上點不動，對應點到軸距離相等。",
+    "id": "gifted-gifted-080-short",
+    "prompt": "關於「鏡射」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "對稱軸上點不動，對應點到軸距離相等"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：保留角度並按固定倍率改變長度。",
+    "id": "gifted-gifted-081-mcq",
+    "prompt": "關於「相似變換」，下列何者正確？",
+    "options": [
+      "所有長度不變",
+      "只保留面積",
+      "一定是平移",
+      "保留角度並按固定倍率改變長度"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：保留角度並按固定倍率改變長度。",
+    "id": "gifted-gifted-081-short",
+    "prompt": "關於「相似變換」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "保留角度並按固定倍率改變長度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：滿足幾何條件的所有可能點集合。",
+    "id": "gifted-gifted-082-mcq",
+    "prompt": "關於「軌跡」，下列何者正確？",
+    "options": [
+      "畫出的任意線",
+      "不需條件",
+      "滿足幾何條件的所有可能點集合",
+      "只有一個點"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：滿足幾何條件的所有可能點集合。",
+    "id": "gifted-gifted-082-short",
+    "prompt": "關於「軌跡」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "滿足幾何條件的所有可能點集合"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：到兩定點距離相等的點在連線垂直平分線上。",
+    "id": "gifted-gifted-083-mcq",
+    "prompt": "關於「垂直平分線軌跡」，下列何者正確？",
+    "options": [
+      "沒有軌跡",
+      "到兩定點距離相等的點在連線垂直平分線上",
+      "在兩點連線上",
+      "一定在圓心"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：到兩定點距離相等的點在連線垂直平分線上。",
+    "id": "gifted-gifted-083-short",
+    "prompt": "關於「垂直平分線軌跡」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "到兩定點距離相等的點在連線垂直平分線上"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：到角兩邊距離相等的點在角平分線上。",
+    "id": "gifted-gifted-084-mcq",
+    "prompt": "關於「角平分線軌跡」，下列何者正確？",
+    "options": [
+      "到角兩邊距離相等的點在角平分線上",
+      "一定在邊上",
+      "只在角外",
+      "與距離無關"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：到角兩邊距離相等的點在角平分線上。",
+    "id": "gifted-gifted-084-short",
+    "prompt": "關於「角平分線軌跡」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "到角兩邊距離相等的點在角平分線上"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：到固定點距離固定的點集合為圓。",
+    "id": "gifted-gifted-085-mcq",
+    "prompt": "關於「圓的軌跡」，下列何者正確？",
+    "options": [
+      "為直線",
+      "為拋物線",
+      "只有兩點",
+      "到固定點距離固定的點集合為圓"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：到固定點距離固定的點集合為圓。",
+    "id": "gifted-gifted-085-short",
+    "prompt": "關於「圓的軌跡」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "到固定點距離固定的點集合為圓"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可把等長等角關係轉換到同一位置比較。",
+    "id": "gifted-gifted-086-mcq",
+    "prompt": "關於「旋轉解題」，下列何者正確？",
+    "options": [
+      "只能用坐標",
+      "不能用於三角形",
+      "可把等長等角關係轉換到同一位置比較",
+      "會失去距離"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可把等長等角關係轉換到同一位置比較。",
+    "id": "gifted-gifted-086-short",
+    "prompt": "關於「旋轉解題」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "可把等長等角關係轉換到同一位置比較"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可將最短路徑問題轉為直線距離。",
+    "id": "gifted-gifted-087-mcq",
+    "prompt": "關於「反射解題」，下列何者正確？",
+    "options": [
+      "只可反射圓",
+      "可將最短路徑問題轉為直線距離",
+      "反射後距離必變長",
+      "不能處理最短路"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：可將最短路徑問題轉為直線距離。",
+    "id": "gifted-gifted-087-short",
+    "prompt": "關於「反射解題」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "可將最短路徑問題轉為直線距離"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：變換下保持不變的量如距離、角度或面積。",
+    "id": "gifted-gifted-088-mcq",
+    "prompt": "關於「幾何不變量」，下列何者正確？",
+    "options": [
+      "變換下保持不變的量如距離、角度或面積",
+      "所有量都改變",
+      "只指顏色",
+      "不需證明"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜幾何變換與軌跡",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：變換下保持不變的量如距離、角度或面積。",
+    "id": "gifted-gifted-088-short",
+    "prompt": "關於「幾何不變量」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "變換下保持不變的量如距離、角度或面積"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：圖中的點代表物件或位置。",
+    "id": "gifted-gifted-089-mcq",
+    "prompt": "關於「圖論頂點」，下列何者正確？",
+    "options": [
+      "只代表邊長",
+      "一定是數字",
+      "不能有標記",
+      "圖中的點代表物件或位置"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：圖中的點代表物件或位置。",
+    "id": "gifted-gifted-089-short",
+    "prompt": "關於「圖論頂點」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "圖中的點代表物件或位置"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：連結兩頂點代表關係或路徑。",
+    "id": "gifted-gifted-090-mcq",
+    "prompt": "關於「圖論邊」，下列何者正確？",
+    "options": [
+      "只能有一條",
+      "不代表關係",
+      "連結兩頂點代表關係或路徑",
+      "一定是直線距離"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：連結兩頂點代表關係或路徑。",
+    "id": "gifted-gifted-090-short",
+    "prompt": "關於「圖論邊」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "連結兩頂點代表關係或路徑"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：所有頂點度數和等於邊數的兩倍。",
+    "id": "gifted-gifted-091-mcq",
+    "prompt": "關於「握手定理」，下列何者正確？",
+    "options": [
+      "一定為奇數",
+      "所有頂點度數和等於邊數的兩倍",
+      "等於邊數",
+      "等於頂點數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：所有頂點度數和等於邊數的兩倍。",
+    "id": "gifted-gifted-091-short",
+    "prompt": "關於「握手定理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "所有頂點度數和等於邊數的兩倍"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：連通圖恰有 0 或 2 個奇度頂點時存在。",
+    "id": "gifted-gifted-092-mcq",
+    "prompt": "關於「歐拉路徑」，下列何者正確？",
+    "options": [
+      "連通圖恰有 0 或 2 個奇度頂點時存在",
+      "奇度頂點任意多都可",
+      "需要所有頂點奇度",
+      "不需連通"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "核心觀念",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：連通圖恰有 0 或 2 個奇度頂點時存在。",
+    "id": "gifted-gifted-092-short",
+    "prompt": "關於「歐拉路徑」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "連通圖恰有 0 或 2 個奇度頂點時存在"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：頂點可分兩組且每條邊跨兩組。",
+    "id": "gifted-gifted-093-mcq",
+    "prompt": "關於「二分圖」，下列何者正確？",
+    "options": [
+      "每個圖都是二分圖",
+      "一定有三角形",
+      "不能染色",
+      "頂點可分兩組且每條邊跨兩組"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：頂點可分兩組且每條邊跨兩組。",
+    "id": "gifted-gifted-093-short",
+    "prompt": "關於「二分圖」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "頂點可分兩組且每條邊跨兩組"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：相鄰頂點需不同顏色。",
+    "id": "gifted-gifted-094-mcq",
+    "prompt": "關於「圖著色」，下列何者正確？",
+    "options": [
+      "邊一定同色",
+      "顏色越多越錯",
+      "相鄰頂點需不同顏色",
+      "所有頂點同色"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：相鄰頂點需不同顏色。",
+    "id": "gifted-gifted-094-short",
+    "prompt": "關於「圖著色」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "相鄰頂點需不同顏色"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：以較小規模問題解釋較大規模問題。",
+    "id": "gifted-gifted-095-mcq",
+    "prompt": "關於「遞迴關係」，下列何者正確？",
+    "options": [
+      "一定是等差",
+      "以較小規模問題解釋較大規模問題",
+      "只列最後答案",
+      "不能有初始條件"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：以較小規模問題解釋較大規模問題。",
+    "id": "gifted-gifted-095-short",
+    "prompt": "關於「遞迴關係」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "以較小規模問題解釋較大規模問題"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先證基礎步，再證 k 成立可推 k+1。",
+    "id": "gifted-gifted-096-mcq",
+    "prompt": "關於「數學歸納法」，下列何者正確？",
+    "options": [
+      "先證基礎步，再證 k 成立可推 k+1",
+      "只證一個例子",
+      "不需基礎步",
+      "不能用於整數"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "解題方法",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先證基礎步，再證 k 成立可推 k+1。",
+    "id": "gifted-gifted-096-short",
+    "prompt": "關於「數學歸納法」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "先證基礎步，再證 k 成立可推 k+1"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：操作過程中保持不變的性質可判斷可否達成。",
+    "id": "gifted-gifted-097-mcq",
+    "prompt": "關於「不變量」，下列何者正確？",
+    "options": [
+      "每一步必改變",
+      "只與數字大小有關",
+      "不能用於遊戲",
+      "操作過程中保持不變的性質可判斷可否達成"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：操作過程中保持不變的性質可判斷可否達成。",
+    "id": "gifted-gifted-097-short",
+    "prompt": "關於「不變量」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "操作過程中保持不變的性質可判斷可否達成"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：在有限集合選最大或最小對象尋找結構。",
+    "id": "gifted-gifted-098-mcq",
+    "prompt": "關於「極端原理」，下列何者正確？",
+    "options": [
+      "不需有限性",
+      "與證明無關",
+      "在有限集合選最大或最小對象尋找結構",
+      "只選隨機對象"
+    ],
+    "answer": 2
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：在有限集合選最大或最小對象尋找結構。",
+    "id": "gifted-gifted-098-short",
+    "prompt": "關於「極端原理」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "在有限集合選最大或最小對象尋找結構"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：每次操作改變偶數個單位時總奇偶性保持。",
+    "id": "gifted-gifted-099-mcq",
+    "prompt": "關於「奇偶不變量」，下列何者正確？",
+    "options": [
+      "不能作否定證明",
+      "每次操作改變偶數個單位時總奇偶性保持",
+      "奇偶性必亂變",
+      "只適用質數"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：每次操作改變偶數個單位時總奇偶性保持。",
+    "id": "gifted-gifted-099-short",
+    "prompt": "關於「奇偶不變量」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "每次操作改變偶數個單位時總奇偶性保持"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：需有基礎情況與規模下降以避免無限循環。",
+    "id": "gifted-gifted-100-mcq",
+    "prompt": "關於「遞迴終止」，下列何者正確？",
+    "options": [
+      "需有基礎情況與規模下降以避免無限循環",
+      "遞迴不需終止",
+      "只要公式漂亮",
+      "與初始條件無關"
+    ],
+    "answer": 0
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優數學主題",
+    "deck": "進階｜圖論、遞迴與不變量",
+    "skill": "進階推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：需有基礎情況與規模下降以避免無限循環。",
+    "id": "gifted-gifted-100-short",
+    "prompt": "關於「遞迴終止」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "需有基礎情況與規模下降以避免無限循環"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先畫物體受力圖，列出所有外力。",
+    "id": "gifted-gifted-101-mcq",
+    "prompt": "關於「受力分析」，下列何者正確？",
+    "options": [
+      "只看最大力",
+      "不需方向",
+      "內力一定畫入",
+      "先畫物體受力圖，列出所有外力"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先畫物體受力圖，列出所有外力。",
+    "id": "gifted-gifted-101-short",
+    "prompt": "關於「受力分析」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "先畫物體受力圖，列出所有外力"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先畫物體受力圖，列出所有外力。",
+    "id": "gifted-gifted-102-mcq",
+    "prompt": "解決「受力分析」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "內力一定畫入",
+      "先畫物體受力圖，列出所有外力",
+      "只看最大力",
+      "不需方向"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先畫物體受力圖，列出所有外力。",
+    "id": "gifted-gifted-102-short",
+    "prompt": "解決「受力分析」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "先畫物體受力圖，列出所有外力"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：合力等於質量乘加速度。",
+    "id": "gifted-gifted-103-mcq",
+    "prompt": "關於「牛頓第二定律」，下列何者正確？",
+    "options": [
+      "質量越大加速度越大且力相同",
+      "合力等於質量乘加速度",
+      "力等於質量除加速度",
+      "合力為零一定加速"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：合力等於質量乘加速度。",
+    "id": "gifted-gifted-103-short",
+    "prompt": "關於「牛頓第二定律」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "合力等於質量乘加速度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：合力等於質量乘加速度。",
+    "id": "gifted-gifted-104-mcq",
+    "prompt": "解決「牛頓第二定律」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "力等於質量除加速度",
+      "合力為零一定加速",
+      "質量越大加速度越大且力相同",
+      "合力等於質量乘加速度"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：合力等於質量乘加速度。",
+    "id": "gifted-gifted-104-short",
+    "prompt": "解決「牛頓第二定律」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "合力等於質量乘加速度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：方向阻礙相對運動或運動趨勢。",
+    "id": "gifted-gifted-105-mcq",
+    "prompt": "關於「摩擦力」，下列何者正確？",
+    "options": [
+      "永遠與速度同向",
+      "一定等於重力",
+      "與接觸無關",
+      "方向阻礙相對運動或運動趨勢"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：方向阻礙相對運動或運動趨勢。",
+    "id": "gifted-gifted-105-short",
+    "prompt": "關於「摩擦力」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "方向阻礙相對運動或運動趨勢"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：方向阻礙相對運動或運動趨勢。",
+    "id": "gifted-gifted-106-mcq",
+    "prompt": "解決「摩擦力」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "與接觸無關",
+      "方向阻礙相對運動或運動趨勢",
+      "永遠與速度同向",
+      "一定等於重力"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：方向阻礙相對運動或運動趨勢。",
+    "id": "gifted-gifted-106-short",
+    "prompt": "解決「摩擦力」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "方向阻礙相對運動或運動趨勢"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：忽略非保守力時動能與位能和守恆。",
+    "id": "gifted-gifted-107-mcq",
+    "prompt": "關於「機械能守恆」，下列何者正確？",
+    "options": [
+      "摩擦越大越守恆",
+      "忽略非保守力時動能與位能和守恆",
+      "動能必守恆",
+      "位能必守恆"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：忽略非保守力時動能與位能和守恆。",
+    "id": "gifted-gifted-107-short",
+    "prompt": "關於「機械能守恆」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "忽略非保守力時動能與位能和守恆"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：忽略非保守力時動能與位能和守恆。",
+    "id": "gifted-gifted-108-mcq",
+    "prompt": "解決「機械能守恆」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "動能必守恆",
+      "位能必守恆",
+      "摩擦越大越守恆",
+      "忽略非保守力時動能與位能和守恆"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：忽略非保守力時動能與位能和守恆。",
+    "id": "gifted-gifted-108-short",
+    "prompt": "解決「機械能守恆」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "忽略非保守力時動能與位能和守恆"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：外力合力為零的系統總動量守恆。",
+    "id": "gifted-gifted-109-mcq",
+    "prompt": "關於「動量守恆」，下列何者正確？",
+    "options": [
+      "所有碰撞動能守恆",
+      "質量守恆等於動量守恆",
+      "不需系統",
+      "外力合力為零的系統總動量守恆"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：外力合力為零的系統總動量守恆。",
+    "id": "gifted-gifted-109-short",
+    "prompt": "關於「動量守恆」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "外力合力為零的系統總動量守恆"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：外力合力為零的系統總動量守恆。",
+    "id": "gifted-gifted-110-mcq",
+    "prompt": "解決「動量守恆」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "不需系統",
+      "外力合力為零的系統總動量守恆",
+      "所有碰撞動能守恆",
+      "質量守恆等於動量守恆"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜進階力學與能量",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：外力合力為零的系統總動量守恆。",
+    "id": "gifted-gifted-110-short",
+    "prompt": "解決「動量守恆」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "外力合力為零的系統總動量守恆"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：無散熱時放熱量等於吸熱量。",
+    "id": "gifted-gifted-111-mcq",
+    "prompt": "關於「熱平衡」，下列何者正確？",
+    "options": [
+      "質量必相同",
+      "無散熱時放熱量等於吸熱量",
+      "兩物溫度一開始相同",
+      "熱量由低溫流高溫"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：無散熱時放熱量等於吸熱量。",
+    "id": "gifted-gifted-111-short",
+    "prompt": "關於「熱平衡」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "無散熱時放熱量等於吸熱量"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：無散熱時放熱量等於吸熱量。",
+    "id": "gifted-gifted-112-mcq",
+    "prompt": "解決「熱平衡」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "兩物溫度一開始相同",
+      "熱量由低溫流高溫",
+      "質量必相同",
+      "無散熱時放熱量等於吸熱量"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：無散熱時放熱量等於吸熱量。",
+    "id": "gifted-gifted-112-short",
+    "prompt": "解決「熱平衡」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "無散熱時放熱量等於吸熱量"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：比熱大表示同質量升溫需較多熱。",
+    "id": "gifted-gifted-113-mcq",
+    "prompt": "關於「比熱」，下列何者正確？",
+    "options": [
+      "比熱大容易升溫",
+      "比熱沒有單位",
+      "與吸熱無關",
+      "比熱大表示同質量升溫需較多熱"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：比熱大表示同質量升溫需較多熱。",
+    "id": "gifted-gifted-113-short",
+    "prompt": "關於「比熱」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "比熱大表示同質量升溫需較多熱"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：比熱大表示同質量升溫需較多熱。",
+    "id": "gifted-gifted-114-mcq",
+    "prompt": "解決「比熱」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "與吸熱無關",
+      "比熱大表示同質量升溫需較多熱",
+      "比熱大容易升溫",
+      "比熱沒有單位"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：比熱大表示同質量升溫需較多熱。",
+    "id": "gifted-gifted-114-short",
+    "prompt": "解決「比熱」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "比熱大表示同質量升溫需較多熱"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：壓力等於垂直作用力除面積。",
+    "id": "gifted-gifted-115-mcq",
+    "prompt": "關於「壓力」，下列何者正確？",
+    "options": [
+      "壓力無方向",
+      "壓力等於垂直作用力除面積",
+      "壓力等於力乘面積",
+      "面積越大壓力必越大"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：壓力等於垂直作用力除面積。",
+    "id": "gifted-gifted-115-short",
+    "prompt": "關於「壓力」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "壓力等於垂直作用力除面積"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：壓力等於垂直作用力除面積。",
+    "id": "gifted-gifted-116-mcq",
+    "prompt": "解決「壓力」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "壓力等於力乘面積",
+      "面積越大壓力必越大",
+      "壓力無方向",
+      "壓力等於垂直作用力除面積"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：壓力等於垂直作用力除面積。",
+    "id": "gifted-gifted-116-short",
+    "prompt": "解決「壓力」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "壓力等於垂直作用力除面積"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：等於排開流體的重量。",
+    "id": "gifted-gifted-117-mcq",
+    "prompt": "關於「浮力」，下列何者正確？",
+    "options": [
+      "等於物體重量永遠成立",
+      "與液體密度無關",
+      "只在空氣中",
+      "等於排開流體的重量"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：等於排開流體的重量。",
+    "id": "gifted-gifted-117-short",
+    "prompt": "關於「浮力」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "等於排開流體的重量"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：等於排開流體的重量。",
+    "id": "gifted-gifted-118-mcq",
+    "prompt": "解決「浮力」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "只在空氣中",
+      "等於排開流體的重量",
+      "等於物體重量永遠成立",
+      "與液體密度無關"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：等於排開流體的重量。",
+    "id": "gifted-gifted-118-short",
+    "prompt": "解決「浮力」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "等於排開流體的重量"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：定量氣體定溫時壓力與體積成反比。",
+    "id": "gifted-gifted-119-mcq",
+    "prompt": "關於「理想氣體趨勢」，下列何者正確？",
+    "options": [
+      "只與顏色有關",
+      "定量氣體定溫時壓力與體積成反比",
+      "壓力與體積成正比",
+      "體積不變"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：定量氣體定溫時壓力與體積成反比。",
+    "id": "gifted-gifted-119-short",
+    "prompt": "關於「理想氣體趨勢」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "定量氣體定溫時壓力與體積成反比"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：定量氣體定溫時壓力與體積成反比。",
+    "id": "gifted-gifted-120-mcq",
+    "prompt": "解決「理想氣體趨勢」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "壓力與體積成正比",
+      "體積不變",
+      "只與顏色有關",
+      "定量氣體定溫時壓力與體積成反比"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜熱學、流體與氣體",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：定量氣體定溫時壓力與體積成反比。",
+    "id": "gifted-gifted-120-short",
+    "prompt": "解決「理想氣體趨勢」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "定量氣體定溫時壓力與體積成反比"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：波速=頻率×波長。",
+    "id": "gifted-gifted-121-mcq",
+    "prompt": "關於「波速關係」，下列何者正確？",
+    "options": [
+      "波速=頻率÷波長",
+      "頻率越高波速必越高",
+      "波不傳能量",
+      "波速=頻率×波長"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：波速=頻率×波長。",
+    "id": "gifted-gifted-121-short",
+    "prompt": "關於「波速關係」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "波速=頻率×波長"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：波速=頻率×波長。",
+    "id": "gifted-gifted-122-mcq",
+    "prompt": "解決「波速關係」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "波不傳能量",
+      "波速=頻率×波長",
+      "波速=頻率÷波長",
+      "頻率越高波速必越高"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：波速=頻率×波長。",
+    "id": "gifted-gifted-122-short",
+    "prompt": "解決「波速關係」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "波速=頻率×波長"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同相疊加增強、反相疊加減弱。",
+    "id": "gifted-gifted-123-mcq",
+    "prompt": "關於「干涉」，下列何者正確？",
+    "options": [
+      "與相位無關",
+      "同相疊加增強、反相疊加減弱",
+      "所有疊加都消失",
+      "只能在水波"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同相疊加增強、反相疊加減弱。",
+    "id": "gifted-gifted-123-short",
+    "prompt": "關於「干涉」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "同相疊加增強、反相疊加減弱"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同相疊加增強、反相疊加減弱。",
+    "id": "gifted-gifted-124-mcq",
+    "prompt": "解決「干涉」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "所有疊加都消失",
+      "只能在水波",
+      "與相位無關",
+      "同相疊加增強、反相疊加減弱"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同相疊加增強、反相疊加減弱。",
+    "id": "gifted-gifted-124-short",
+    "prompt": "解決「干涉」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "同相疊加增強、反相疊加減弱"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：光由疏入密通常向法線偏折。",
+    "id": "gifted-gifted-125-mcq",
+    "prompt": "關於「折射」，下列何者正確？",
+    "options": [
+      "一定離開法線",
+      "速度不改變",
+      "只會反射",
+      "光由疏入密通常向法線偏折"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：光由疏入密通常向法線偏折。",
+    "id": "gifted-gifted-125-short",
+    "prompt": "關於「折射」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "光由疏入密通常向法線偏折"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：光由疏入密通常向法線偏折。",
+    "id": "gifted-gifted-126-mcq",
+    "prompt": "解決「折射」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "只會反射",
+      "光由疏入密通常向法線偏折",
+      "一定離開法線",
+      "速度不改變"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：光由疏入密通常向法線偏折。",
+    "id": "gifted-gifted-126-short",
+    "prompt": "解決「折射」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "光由疏入密通常向法線偏折"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：物在焦距外可成倒立實像。",
+    "id": "gifted-gifted-127-mcq",
+    "prompt": "關於「凸透鏡」，下列何者正確？",
+    "options": [
+      "焦距內成倒立實像",
+      "物在焦距外可成倒立實像",
+      "永遠正立虛像",
+      "不會會聚光"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：物在焦距外可成倒立實像。",
+    "id": "gifted-gifted-127-short",
+    "prompt": "關於「凸透鏡」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "物在焦距外可成倒立實像"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：物在焦距外可成倒立實像。",
+    "id": "gifted-gifted-128-mcq",
+    "prompt": "解決「凸透鏡」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "永遠正立虛像",
+      "不會會聚光",
+      "焦距內成倒立實像",
+      "物在焦距外可成倒立實像"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：物在焦距外可成倒立實像。",
+    "id": "gifted-gifted-128-short",
+    "prompt": "解決「凸透鏡」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "物在焦距外可成倒立實像"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：穿過線圈的磁通量改變可產生感應電流。",
+    "id": "gifted-gifted-129-mcq",
+    "prompt": "關於「電磁感應」，下列何者正確？",
+    "options": [
+      "只要有磁鐵一定有電流",
+      "固定磁場必感應",
+      "不需導線",
+      "穿過線圈的磁通量改變可產生感應電流"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：穿過線圈的磁通量改變可產生感應電流。",
+    "id": "gifted-gifted-129-short",
+    "prompt": "關於「電磁感應」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "穿過線圈的磁通量改變可產生感應電流"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：穿過線圈的磁通量改變可產生感應電流。",
+    "id": "gifted-gifted-130-mcq",
+    "prompt": "解決「電磁感應」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "不需導線",
+      "穿過線圈的磁通量改變可產生感應電流",
+      "只要有磁鐵一定有電流",
+      "固定磁場必感應"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "物理｜波動、光學與電磁",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：穿過線圈的磁通量改變可產生感應電流。",
+    "id": "gifted-gifted-130-short",
+    "prompt": "解決「電磁感應」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "穿過線圈的磁通量改變可產生感應電流"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：1 mol 含阿伏加德羅常數個粒子。",
+    "id": "gifted-gifted-131-mcq",
+    "prompt": "關於「莫耳」，下列何者正確？",
+    "options": [
+      "沒有粒子數概念",
+      "1 mol 含阿伏加德羅常數個粒子",
+      "1 mol 等於 1 克",
+      "只適用氣體"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：1 mol 含阿伏加德羅常數個粒子。",
+    "id": "gifted-gifted-131-short",
+    "prompt": "關於「莫耳」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "1 mol 含阿伏加德羅常數個粒子"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：1 mol 含阿伏加德羅常數個粒子。",
+    "id": "gifted-gifted-132-mcq",
+    "prompt": "解決「莫耳」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "1 mol 等於 1 克",
+      "只適用氣體",
+      "沒有粒子數概念",
+      "1 mol 含阿伏加德羅常數個粒子"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：1 mol 含阿伏加德羅常數個粒子。",
+    "id": "gifted-gifted-132-short",
+    "prompt": "解決「莫耳」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "1 mol 含阿伏加德羅常數個粒子"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：配平後係數比為莫耳數比。",
+    "id": "gifted-gifted-133-mcq",
+    "prompt": "關於「化學方程式」，下列何者正確？",
+    "options": [
+      "係數比為質量比",
+      "可任改下標配平",
+      "只需右邊平衡",
+      "配平後係數比為莫耳數比"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：配平後係數比為莫耳數比。",
+    "id": "gifted-gifted-133-short",
+    "prompt": "關於「化學方程式」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "配平後係數比為莫耳數比"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：配平後係數比為莫耳數比。",
+    "id": "gifted-gifted-134-mcq",
+    "prompt": "解決「化學方程式」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "只需右邊平衡",
+      "配平後係數比為莫耳數比",
+      "係數比為質量比",
+      "可任改下標配平"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：配平後係數比為莫耳數比。",
+    "id": "gifted-gifted-134-short",
+    "prompt": "解決「化學方程式」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "配平後係數比為莫耳數比"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：最先耗盡者決定最大產量。",
+    "id": "gifted-gifted-135-mcq",
+    "prompt": "關於「限量試劑」，下列何者正確？",
+    "options": [
+      "一定是催化劑",
+      "最先耗盡者決定最大產量",
+      "最多的試劑決定產量",
+      "不影響產量"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：最先耗盡者決定最大產量。",
+    "id": "gifted-gifted-135-short",
+    "prompt": "關於「限量試劑」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "最先耗盡者決定最大產量"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：最先耗盡者決定最大產量。",
+    "id": "gifted-gifted-136-mcq",
+    "prompt": "解決「限量試劑」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "最多的試劑決定產量",
+      "不影響產量",
+      "一定是催化劑",
+      "最先耗盡者決定最大產量"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：最先耗盡者決定最大產量。",
+    "id": "gifted-gifted-136-short",
+    "prompt": "解決「限量試劑」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "最先耗盡者決定最大產量"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同溫同壓下氣體莫耳數與體積成正比。",
+    "id": "gifted-gifted-137-mcq",
+    "prompt": "關於「理想氣體」，下列何者正確？",
+    "options": [
+      "體積與莫耳數無關",
+      "只與質量成正比",
+      "氣體不能比較體積",
+      "同溫同壓下氣體莫耳數與體積成正比"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同溫同壓下氣體莫耳數與體積成正比。",
+    "id": "gifted-gifted-137-short",
+    "prompt": "關於「理想氣體」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "同溫同壓下氣體莫耳數與體積成正比"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同溫同壓下氣體莫耳數與體積成正比。",
+    "id": "gifted-gifted-138-mcq",
+    "prompt": "解決「理想氣體」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "氣體不能比較體積",
+      "同溫同壓下氣體莫耳數與體積成正比",
+      "體積與莫耳數無關",
+      "只與質量成正比"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：同溫同壓下氣體莫耳數與體積成正比。",
+    "id": "gifted-gifted-138-short",
+    "prompt": "解決「理想氣體」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "同溫同壓下氣體莫耳數與體積成正比"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：排水集氣適合難溶或微溶於水的氣體。",
+    "id": "gifted-gifted-139-mcq",
+    "prompt": "關於「氣體收集」，下列何者正確？",
+    "options": [
+      "不需考慮溶解度",
+      "排水集氣適合難溶或微溶於水的氣體",
+      "所有氣體皆適合",
+      "易溶氣體最適合"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：排水集氣適合難溶或微溶於水的氣體。",
+    "id": "gifted-gifted-139-short",
+    "prompt": "關於「氣體收集」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "排水集氣適合難溶或微溶於水的氣體"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：排水集氣適合難溶或微溶於水的氣體。",
+    "id": "gifted-gifted-140-mcq",
+    "prompt": "解決「氣體收集」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "所有氣體皆適合",
+      "易溶氣體最適合",
+      "不需考慮溶解度",
+      "排水集氣適合難溶或微溶於水的氣體"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜定量化學與氣體",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：排水集氣適合難溶或微溶於水的氣體。",
+    "id": "gifted-gifted-140-short",
+    "prompt": "解決「氣體收集」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "排水集氣適合難溶或微溶於水的氣體"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：H+ 與 OH- 反應生成水。",
+    "id": "gifted-gifted-141-mcq",
+    "prompt": "關於「酸鹼中和」，下列何者正確？",
+    "options": [
+      "酸鹼必生成氧氣",
+      "pH 必為 7",
+      "不放熱",
+      "H+ 與 OH- 反應生成水"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：H+ 與 OH- 反應生成水。",
+    "id": "gifted-gifted-141-short",
+    "prompt": "關於「酸鹼中和」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "H+ 與 OH- 反應生成水"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：H+ 與 OH- 反應生成水。",
+    "id": "gifted-gifted-142-mcq",
+    "prompt": "解決「酸鹼中和」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "不放熱",
+      "H+ 與 OH- 反應生成水",
+      "酸鹼必生成氧氣",
+      "pH 必為 7"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：H+ 與 OH- 反應生成水。",
+    "id": "gifted-gifted-142-short",
+    "prompt": "解決「酸鹼中和」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "H+ 與 OH- 反應生成水"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：指示劑變色範圍應接近當量點突躍區。",
+    "id": "gifted-gifted-143-mcq",
+    "prompt": "關於「滴定終點」，下列何者正確？",
+    "options": [
+      "酸鹼量不必相等",
+      "指示劑變色範圍應接近當量點突躍區",
+      "任意顏色都可",
+      "不需指示劑"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：指示劑變色範圍應接近當量點突躍區。",
+    "id": "gifted-gifted-143-short",
+    "prompt": "關於「滴定終點」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "指示劑變色範圍應接近當量點突躍區"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：指示劑變色範圍應接近當量點突躍區。",
+    "id": "gifted-gifted-144-mcq",
+    "prompt": "解決「滴定終點」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "任意顏色都可",
+      "不需指示劑",
+      "酸鹼量不必相等",
+      "指示劑變色範圍應接近當量點突躍區"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：指示劑變色範圍應接近當量點突躍區。",
+    "id": "gifted-gifted-144-short",
+    "prompt": "解決「滴定終點」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "指示劑變色範圍應接近當量點突躍區"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：氧化數上升為氧化、下降為還原。",
+    "id": "gifted-gifted-145-mcq",
+    "prompt": "關於「氧化還原」，下列何者正確？",
+    "options": [
+      "氧化數不變才氧化",
+      "只有氧氣參與才算",
+      "兩者不會同時",
+      "氧化數上升為氧化、下降為還原"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：氧化數上升為氧化、下降為還原。",
+    "id": "gifted-gifted-145-short",
+    "prompt": "關於「氧化還原」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "氧化數上升為氧化、下降為還原"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：氧化數上升為氧化、下降為還原。",
+    "id": "gifted-gifted-146-mcq",
+    "prompt": "解決「氧化還原」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "兩者不會同時",
+      "氧化數上升為氧化、下降為還原",
+      "氧化數不變才氧化",
+      "只有氧氣參與才算"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：氧化數上升為氧化、下降為還原。",
+    "id": "gifted-gifted-146-short",
+    "prompt": "解決「氧化還原」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "氧化數上升為氧化、下降為還原"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：正逆反應速率相等而非反應停止。",
+    "id": "gifted-gifted-147-mcq",
+    "prompt": "關於「平衡狀態」，下列何者正確？",
+    "options": [
+      "只剩生成物",
+      "正逆反應速率相等而非反應停止",
+      "兩邊濃度必相等",
+      "所有物質消失"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：正逆反應速率相等而非反應停止。",
+    "id": "gifted-gifted-147-short",
+    "prompt": "關於「平衡狀態」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "正逆反應速率相等而非反應停止"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：正逆反應速率相等而非反應停止。",
+    "id": "gifted-gifted-148-mcq",
+    "prompt": "解決「平衡狀態」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "兩邊濃度必相等",
+      "所有物質消失",
+      "只剩生成物",
+      "正逆反應速率相等而非反應停止"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：正逆反應速率相等而非反應停止。",
+    "id": "gifted-gifted-148-short",
+    "prompt": "解決「平衡狀態」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "正逆反應速率相等而非反應停止"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：增加反應物常使平衡朝生成物方向移動。",
+    "id": "gifted-gifted-149-mcq",
+    "prompt": "關於「平衡移動」，下列何者正確？",
+    "options": [
+      "增加反應物不影響",
+      "只朝反應物移動",
+      "與濃度無關",
+      "增加反應物常使平衡朝生成物方向移動"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：增加反應物常使平衡朝生成物方向移動。",
+    "id": "gifted-gifted-149-short",
+    "prompt": "關於「平衡移動」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "增加反應物常使平衡朝生成物方向移動"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：增加反應物常使平衡朝生成物方向移動。",
+    "id": "gifted-gifted-150-mcq",
+    "prompt": "解決「平衡移動」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "與濃度無關",
+      "增加反應物常使平衡朝生成物方向移動",
+      "增加反應物不影響",
+      "只朝反應物移動"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜酸鹼、氧化還原與平衡",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：增加反應物常使平衡朝生成物方向移動。",
+    "id": "gifted-gifted-150-short",
+    "prompt": "解決「平衡移動」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "增加反應物常使平衡朝生成物方向移動"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先以少量樣品做特徵反應並記錄矩陣。",
+    "id": "gifted-gifted-151-mcq",
+    "prompt": "關於「系統鑑別」，下列何者正確？",
+    "options": [
+      "只憑顏色猜",
+      "先以少量樣品做特徵反應並記錄矩陣",
+      "把所有樣品一次混合",
+      "不需對照"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先以少量樣品做特徵反應並記錄矩陣。",
+    "id": "gifted-gifted-151-short",
+    "prompt": "關於「系統鑑別」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "先以少量樣品做特徵反應並記錄矩陣"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先以少量樣品做特徵反應並記錄矩陣。",
+    "id": "gifted-gifted-152-mcq",
+    "prompt": "解決「系統鑑別」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "把所有樣品一次混合",
+      "不需對照",
+      "只憑顏色猜",
+      "先以少量樣品做特徵反應並記錄矩陣"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先以少量樣品做特徵反應並記錄矩陣。",
+    "id": "gifted-gifted-152-short",
+    "prompt": "解決「系統鑑別」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "先以少量樣品做特徵反應並記錄矩陣"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：加酸產生 CO2，可使石灰水混濁。",
+    "id": "gifted-gifted-153-mcq",
+    "prompt": "關於「碳酸鹽檢驗」，下列何者正確？",
+    "options": [
+      "加酸一定產生 O2",
+      "不產生任何氣體",
+      "使酚酞變藍",
+      "加酸產生 CO2，可使石灰水混濁"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：加酸產生 CO2，可使石灰水混濁。",
+    "id": "gifted-gifted-153-short",
+    "prompt": "關於「碳酸鹽檢驗」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "加酸產生 CO2，可使石灰水混濁"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：加酸產生 CO2，可使石灰水混濁。",
+    "id": "gifted-gifted-154-mcq",
+    "prompt": "解決「碳酸鹽檢驗」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "使酚酞變藍",
+      "加酸產生 CO2，可使石灰水混濁",
+      "加酸一定產生 O2",
+      "不產生任何氣體"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：加酸產生 CO2，可使石灰水混濁。",
+    "id": "gifted-gifted-154-short",
+    "prompt": "解決「碳酸鹽檢驗」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "加酸產生 CO2，可使石灰水混濁"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：加入 Ba2+ 可得白色硫酸鋇沉澱且不易溶於酸。",
+    "id": "gifted-gifted-155-mcq",
+    "prompt": "關於「硫酸根檢驗」，下列何者正確？",
+    "options": [
+      "與沉澱無關",
+      "加入 Ba2+ 可得白色硫酸鋇沉澱且不易溶於酸",
+      "加 Ba2+ 必產生氣體",
+      "只看溶液顏色"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：加入 Ba2+ 可得白色硫酸鋇沉澱且不易溶於酸。",
+    "id": "gifted-gifted-155-short",
+    "prompt": "關於「硫酸根檢驗」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "加入 Ba2+ 可得白色硫酸鋇沉澱且不易溶於酸"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：加入 Ba2+ 可得白色硫酸鋇沉澱且不易溶於酸。",
+    "id": "gifted-gifted-156-mcq",
+    "prompt": "解決「硫酸根檢驗」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "加 Ba2+ 必產生氣體",
+      "只看溶液顏色",
+      "與沉澱無關",
+      "加入 Ba2+ 可得白色硫酸鋇沉澱且不易溶於酸"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：加入 Ba2+ 可得白色硫酸鋇沉澱且不易溶於酸。",
+    "id": "gifted-gifted-156-short",
+    "prompt": "解決「硫酸根檢驗」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "加入 Ba2+ 可得白色硫酸鋇沉澱且不易溶於酸"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：呈黃色火焰。",
+    "id": "gifted-gifted-157-mcq",
+    "prompt": "關於「焰色反應鈉」，下列何者正確？",
+    "options": [
+      "呈紫色火焰",
+      "呈藍綠火焰",
+      "呈紅色火焰",
+      "呈黃色火焰"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：呈黃色火焰。",
+    "id": "gifted-gifted-157-short",
+    "prompt": "關於「焰色反應鈉」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "呈黃色火焰"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：呈黃色火焰。",
+    "id": "gifted-gifted-158-mcq",
+    "prompt": "解決「焰色反應鈉」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "呈紅色火焰",
+      "呈黃色火焰",
+      "呈紫色火焰",
+      "呈藍綠火焰"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：呈黃色火焰。",
+    "id": "gifted-gifted-158-short",
+    "prompt": "解決「焰色反應鈉」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "呈黃色火焰"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：保留已知標準樣品可協助確認現象。",
+    "id": "gifted-gifted-159-mcq",
+    "prompt": "關於「對照實驗」，下列何者正確？",
+    "options": [
+      "只做一次混合",
+      "保留已知標準樣品可協助確認現象",
+      "所有樣品都未知最好",
+      "不需重複"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：保留已知標準樣品可協助確認現象。",
+    "id": "gifted-gifted-159-short",
+    "prompt": "關於「對照實驗」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "保留已知標準樣品可協助確認現象"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：保留已知標準樣品可協助確認現象。",
+    "id": "gifted-gifted-160-mcq",
+    "prompt": "解決「對照實驗」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "所有樣品都未知最好",
+      "不需重複",
+      "只做一次混合",
+      "保留已知標準樣品可協助確認現象"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "化學｜未知物鑑別",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：保留已知標準樣品可協助確認現象。",
+    "id": "gifted-gifted-160-short",
+    "prompt": "解決「對照實驗」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "保留已知標準樣品可協助確認現象"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先以物測微尺校正目測微尺每格實際長度。",
+    "id": "gifted-gifted-161-mcq",
+    "prompt": "關於「顯微鏡校正」，下列何者正確？",
+    "options": [
+      "目測微尺本身固定為 1 μm",
+      "不需倍率",
+      "只用肉眼",
+      "先以物測微尺校正目測微尺每格實際長度"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先以物測微尺校正目測微尺每格實際長度。",
+    "id": "gifted-gifted-161-short",
+    "prompt": "關於「顯微鏡校正」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "先以物測微尺校正目測微尺每格實際長度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先以物測微尺校正目測微尺每格實際長度。",
+    "id": "gifted-gifted-162-mcq",
+    "prompt": "解決「顯微鏡校正」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "只用肉眼",
+      "先以物測微尺校正目測微尺每格實際長度",
+      "目測微尺本身固定為 1 μm",
+      "不需倍率"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：先以物測微尺校正目測微尺每格實際長度。",
+    "id": "gifted-gifted-162-short",
+    "prompt": "解決「顯微鏡校正」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "先以物測微尺校正目測微尺每格實際長度"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：除操縱變因外應盡量保持相同。",
+    "id": "gifted-gifted-163-mcq",
+    "prompt": "關於「控制變因」，下列何者正確？",
+    "options": [
+      "只改對照組",
+      "除操縱變因外應盡量保持相同",
+      "所有變因都同時改變",
+      "結果不需測量"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：除操縱變因外應盡量保持相同。",
+    "id": "gifted-gifted-163-short",
+    "prompt": "關於「控制變因」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "除操縱變因外應盡量保持相同"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：除操縱變因外應盡量保持相同。",
+    "id": "gifted-gifted-164-mcq",
+    "prompt": "解決「控制變因」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "所有變因都同時改變",
+      "結果不需測量",
+      "只改對照組",
+      "除操縱變因外應盡量保持相同"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：除操縱變因外應盡量保持相同。",
+    "id": "gifted-gifted-164-short",
+    "prompt": "解決「控制變因」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "除操縱變因外應盡量保持相同"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：雜合子配子各帶一個等位基因。",
+    "id": "gifted-gifted-165-mcq",
+    "prompt": "關於「遺傳分離」，下列何者正確？",
+    "options": [
+      "配子必帶兩個等位基因",
+      "性狀必不分離",
+      "只在體細胞",
+      "雜合子配子各帶一個等位基因"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：雜合子配子各帶一個等位基因。",
+    "id": "gifted-gifted-165-short",
+    "prompt": "關於「遺傳分離」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "雜合子配子各帶一個等位基因"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：雜合子配子各帶一個等位基因。",
+    "id": "gifted-gifted-166-mcq",
+    "prompt": "解決「遺傳分離」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "只在體細胞",
+      "雜合子配子各帶一個等位基因",
+      "配子必帶兩個等位基因",
+      "性狀必不分離"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：雜合子配子各帶一個等位基因。",
+    "id": "gifted-gifted-166-short",
+    "prompt": "解決「遺傳分離」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "雜合子配子各帶一個等位基因"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：碘液可檢測葉片澱粉，陽性呈藍黑色。",
+    "id": "gifted-gifted-167-mcq",
+    "prompt": "關於「光合作用檢測」，下列何者正確？",
+    "options": [
+      "不需去葉綠素",
+      "碘液可檢測葉片澱粉，陽性呈藍黑色",
+      "碘液檢測蛋白質呈藍黑",
+      "酒精直接測氧氣"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：碘液可檢測葉片澱粉，陽性呈藍黑色。",
+    "id": "gifted-gifted-167-short",
+    "prompt": "關於「光合作用檢測」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "碘液可檢測葉片澱粉，陽性呈藍黑色"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：碘液可檢測葉片澱粉，陽性呈藍黑色。",
+    "id": "gifted-gifted-168-mcq",
+    "prompt": "解決「光合作用檢測」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "碘液檢測蛋白質呈藍黑",
+      "酒精直接測氧氣",
+      "不需去葉綠素",
+      "碘液可檢測葉片澱粉，陽性呈藍黑色"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：碘液可檢測葉片澱粉，陽性呈藍黑色。",
+    "id": "gifted-gifted-168-short",
+    "prompt": "解決「光合作用檢測」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "碘液可檢測葉片澱粉，陽性呈藍黑色"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：需控制溫度、pH 與底物量，避免混淆變因。",
+    "id": "gifted-gifted-169-mcq",
+    "prompt": "關於「酵素實驗」，下列何者正確？",
+    "options": [
+      "只改所有條件",
+      "酵素不受溫度影響",
+      "不用對照組",
+      "需控制溫度、pH 與底物量，避免混淆變因"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：需控制溫度、pH 與底物量，避免混淆變因。",
+    "id": "gifted-gifted-169-short",
+    "prompt": "關於「酵素實驗」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "需控制溫度、pH 與底物量，避免混淆變因"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：需控制溫度、pH 與底物量，避免混淆變因。",
+    "id": "gifted-gifted-170-mcq",
+    "prompt": "解決「酵素實驗」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "不用對照組",
+      "需控制溫度、pH 與底物量，避免混淆變因",
+      "只改所有條件",
+      "酵素不受溫度影響"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "生物｜顯微、遺傳與生理實驗",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：需控制溫度、pH 與底物量，避免混淆變因。",
+    "id": "gifted-gifted-170-short",
+    "prompt": "解決「酵素實驗」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "需控制溫度、pH 與底物量，避免混淆變因"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：聚合邊界常伴隨海溝、山脈與火山。",
+    "id": "gifted-gifted-171-mcq",
+    "prompt": "關於「板塊邊界」，下列何者正確？",
+    "options": [
+      "板塊不移動",
+      "聚合邊界常伴隨海溝、山脈與火山",
+      "張裂邊界形成海溝",
+      "錯動邊界必有火山"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：聚合邊界常伴隨海溝、山脈與火山。",
+    "id": "gifted-gifted-171-short",
+    "prompt": "關於「板塊邊界」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "聚合邊界常伴隨海溝、山脈與火山"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：聚合邊界常伴隨海溝、山脈與火山。",
+    "id": "gifted-gifted-172-mcq",
+    "prompt": "解決「板塊邊界」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "張裂邊界形成海溝",
+      "錯動邊界必有火山",
+      "板塊不移動",
+      "聚合邊界常伴隨海溝、山脈與火山"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：聚合邊界常伴隨海溝、山脈與火山。",
+    "id": "gifted-gifted-172-short",
+    "prompt": "解決「板塊邊界」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "聚合邊界常伴隨海溝、山脈與火山"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：規模表一次地震能量，震度表各地搖晃。",
+    "id": "gifted-gifted-173-mcq",
+    "prompt": "關於「震度規模」，下列何者正確？",
+    "options": [
+      "規模隨地點不同",
+      "震度只有一個",
+      "兩者相同",
+      "規模表一次地震能量，震度表各地搖晃"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：規模表一次地震能量，震度表各地搖晃。",
+    "id": "gifted-gifted-173-short",
+    "prompt": "關於「震度規模」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "規模表一次地震能量，震度表各地搖晃"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：規模表一次地震能量，震度表各地搖晃。",
+    "id": "gifted-gifted-174-mcq",
+    "prompt": "解決「震度規模」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "兩者相同",
+      "規模表一次地震能量，震度表各地搖晃",
+      "規模隨地點不同",
+      "震度只有一個"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：規模表一次地震能量，震度表各地搖晃。",
+    "id": "gifted-gifted-174-short",
+    "prompt": "解決「震度規模」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "規模表一次地震能量，震度表各地搖晃"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：冷鋒過境後常降溫，暖鋒後常升溫。",
+    "id": "gifted-gifted-175-mcq",
+    "prompt": "關於「鋒面」，下列何者正確？",
+    "options": [
+      "暖鋒只在海底",
+      "冷鋒過境後常降溫，暖鋒後常升溫",
+      "冷鋒後必升溫",
+      "鋒面沒有降雨"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：冷鋒過境後常降溫，暖鋒後常升溫。",
+    "id": "gifted-gifted-175-short",
+    "prompt": "關於「鋒面」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "冷鋒過境後常降溫，暖鋒後常升溫"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：冷鋒過境後常降溫，暖鋒後常升溫。",
+    "id": "gifted-gifted-176-mcq",
+    "prompt": "解決「鋒面」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "冷鋒後必升溫",
+      "鋒面沒有降雨",
+      "暖鋒只在海底",
+      "冷鋒過境後常降溫，暖鋒後常升溫"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：冷鋒過境後常降溫，暖鋒後常升溫。",
+    "id": "gifted-gifted-176-short",
+    "prompt": "解決「鋒面」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "冷鋒過境後常降溫，暖鋒後常升溫"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：朔望時日月引力較同向，潮差較大。",
+    "id": "gifted-gifted-177-mcq",
+    "prompt": "關於「月相潮汐」，下列何者正確？",
+    "options": [
+      "上弦下弦潮差最大",
+      "潮汐與月球無關",
+      "每天只一次潮",
+      "朔望時日月引力較同向，潮差較大"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：朔望時日月引力較同向，潮差較大。",
+    "id": "gifted-gifted-177-short",
+    "prompt": "關於「月相潮汐」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "朔望時日月引力較同向，潮差較大"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：朔望時日月引力較同向，潮差較大。",
+    "id": "gifted-gifted-178-mcq",
+    "prompt": "解決「月相潮汐」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "每天只一次潮",
+      "朔望時日月引力較同向，潮差較大",
+      "上弦下弦潮差最大",
+      "潮汐與月球無關"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：朔望時日月引力較同向，潮差較大。",
+    "id": "gifted-gifted-178-short",
+    "prompt": "解決「月相潮汐」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "朔望時日月引力較同向，潮差較大"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：北半球夏至正午太陽高度通常較高、影子較短。",
+    "id": "gifted-gifted-179-mcq",
+    "prompt": "關於「太陽高度」，下列何者正確？",
+    "options": [
+      "與緯度無關",
+      "北半球夏至正午太陽高度通常較高、影子較短",
+      "冬至影子最短",
+      "四季都相同"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：北半球夏至正午太陽高度通常較高、影子較短。",
+    "id": "gifted-gifted-179-short",
+    "prompt": "關於「太陽高度」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "北半球夏至正午太陽高度通常較高、影子較短"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：北半球夏至正午太陽高度通常較高、影子較短。",
+    "id": "gifted-gifted-180-mcq",
+    "prompt": "解決「太陽高度」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "冬至影子最短",
+      "四季都相同",
+      "與緯度無關",
+      "北半球夏至正午太陽高度通常較高、影子較短"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：北半球夏至正午太陽高度通常較高、影子較短。",
+    "id": "gifted-gifted-180-short",
+    "prompt": "解決「太陽高度」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "北半球夏至正午太陽高度通常較高、影子較短"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：有固定偏向，重複量測取平均無法消除。",
+    "id": "gifted-gifted-181-mcq",
+    "prompt": "關於「系統誤差」，下列何者正確？",
+    "options": [
+      "完全隨機可平均消除",
+      "只因粗心",
+      "不影響準確度",
+      "有固定偏向，重複量測取平均無法消除"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：有固定偏向，重複量測取平均無法消除。",
+    "id": "gifted-gifted-181-short",
+    "prompt": "關於「系統誤差」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "有固定偏向，重複量測取平均無法消除"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：有固定偏向，重複量測取平均無法消除。",
+    "id": "gifted-gifted-182-mcq",
+    "prompt": "解決「系統誤差」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "不影響準確度",
+      "有固定偏向，重複量測取平均無法消除",
+      "完全隨機可平均消除",
+      "只因粗心"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：有固定偏向，重複量測取平均無法消除。",
+    "id": "gifted-gifted-182-short",
+    "prompt": "解決「系統誤差」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "有固定偏向，重複量測取平均無法消除"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：量測波動可透過多次量測平均降低。",
+    "id": "gifted-gifted-183-mcq",
+    "prompt": "關於「隨機誤差」，下列何者正確？",
+    "options": [
+      "一定由儀器零點造成",
+      "量測波動可透過多次量測平均降低",
+      "永遠同方向偏差",
+      "不能重複量測"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：量測波動可透過多次量測平均降低。",
+    "id": "gifted-gifted-183-short",
+    "prompt": "關於「隨機誤差」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "量測波動可透過多次量測平均降低"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：量測波動可透過多次量測平均降低。",
+    "id": "gifted-gifted-184-mcq",
+    "prompt": "解決「隨機誤差」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "永遠同方向偏差",
+      "不能重複量測",
+      "一定由儀器零點造成",
+      "量測波動可透過多次量測平均降低"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：量測波動可透過多次量測平均降低。",
+    "id": "gifted-gifted-184-short",
+    "prompt": "解決「隨機誤差」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "量測波動可透過多次量測平均降低"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：讀值應包含一位估計數字。",
+    "id": "gifted-gifted-185-mcq",
+    "prompt": "關於「有效數字」，下列何者正確？",
+    "options": [
+      "可記任意位數",
+      "不需估計位",
+      "只寫整數",
+      "讀值應包含一位估計數字"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：讀值應包含一位估計數字。",
+    "id": "gifted-gifted-185-short",
+    "prompt": "關於「有效數字」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "讀值應包含一位估計數字"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：讀值應包含一位估計數字。",
+    "id": "gifted-gifted-186-mcq",
+    "prompt": "解決「有效數字」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "只寫整數",
+      "讀值應包含一位估計數字",
+      "可記任意位數",
+      "不需估計位"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：讀值應包含一位估計數字。",
+    "id": "gifted-gifted-186-short",
+    "prompt": "解決「有效數字」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "讀值應包含一位估計數字"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：圖表可用誤差棒呈現測量不確定範圍。",
+    "id": "gifted-gifted-187-mcq",
+    "prompt": "關於「誤差棒」，下列何者正確？",
+    "options": [
+      "只顯示平均值",
+      "圖表可用誤差棒呈現測量不確定範圍",
+      "誤差棒代表答案錯誤",
+      "不能出現在圖表"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：圖表可用誤差棒呈現測量不確定範圍。",
+    "id": "gifted-gifted-187-short",
+    "prompt": "關於「誤差棒」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "圖表可用誤差棒呈現測量不確定範圍"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：圖表可用誤差棒呈現測量不確定範圍。",
+    "id": "gifted-gifted-188-mcq",
+    "prompt": "解決「誤差棒」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "誤差棒代表答案錯誤",
+      "不能出現在圖表",
+      "只顯示平均值",
+      "圖表可用誤差棒呈現測量不確定範圍"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：圖表可用誤差棒呈現測量不確定範圍。",
+    "id": "gifted-gifted-188-short",
+    "prompt": "解決「誤差棒」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "圖表可用誤差棒呈現測量不確定範圍"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：以最佳擬合線描述資料趨勢，斜率可對應物理量。",
+    "id": "gifted-gifted-189-mcq",
+    "prompt": "關於「線性迴歸」，下列何者正確？",
+    "options": [
+      "必將所有點折線相連",
+      "斜率沒有意義",
+      "不需座標單位",
+      "以最佳擬合線描述資料趨勢，斜率可對應物理量"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：以最佳擬合線描述資料趨勢，斜率可對應物理量。",
+    "id": "gifted-gifted-189-short",
+    "prompt": "關於「線性迴歸」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "以最佳擬合線描述資料趨勢，斜率可對應物理量"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：以最佳擬合線描述資料趨勢，斜率可對應物理量。",
+    "id": "gifted-gifted-190-mcq",
+    "prompt": "解決「線性迴歸」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "不需座標單位",
+      "以最佳擬合線描述資料趨勢，斜率可對應物理量",
+      "必將所有點折線相連",
+      "斜率沒有意義"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜誤差分析與不確定度",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：以最佳擬合線描述資料趨勢，斜率可對應物理量。",
+    "id": "gifted-gifted-190-short",
+    "prompt": "解決「線性迴歸」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "以最佳擬合線描述資料趨勢，斜率可對應物理量"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：實驗中刻意改變的唯一條件。",
+    "id": "gifted-gifted-191-mcq",
+    "prompt": "關於「操縱變因」，下列何者正確？",
+    "options": [
+      "任意改變多項",
+      "實驗中刻意改變的唯一條件",
+      "所有保持相同條件",
+      "測量結果"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：實驗中刻意改變的唯一條件。",
+    "id": "gifted-gifted-191-short",
+    "prompt": "關於「操縱變因」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "實驗中刻意改變的唯一條件"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：實驗中刻意改變的唯一條件。",
+    "id": "gifted-gifted-192-mcq",
+    "prompt": "解決「操縱變因」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "所有保持相同條件",
+      "測量結果",
+      "任意改變多項",
+      "實驗中刻意改變的唯一條件"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：實驗中刻意改變的唯一條件。",
+    "id": "gifted-gifted-192-short",
+    "prompt": "解決「操縱變因」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "實驗中刻意改變的唯一條件"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：隨操縱變因改變而量測的結果。",
+    "id": "gifted-gifted-193-mcq",
+    "prompt": "關於「應變變因」，下列何者正確？",
+    "options": [
+      "唯一改變條件",
+      "固定不變條件",
+      "不需紀錄",
+      "隨操縱變因改變而量測的結果"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：隨操縱變因改變而量測的結果。",
+    "id": "gifted-gifted-193-short",
+    "prompt": "關於「應變變因」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "隨操縱變因改變而量測的結果"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：隨操縱變因改變而量測的結果。",
+    "id": "gifted-gifted-194-mcq",
+    "prompt": "解決「應變變因」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "不需紀錄",
+      "隨操縱變因改變而量測的結果",
+      "唯一改變條件",
+      "固定不變條件"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "核心原理",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：隨操縱變因改變而量測的結果。",
+    "id": "gifted-gifted-194-short",
+    "prompt": "解決「應變變因」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "隨操縱變因改變而量測的結果"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：提供比較基準，通常不施加實驗處理。",
+    "id": "gifted-gifted-195-mcq",
+    "prompt": "關於「對照組」，下列何者正確？",
+    "options": [
+      "不需重複",
+      "提供比較基準，通常不施加實驗處理",
+      "一定沒有資料",
+      "必與實驗組完全不同"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：提供比較基準，通常不施加實驗處理。",
+    "id": "gifted-gifted-195-short",
+    "prompt": "關於「對照組」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "提供比較基準，通常不施加實驗處理"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：提供比較基準，通常不施加實驗處理。",
+    "id": "gifted-gifted-196-mcq",
+    "prompt": "解決「對照組」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "一定沒有資料",
+      "必與實驗組完全不同",
+      "不需重複",
+      "提供比較基準，通常不施加實驗處理"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：提供比較基準，通常不施加實驗處理。",
+    "id": "gifted-gifted-196-short",
+    "prompt": "解決「對照組」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "提供比較基準，通常不施加實驗處理"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：應標示物理量名稱與單位。",
+    "id": "gifted-gifted-197-mcq",
+    "prompt": "關於「圖表座標」，下列何者正確？",
+    "options": [
+      "只寫數字即可",
+      "x y 軸可隨意互換無意義",
+      "不需標題",
+      "應標示物理量名稱與單位"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：應標示物理量名稱與單位。",
+    "id": "gifted-gifted-197-short",
+    "prompt": "關於「圖表座標」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "應標示物理量名稱與單位"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：應標示物理量名稱與單位。",
+    "id": "gifted-gifted-198-mcq",
+    "prompt": "解決「圖表座標」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "不需標題",
+      "應標示物理量名稱與單位",
+      "只寫數字即可",
+      "x y 軸可隨意互換無意義"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "實驗判讀",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：應標示物理量名稱與單位。",
+    "id": "gifted-gifted-198-short",
+    "prompt": "解決「圖表座標」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "應標示物理量名稱與單位"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：應依據數據回答研究問題並說明限制。",
+    "id": "gifted-gifted-199-mcq",
+    "prompt": "關於「科學結論」，下列何者正確？",
+    "options": [
+      "不需討論誤差",
+      "應依據數據回答研究問題並說明限制",
+      "可忽略不符預期數據",
+      "先決定結論再找資料"
+    ],
+    "answer": 1
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：應依據數據回答研究問題並說明限制。",
+    "id": "gifted-gifted-199-short",
+    "prompt": "關於「科學結論」，下列何者正確？\n請在下方填入正確答案。",
+    "answer": "應依據數據回答研究問題並說明限制"
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：應依據數據回答研究問題並說明限制。",
+    "id": "gifted-gifted-200-mcq",
+    "prompt": "解決「科學結論」問題時，應掌握哪一個核心結論？",
+    "options": [
+      "可忽略不符預期數據",
+      "先決定結論再找資料",
+      "不需討論誤差",
+      "應依據數據回答研究問題並說明限制"
+    ],
+    "answer": 3
+  },
+  {
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "跨科｜科學閱讀、圖表與實驗設計",
+    "skill": "綜合推論",
+    "source": "Knovatrix 原創題庫",
+    "generatedTag": "國中資優原創題庫",
+    "explanation": "重點：應依據數據回答研究問題並說明限制。",
+    "id": "gifted-gifted-200-short",
+    "prompt": "解決「科學結論」問題時，應掌握哪一個核心結論？\n請在下方填入正確答案。",
+    "answer": "應依據數據回答研究問題並說明限制"
   }
 ]
