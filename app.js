@@ -22,7 +22,7 @@ const state = {
     level: savedSetup.level || "",
     subject: savedSetup.subject || "",
     decks: new Set(savedSetup.decks || []),
-    types: new Set(savedSetup.types?.length ? savedSetup.types : ["mcq", "short"]),
+    types: new Set([savedSetup.types?.includes("short") ? "short" : "mcq"]),
     size: Number(savedSetup.size) || 10
   },
   catalog: { level: "all", subject: "all", type: "all", search: "" },
@@ -298,7 +298,7 @@ function renderCatalog() {
     state.setup.level = level;
     state.setup.subject = subject;
     state.setup.decks = new Set([deck]);
-    state.setup.types = new Set(["mcq", "short"]);
+    state.setup.types = new Set(["mcq"]);
     saveSetup();
     location.hash = "/setup/options";
   });
@@ -402,8 +402,7 @@ function renderSetupOptions() {
   mount(setupLayout("/setup/options", body, `<a class="button secondary" href="#/setup/units">上一步</a><div class="setup-count"><b>${eligible.length}</b><span>題符合設定</span></div><button class="button" id="options-next" ${eligible.length ? "" : "disabled"}>下一步：確認任務</button>`));
   root.querySelectorAll("[data-type]").forEach(button => button.onclick = () => {
     const type = button.dataset.type;
-    if (state.setup.types.size === 1 && state.setup.types.has(type)) return;
-    state.setup.types.has(type) ? state.setup.types.delete(type) : state.setup.types.add(type);
+    state.setup.types = new Set([type]);
     saveSetup();
     renderSetupOptions();
   });
