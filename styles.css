@@ -353,3 +353,19 @@ footer a{color:var(--forest-2);font-weight:850}
   footer{align-items:flex-start;flex-direction:column;padding-inline:12px}
 }
 .resume-strip{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:18px 0 0;padding:13px 15px;border-left:5px solid var(--gold);border-radius:7px;background:#fff7e7}.resume-strip>div{display:grid}.resume-strip b{font-size:14px}.resume-strip span{color:#765d2d;font-size:12px}@media(max-width:560px){.resume-strip{align-items:stretch;flex-direction:column}.resume-strip .button{width:100%}}
+
+.question-title sub,.unit-row sub,.choice sub,.answer-feedback sub,.review-list sub,.wrong-list sub{font-size:.72em;line-height:0;vertical-align:sub}
+.math-radicand{text-decoration:overline;text-decoration-thickness:1px;text-decoration-skip-ink:none}
+
+.math-arrow {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 0.08em;
+  white-space: nowrap;
+}
+
+.math-arrow small {
+  font-size: 0.68em;
+  line-height: 1;
+  transform: translateY(-0.52em);
+}

@@ -730,12 +730,12 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "基礎記憶",
     "source": "使用者提供題庫",
     "explanation": "",
     "id": "elementary-gifted-fractions-27-mcq",
-    "prompt": "分數 $\\frac{1}{2 \\times 3}$ 根據裂項相消的心法，可以拆解成下列何者？",
+    "prompt": "分數 $\\frac{1}{2 \\times 3}$ 根據裂項相消法的心法，可以拆解成下列何者？",
     "options": [
       "1/2 + 1/3",
       "1/2 - 1/3",
@@ -747,18 +747,18 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "基礎記憶",
     "source": "使用者提供題庫",
     "explanation": "",
     "id": "elementary-gifted-fractions-27-short",
-    "prompt": "分數 $\\frac{1}{2 \\times 3}$ 根據裂項相消的心法，可以拆解成下列何者？\n請在下方填入正確答案。",
+    "prompt": "分數 $\\frac{1}{2 \\times 3}$ 根據裂項相消法的心法，可以拆解成下列何者？\n請在下方填入正確答案。",
     "answer": "1/2 - 1/3"
   },
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "基礎記憶",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -775,7 +775,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "基礎記憶",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -786,7 +786,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "基礎記憶",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -803,7 +803,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "基礎記憶",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -814,7 +814,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "基礎記憶",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -831,7 +831,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "基礎記憶",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -842,7 +842,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -859,7 +859,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -870,7 +870,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -887,7 +887,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -898,7 +898,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -915,7 +915,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -926,7 +926,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -943,7 +943,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -954,7 +954,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "（分子已等於差值，可直接消，結果為 $1 - 1/101$）",
@@ -971,7 +971,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "進階推論",
     "source": "使用者提供題庫",
     "explanation": "（分子已等於差值，可直接消，結果為 $1 - 1/101$）",
@@ -982,7 +982,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "情境素養",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -999,7 +999,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "情境素養",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -1010,7 +1010,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "情境素養",
     "source": "使用者提供題庫",
     "explanation": "",
@@ -1019,7 +1019,7 @@
     "options": [
       "繁分數化簡",
       "真假分數極限",
-      "裂項相消",
+      "裂項相消法",
       "循環小數轉換"
     ],
     "answer": 2
@@ -1027,18 +1027,18 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "情境素養",
     "source": "使用者提供題庫",
     "explanation": "",
     "id": "elementary-gifted-fractions-37-short",
     "prompt": "植樹節活動中，每個班級負責的區域面積剛好呈現 $\\frac{1}{2 \\times 4} + \\frac{1}{4 \\times 6} + \\frac{1}{6 \\times 8} ...$ 的規律。若要快速算出總面積，應使用何種數學心法？\n請在下方填入正確答案。",
-    "answer": "裂項相消"
+    "answer": "裂項相消法"
   },
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "情境素養",
     "source": "使用者提供題庫",
     "explanation": "（1/3 * (1 - 1/7) = 2/7）",
@@ -1055,7 +1055,7 @@
   {
     "level": "國小資優",
     "subject": "數學",
-    "deck": "裂項相消",
+    "deck": "裂項相消法",
     "skill": "情境素養",
     "source": "使用者提供題庫",
     "explanation": "（1/3 * (1 - 1/7) = 2/7）",
@@ -3759,7 +3759,7 @@
     "source": "使用者提供題庫",
     "explanation": "",
     "id": "elementary-gifted-geometry-35-mcq",
-    "prompt": "皮克定理（Pick's Theorem）主要用來計算什麼圖形的面積？",
+    "prompt": "皮克定理主要用來計算什麼圖形的面積？",
     "options": [
       "所有圓形",
       "頂點都在「格點（座標為整數）」上的多邊形",
@@ -3776,7 +3776,7 @@
     "source": "使用者提供題庫",
     "explanation": "",
     "id": "elementary-gifted-geometry-35-short",
-    "prompt": "皮克定理（Pick's Theorem）主要用來計算什麼圖形的面積？\n請在下方填入正確答案。",
+    "prompt": "皮克定理主要用來計算什麼圖形的面積？\n請在下方填入正確答案。",
     "answer": "頂點都在「格點（座標為整數）」上的多邊形"
   },
   {

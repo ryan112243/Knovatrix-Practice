@@ -41,19 +41,96 @@ const root = document.querySelector("#app");
 const esc = value => String(value ?? "").replace(/[&<>"']/g, char => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
 }[char]));
-const formatMath = value => {
-  let output = esc(value).replace(/\$([^$]+)\$/g, "$1");
+function readMathGroup(input, start) {
+  if (input[start] !== "{") return null;
+  let depth = 0;
+  for (let index = start; index < input.length; index += 1) {
+    if (input[index] === "{") depth += 1;
+    if (input[index] === "}") {
+      depth -= 1;
+      if (!depth) return { value: input.slice(start + 1, index), end: index + 1 };
+    }
+  }
+  return null;
+}
+
+function renderMathFractions(input) {
+  let output = "";
+  let cursor = 0;
+  while (cursor < input.length) {
+    const marker = input.indexOf("\\frac{", cursor);
+    if (marker < 0) return output + input.slice(cursor);
+    const numerator = readMathGroup(input, marker + 5);
+    const denominator = numerator ? readMathGroup(input, numerator.end) : null;
+    if (!numerator || !denominator) {
+      output += input.slice(cursor, marker + 5);
+      cursor = marker + 5;
+      continue;
+    }
+    output += input.slice(cursor, marker) + `<span class="fraction"><span>${renderMathFractions(numerator.value)}</span><span>${renderMathFractions(denominator.value)}</span></span>`;
+    cursor = denominator.end;
+  }
+  return output;
+}
+
+function renderMathRoots(input) {
+  let output = "";
+  let cursor = 0;
+  while (cursor < input.length) {
+    const marker = input.indexOf("\\sqrt{", cursor);
+    if (marker < 0) return output + input.slice(cursor);
+    const group = readMathGroup(input, marker + 5);
+    if (!group) {
+      output += input.slice(cursor, marker + 5);
+      cursor = marker + 5;
+      continue;
+    }
+    output += input.slice(cursor, marker) + `√<span class="math-radicand">${renderMathFractions(group.value)}</span>`;
+    cursor = group.end;
+  }
+  return output;
+}
+
+function renderMathOverlines(input) {
+  let output = "";
+  let cursor = 0;
+  while (cursor < input.length) {
+    const marker = input.indexOf("\\overline{", cursor);
+    if (marker < 0) return output + input.slice(cursor);
+    const group = readMathGroup(input, marker + 9);
+    if (!group) {
+      output += input.slice(cursor, marker + 9);
+      cursor = marker + 9;
+      continue;
+    }
+    output += input.slice(cursor, marker) + `<span class="overline">${renderMathFractions(group.value)}</span>`;
+    cursor = group.end;
+  }
+  return output;
+}
+function formatMath(value) {
+  const commands = {
+    rightleftharpoons: "⇌", leftrightarrow: "↔", rightarrow: "→", leftarrow: "←", implies: "⇒",
+    approx: "≈", propto: "∝", leq: "≤", geq: "≥", neq: "≠", times: " × ", div: " ÷ ",
+    cdot: "·", pm: "±", mp: "∓", circ: "°", deg: "°", sim: "∼", infty: "∞", pi: "π",
+    alpha: "α", beta: "β", gamma: "γ", delta: "δ", Delta: "Δ", Gamma: "Γ", theta: "θ",
+    Theta: "Θ", lambda: "λ", mu: "μ", rho: "ρ", sigma: "σ", omega: "ω", phi: "φ", Phi: "Φ",
+    eta: "η", kappa: "κ", tau: "τ", nu: "ν", xi: "ξ", zeta: "ζ", sum: "Σ", Sigma: "Σ", prod: "Π", int: "∫", oint: "∮", cap: "∩", cup: "∪", perp: "⊥", parallel: "∥", angle: "∠", triangle: "△", varepsilon: "ε", hbar: "ℏ", sin: "sin", cos: "cos", tan: "tan", log: "log", ln: "ln", lim: "lim", dots: "…", ldots: "…", to: "→", iff: "⇔", searrow: "↘", nearrow: "↗"
+  };
+  let output = esc(value).replace(/\$([^$]+)\$/g, "$1").replace(/\$/g, "");
+  output = output.replace(/\\(?:text|mathrm|operatorname|mathcal|mathbb|mathbf|mathit)\{([^{}]*)\}/g, "$1");
+  output = renderMathOverlines(renderMathRoots(renderMathFractions(output)));
+  output = output.replace(/\\vec{([^{}]+)}/g, "$1⃗");
   output = output
-    .replace(/\\text\{([^{}]+)\}/g, "$1")
-    .replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, (_, numerator, denominator) => `<span class="fraction"><span>${numerator}</span><span>${denominator}</span></span>`)
-    .replace(/\\overline\{([^{}]+)\}/g, '<span class="overline">$1</span>')
-    .replace(/\\sqrt\{([^{}]+)\}/g, '\u221a($1)')
-    .replace(/\\triangle/g, '\u25b3')
-    .replace(/\\times/g, '\u00d7')
-    .replace(/\\div/g, '\u00f7')
-    .replace(/\\rightarrow/g, '\u2192');
-  return output.replace(/\^(?:\{([^{}]+)\}|(-?\d+(?:\.\d+)?|[A-Za-z]|[+\-]))/g, (_, grouped, plain) => `<sup>${grouped ?? plain}</sup>`);
-};
+    .replace(/\\xrightarrow{([^{}]+)}/g, '<span class="math-arrow">→<small>$1</small></span>')
+    .replace(/\\xrightleftharpoons{([^{}]+)}/g, '<span class="math-arrow">⇌<small>$1</small></span>');
+  output = output.replace(/\\(quad|qquad)/g, "　").replace(/\\[,;:!]/g, " ");
+  output = output.replace(/\\(xrightleftharpoons|rightleftharpoons|leftrightarrow|xrightarrow|rightarrow|leftarrow|implies|iff|approx|propto|leq|geq|le|ge|neq|times|div|cdot|pm|mp|circ|deg|sim|infty|pi|alpha|beta|gamma|delta|Delta|Gamma|theta|Theta|lambda|mu|rho|sigma|omega|phi|Phi|eta|kappa|tau|nu|xi|zeta|sum|Sigma|prod|int|oint|cap|cup|perp|parallel|angle|triangle|varepsilon|hbar|sin|cos|tan|log|ln|lim|dots|ldots|to|searrow|nearrow)/g, (_, name) => commands[name] ?? (name === "le" ? "≤" : name === "ge" ? "≥" : name.startsWith("xrightarrow") ? "→" : name.startsWith("xright") ? "⇌" : ""));
+  output = output.replace(/\\(?:left|right|begin|end)/g, "");
+  output = output.replace(/\\%/g, "%").replace(/\\,/g, " ");
+  output = output.replace(/\^\{([^{}]+)\}/g, "<sup>$1</sup>").replace(/\^([A-Za-z0-9+\-])/g, "<sup>$1</sup>");
+  return output.replace(/_\{([^{}]+)\}/g, "<sub>$1</sub>").replace(/_([A-Za-z0-9+\-])/g, "<sub>$1</sub>");
+}
 const normal = value => String(value ?? "").trim().replace(/\s+/g, "").toLowerCase();
 const typeName = type => type === "short" ? "填充題" : "選擇題";
 const normalizeQuestion = question => {
