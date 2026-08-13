@@ -148,6 +148,18 @@ function saveStats() {
   localStorage.setItem(STORAGE.wrong, JSON.stringify([...state.wrongIds]));
 }
 
+function applyLinkedSetup() {
+  const queryIndex = location.hash.indexOf("?");
+  if (queryIndex < 0) return;
+  const params = new URLSearchParams(location.hash.slice(queryIndex + 1));
+  const level = params.get("level");
+  if (!level) return;
+  state.setup.level = level;
+  state.setup.subject = params.get("subject") || "";
+  const deck = params.get("deck");
+  state.setup.decks = new Set(deck ? [deck] : []);
+  state.setup.types = new Set(["mcq"]);
+}
 function saveSetup() {
   localStorage.setItem(STORAGE.setup, JSON.stringify({
     level: state.setup.level,
@@ -157,6 +169,8 @@ function saveSetup() {
     size: state.setup.size
   }));
 }
+applyLinkedSetup();
+
 
 function saveActiveSession() {
   if (!state.session.length) {
