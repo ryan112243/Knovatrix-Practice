@@ -729,7 +729,7 @@ function renderRoute() {
 }
 
 window.addEventListener("hashchange", renderRoute);
-fetch("data/questions.json")
+fetch("data/questions.json?v=practice-20260814-1", { cache: "no-store" })
   .then(response => response.json())
   .then(data => {
     state.questions = Array.isArray(data) ? data.map(normalizeQuestion) : [];
