@@ -30,7 +30,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
 .brand-mark{display:grid;width:32px;height:32px;place-items:center;border-radius:7px;color:var(--lime);background:var(--forest)}
 .topbar nav{display:flex;gap:18px;color:var(--forest-2);font-size:14px;font-weight:800}
 .topbar nav a:hover{color:#9b6424}
-.practice-layout{display:grid;grid-template-columns:minmax(0,160px) minmax(0,1fr) minmax(0,160px);gap:12px;width:min(calc(100% - 20px),1560px);min-width:0;min-height:calc(100vh - 136px);margin:0 auto}
+.practice-layout{display:grid;grid-template-columns:minmax(0,160px) minmax(0,1fr) minmax(0,160px);gap:12px;width:min(calc(100% - 20px),1560px);min-width:0;min-height:calc(100vh - 136px);margin:0 auto;container-type:inline-size}
 .practice-layout>main{min-width:0;width:100%;padding:24px 0 64px}
 .ad-rail{position:sticky;top:92px;align-self:start;padding-top:24px}
 .ad-slot{display:flex;align-items:center;justify-content:center;border:1px dashed #c8d3cc;border-radius:7px;color:#83908a;background:#eef2ed;font-size:12px;text-align:center}
@@ -223,6 +223,26 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
 .answer-feedback p{margin:4px 0;color:var(--ink);font-size:13px}
 .answer-feedback span{color:var(--muted);font-size:13px}
 .question-pagination{display:flex;justify-content:space-between;gap:10px;margin-top:12px}
+@container (max-width:1180px){
+  .practice-layout>.ad-rail{display:none}
+  .practice-layout>main{grid-column:1/-1;width:100%}
+}
+@container (max-width:700px){
+  .quiz-columns{grid-template-columns:1fr}
+  .question-navigator{position:static}
+  .question-map{grid-template-columns:repeat(10,1fr)}
+  .navigator-key{display:none}
+}
+@container (max-width:460px){
+  .quiz-toolbar{grid-template-columns:auto minmax(0,1fr) auto;gap:8px;padding:9px}
+  .quiz-toolbar>div span{display:none}
+  .quiz-exit{font-size:12px}
+  .question-card{padding:17px}
+  .question-title{grid-template-columns:34px minmax(0,1fr);gap:9px}
+  .question-title>span{width:32px;height:32px}
+  .question-title h1{font-size:18px}
+  .choice{grid-template-columns:auto 28px minmax(0,1fr);padding:10px}
+}
 .result-hero{display:grid;grid-template-columns:260px minmax(0,1fr);gap:28px;padding:22px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .result-score{display:grid;align-content:center;justify-items:center;min-height:190px;padding:18px;border-radius:8px;background:var(--blue);text-align:center}
 .result-score span,.result-score small{color:var(--muted);font-size:12px;font-weight:850}
