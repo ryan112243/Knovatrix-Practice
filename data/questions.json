@@ -119028,5 +119028,124 @@
     ],
     "answer": 1,
     "explanation": "等式兩邊同減 9，得到 6x = -120；再同除以 6，所以 x = -20。"
+  },
+  {
+    "id": "nasa-moon-20261121-1",
+    "level": "國中",
+    "subject": "地球科學",
+    "deck": "九下｜地球運動、月相與潮汐",
+    "skill": "觀念應用",
+    "source": "參考 NASA Science, Moon Phases：https://science.nasa.gov/moon/moon-phases/",
+    "prompt": "月球本身不發光，地球上看到的月光主要來自哪裡？",
+    "options": [
+      "月球表面的岩漿",
+      "月球反射的太陽光",
+      "地球反射的星光",
+      "月球自身的燃燒"
+    ],
+    "answer": 1,
+    "explanation": "月光主要是月球表面反射的太陽光。"
+  },
+  {
+    "id": "nasa-moon-20261121-2",
+    "level": "國中",
+    "subject": "地球科學",
+    "deck": "九下｜地球運動、月相與潮汐",
+    "skill": "觀念應用",
+    "source": "參考 NASA Science, Moon Phases：https://science.nasa.gov/moon/moon-phases/",
+    "prompt": "月相約每隔多久重複一次？",
+    "options": [
+      "約 1 天",
+      "約 7 天",
+      "約 29.5 天",
+      "約 365 天"
+    ],
+    "answer": 2,
+    "explanation": "一個月相週期約為 29.5 天。"
+  },
+  {
+    "id": "nasa-moon-20261121-3",
+    "level": "國中",
+    "subject": "地球科學",
+    "deck": "九下｜地球運動、月相與潮汐",
+    "skill": "觀念應用",
+    "source": "參考 NASA Science, Moon Phases：https://science.nasa.gov/moon/moon-phases/",
+    "prompt": "滿月通常在一天中的什麼時候從東方升起？",
+    "options": [
+      "日出附近",
+      "正午附近",
+      "日落附近",
+      "午夜附近"
+    ],
+    "answer": 2,
+    "explanation": "滿月大致位在與太陽相反的方向，通常在日落附近升起。"
+  },
+  {
+    "id": "nasa-moon-20261121-4",
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "觀念應用",
+    "source": "參考 NASA Science, Moon Phases：https://science.nasa.gov/moon/moon-phases/",
+    "prompt": "上弦月約在正午升起，最可能在何時落下？",
+    "options": [
+      "日落附近",
+      "午夜附近",
+      "日出附近",
+      "正午附近"
+    ],
+    "answer": 1,
+    "explanation": "上弦月約在正午升起，約午夜落下。"
+  },
+  {
+    "id": "nasa-moon-20261121-5",
+    "level": "國中資優",
+    "subject": "資優自然主題",
+    "deck": "地科｜地質、氣象與天文推理",
+    "skill": "觀念應用",
+    "source": "參考 NASA Science, Moon Phases：https://science.nasa.gov/moon/moon-phases/",
+    "prompt": "月球繞地球運行時，月相改變主要因為什麼？",
+    "options": [
+      "月球被地球影子每天遮住不同部分",
+      "月球面向地球的受光區比例改變",
+      "月球每月改變自身亮度",
+      "太陽每月繞地球運行"
+    ],
+    "answer": 1,
+    "explanation": "月球受光半球的位置相對地球改變，因此可見的受光部分不同。"
+  },
+  {
+    "id": "nasa-moon-20261121-6",
+    "level": "國小資優",
+    "subject": "自然科學",
+    "deck": "五上｜太陽、星星與方位",
+    "skill": "觀念應用",
+    "source": "參考 NASA Science, Moon Phases：https://science.nasa.gov/moon/moon-phases/",
+    "prompt": "夜晚看到的月亮亮光主要來自哪裡？",
+    "options": [
+      "月球像燈泡自己發光",
+      "反射太陽光",
+      "反射路燈的光",
+      "月球上燃燒的火"
+    ],
+    "answer": 1,
+    "explanation": "月球不會像燈泡一樣自行發光，月光主要是反射的太陽光。"
+  },
+  {
+    "id": "nasa-moon-20261121-7",
+    "level": "國小資優",
+    "subject": "自然科學",
+    "deck": "五上｜太陽、星星與方位",
+    "skill": "觀念應用",
+    "source": "參考 NASA Science, Moon Phases：https://science.nasa.gov/moon/moon-phases/",
+    "prompt": "觀察一整個月，月亮亮面形狀有週期變化，這稱為什麼？",
+    "options": [
+      "月相變化",
+      "日食",
+      "地震",
+      "四季"
+    ],
+    "answer": 0,
+    "explanation": "地球上看到月球受光部分的形狀變化稱為月相變化。"
   }
 ]
