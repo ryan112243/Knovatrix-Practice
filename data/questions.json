@@ -121852,5 +121852,3473 @@
     ],
     "answer": 2,
     "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-101-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第1題｜大考中心",
+    "prompt": "【101學測 英文 第1題】The ending of the movie did not come as a _____ to John because he had already read the novel that the movie was based on.",
+    "options": [
+      "vision",
+      "focus",
+      "surprise",
+      "conclusion"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-101-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第2題｜大考中心",
+    "prompt": "【101學測 英文 第2題】In order to stay healthy and fit, John exercises _____. He works out twice a week in a gym.",
+    "options": [
+      "regularly",
+      "directly",
+      "hardly",
+      "gradually"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-101-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第3題｜大考中心",
+    "prompt": "【101學測 英文 第3題】Traveling is a good way for us to _____ different cultures and broaden our horizons.",
+    "options": [
+      "assume",
+      "explore",
+      "occupy",
+      "inspire"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-101-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第4題｜大考中心",
+    "prompt": "【101學測 英文 第4題】The story about Hou-I shooting down nine suns is a well-known Chinese _____, but it may not be a true historical event.",
+    "options": [
+      "figure",
+      "rumor",
+      "miracle",
+      "legend"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-101-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第5題｜大考中心",
+    "prompt": "【101學測 英文 第5題】According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+    "options": [
+      "diligent",
+      "mature",
+      "familiar",
+      "sincere"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-101-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第6題｜大考中心",
+    "prompt": "【101學測 英文 第6題】Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
+    "options": [
+      "hesitation",
+      "relief",
+      "sorrow",
+      "triumph"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-101-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第7題｜大考中心",
+    "prompt": "【101學測 英文 第7題】Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen.",
+    "options": [
+      "efficient",
+      "practical",
+      "changeable",
+      "optimistic"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-101-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第8題｜大考中心",
+    "prompt": "【101學測 英文 第8題】No one could beat Paul at running. He has won the running championship _____ for three years.",
+    "options": [
+      "rapidly",
+      "urgently",
+      "continuously",
+      "temporarily"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-101-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第9題｜大考中心",
+    "prompt": "【101學測 英文 第9題】If you fly from Taipei to Tokyo, you’ll be taking an international, rather than a _____ flight.",
+    "options": [
+      "liberal",
+      "domestic",
+      "connected",
+      "universal"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-101-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第10題｜大考中心",
+    "prompt": "【101學測 英文 第10題】Jack is very proud of his fancy new motorcycle. He has been _____ to all his friends about how cool it looks and how fast it runs.",
+    "options": [
+      "boasting",
+      "proposing",
+      "gossiping",
+      "confessing"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-101-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第11題｜大考中心",
+    "prompt": "【101學測 英文 第11題】The ideas about family have changed _____ in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child.",
+    "options": [
+      "mutually",
+      "narrowly",
+      "considerably",
+      "scarcely"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-101-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第12題｜大考中心",
+    "prompt": "【101學測 英文 第12題】The chairperson of the meeting asked everyone to speak up instead of _____ their opinions among themselves.",
+    "options": [
+      "reciting",
+      "giggling",
+      "murmuring",
+      "whistling"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-101-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第13題｜大考中心",
+    "prompt": "【101學測 英文 第13題】Although Mr. Chen is rich, he is a very _____ person and is never willing to spend any money to help those who are in need.",
+    "options": [
+      "absolute",
+      "precise",
+      "economic",
+      "stingy"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-101-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第14題｜大考中心",
+    "prompt": "【101學測 英文 第14題】If you want to know what your dreams mean, now there are websites you can visit to help you _____ them.",
+    "options": [
+      "overcome",
+      "interpret",
+      "transfer",
+      "revise"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-101-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "101學測英文第15題｜大考中心",
+    "prompt": "【101學測 英文 第15題】The memory _____ of the new computer has been increased so that more information can be stored.",
+    "options": [
+      "capacity",
+      "occupation",
+      "attachment",
+      "machinery"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-99-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第1題｜大考中心",
+    "prompt": "【99學測 英文 第1題】Mr. Lin is a very ________ writer; he publishes at least five novels every year.",
+    "options": [
+      "moderate",
+      "temporary",
+      "productive",
+      "reluctant"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-99-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第2題｜大考中心",
+    "prompt": "【99學測 英文 第2題】Using a heating pad or taking warm baths can sometimes help to _____ pain in the lower back.",
+    "options": [
+      "polish",
+      "relieve",
+      "switch",
+      "maintain"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-99-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第3題｜大考中心",
+    "prompt": "【99學測 英文 第3題】Peter stayed up late last night, so he drank a lot of coffee this morning to keep himself _____ in class.",
+    "options": [
+      "acceptable",
+      "amazed",
+      "accurate",
+      "awake"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-99-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第4題｜大考中心",
+    "prompt": "【99學測 英文 第4題】Due to _______, prices for daily necessities have gone up and we have to pay more for the same items now.",
+    "options": [
+      "inflation",
+      "solution",
+      "objection",
+      "condition"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-99-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第5題｜大考中心",
+    "prompt": "【99學測 英文 第5題】The government is doing its best to ____ the cultures of the tribal people for fear that they may soon die out.",
+    "options": [
+      "preserve",
+      "frustrate",
+      "hesitate",
+      "overthrow"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-99-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第6題｜大考中心",
+    "prompt": "【99學測 英文 第6題】I could not ______ the sweet smell from the bakery, so I walked in and bought a fresh loaf of bread.",
+    "options": [
+      "insist",
+      "resist",
+      "obtain",
+      "contain"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-99-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第7題｜大考中心",
+    "prompt": "【99學測 英文 第7題】Steve has several meetings to attend every day; therefore, he has to work on a very _____ schedule.",
+    "options": [
+      "dense",
+      "various",
+      "tight",
+      "current"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-99-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第8題｜大考中心",
+    "prompt": "【99學測 英文 第8題】Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men’s swimming _____ in the 2008 Olympics.",
+    "options": [
+      "drills",
+      "techniques",
+      "routines",
+      "contests"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-99-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第9題｜大考中心",
+    "prompt": "【99學測 英文 第9題】Those college students work at the orphanage on a _____ basis, helping the children with their studies without receiving any pay.",
+    "options": [
+      "voluntary",
+      "competitive",
+      "sorrowful",
+      "realistic"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-99-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第10題｜大考中心",
+    "prompt": "【99學測 英文 第10題】Studies show that asking children to do house _____, such as taking out the trash or doing the dishes, helps them grow into responsible adults.",
+    "options": [
+      "missions",
+      "chores",
+      "approaches",
+      "incidents"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-99-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第11題｜大考中心",
+    "prompt": "【99學測 英文 第11題】John has been scolded by his boss for over ten minutes now. _____, she is not happy about his being late again.",
+    "options": [
+      "Expressively",
+      "Apparently",
+      "Immediately",
+      "Originally"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-99-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第12題｜大考中心",
+    "prompt": "【99學測 英文 第12題】Since the orange trees suffered _____ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+    "options": [
+      "potential",
+      "relative",
+      "severe",
+      "mutual"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-99-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第13題｜大考中心",
+    "prompt": "【99學測 英文 第13題】Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural _____ in Taiwan in recent decades.",
+    "options": [
+      "disaster",
+      "barrier",
+      "anxiety",
+      "collapse"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-99-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "99學測英文第14題｜大考中心",
+    "prompt": "【99學測 英文 第14題】Robert was the only _____ to the car accident. The police had to count on him to find out exactly how the accident happened.",
+    "options": [
+      "dealer",
+      "guide",
+      "witness",
+      "client"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-98-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第1題｜大考中心",
+    "prompt": "【98學測 英文 第1題】Steve’s description of the place was so _____ that I could almost picture it in my mind.",
+    "options": [
+      "bitter",
+      "vivid",
+      "sensitive",
+      "courageous"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-98-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第2題｜大考中心",
+    "prompt": "【98學測 英文 第2題】When people feel uncomfortable or nervous, they may _____ their arms across their chests as if to protect themselves.",
+    "options": [
+      "toss",
+      "fold",
+      "veil",
+      "yield"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-98-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第3題｜大考中心",
+    "prompt": "【98學測 英文 第3題】The doors of these department stores slide open _____ when you approach them. You don’t have to open them yourself.",
+    "options": [
+      "necessarily",
+      "diligently",
+      "automatically",
+      "intentionally"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-98-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第4題｜大考中心",
+    "prompt": "【98學測 英文 第4題】Nicole is a _____ language learner. Within a short period of time, she has developed a good command of Chinese and Japanese.",
+    "options": [
+      "convenient",
+      "popular",
+      "regular",
+      "brilliant"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-98-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第5題｜大考中心",
+    "prompt": "【98學測 英文 第5題】With rising oil prices, there is an increasing _____ for people to ride bicycles to work.",
+    "options": [
+      "permit",
+      "instrument",
+      "appearance",
+      "tendency"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-98-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第6題｜大考中心",
+    "prompt": "【98學測 英文 第6題】This information came from a very _____ source, so you don’t have to worry about being cheated.",
+    "options": [
+      "reliable",
+      "flexible",
+      "clumsy",
+      "brutal"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-98-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第7題｜大考中心",
+    "prompt": "【98學測 英文 第7題】We hope that there will be no war in the world and that all people live in peace and _____ with each other.",
+    "options": [
+      "complaint",
+      "harmony",
+      "mission",
+      "texture"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-98-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第8題｜大考中心",
+    "prompt": "【98學測 英文 第8題】To have a full discussion of the issue, the committee spent a whole hour _____ their ideas at the meeting.",
+    "options": [
+      "depositing",
+      "exchanging",
+      "governing",
+      "interrupting"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-98-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第9題｜大考中心",
+    "prompt": "【98學測 英文 第9題】While adapting to western ways of living, many Asian immigrants in the US still try hard to _____ their own cultures and traditions.",
+    "options": [
+      "volunteer",
+      "scatter",
+      "preserve",
+      "motivate"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-98-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第10題｜大考中心",
+    "prompt": "【98學測 英文 第10題】With the worsening of global economic conditions, it seems wiser and more _____ to keep cash in the bank rather than to invest in the stock market.",
+    "options": [
+      "sensible",
+      "portable",
+      "explicit",
+      "anxious"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-98-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第11題｜大考中心",
+    "prompt": "【98學測 英文 第11題】Under the _____ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy.",
+    "options": [
+      "adoption",
+      "fragrance",
+      "identity",
+      "leadership"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-98-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第12題｜大考中心",
+    "prompt": "【98學測 英文 第12題】Rapid advancement in motor engineering makes it _____ possible to build a flying car in the near future.",
+    "options": [
+      "individually",
+      "narrowly",
+      "punctually",
+      "technically"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-98-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第13題｜大考中心",
+    "prompt": "【98學測 英文 第13題】When you take photos, you can move around to shoot the target object from different _____.",
+    "options": [
+      "moods",
+      "trends",
+      "angles",
+      "inputs"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-98-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "98學測英文第14題｜大考中心",
+    "prompt": "【98學測 英文 第14題】Students were asked to _____ or rewrite their compositions based on the teacher’s comments.",
+    "options": [
+      "revise",
+      "resign",
+      "refresh",
+      "remind"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-97-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第1題｜大考中心",
+    "prompt": "【97學測 英文 第1題】Amy did not _____ changes in the course schedule and therefore missed the class.",
+    "options": [
+      "arrest",
+      "alarm",
+      "notice",
+      "delay"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-97-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第2題｜大考中心",
+    "prompt": "【97學測 英文 第2題】It is not easy for old people to _____ their backs, so they need help when their backs itch.",
+    "options": [
+      "label",
+      "scratch",
+      "lighten",
+      "squeeze"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-97-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第3題｜大考中心",
+    "prompt": "【97學測 英文 第3題】Mary is suffering from a stomachache and needs to eat food which is easy to _____.",
+    "options": [
+      "launch",
+      "invade",
+      "adopt",
+      "digest"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-97-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第4題｜大考中心",
+    "prompt": "【97學測 英文 第4題】Since our classroom is not air-conditioned, we have to _____ the heat during the hot summer days.",
+    "options": [
+      "consume",
+      "tolerate",
+      "recover",
+      "promote"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-97-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第5題｜大考中心",
+    "prompt": "【97學測 英文 第5題】Sue is so _____ that she always breaks something when she is shopping at a store.",
+    "options": [
+      "religious",
+      "visual",
+      "clumsy",
+      "intimate"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-97-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第6題｜大考中心",
+    "prompt": "【97學測 英文 第6題】Ann enjoyed going to the flower market. She believed that the _____ of flowers refreshed her mind.",
+    "options": [
+      "instance",
+      "dominance",
+      "appliance",
+      "fragrance"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-97-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第7題｜大考中心",
+    "prompt": "【97學測 英文 第7題】The profits of Prince Charles’s organic farm go to _____ to help the poor and the sick.",
+    "options": [
+      "charities",
+      "bulletins",
+      "harvests",
+      "rebels"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-97-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第8題｜大考中心",
+    "prompt": "【97學測 英文 第8題】Jack was given the rare _____ of using the president’s office, which made others quite jealous.",
+    "options": [
+      "mischief",
+      "privilege",
+      "involvement",
+      "occupation"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-97-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第9題｜大考中心",
+    "prompt": "【97學測 英文 第9題】This new computer is obviously _____ to the old one because it has many new functions.",
+    "options": [
+      "technical",
+      "suitable",
+      "superior",
+      "typical"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-97-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第10題｜大考中心",
+    "prompt": "【97學測 英文 第10題】Simon loves his work. To him, work always comes first, and family and friends are _____.",
+    "options": [
+      "secondary",
+      "temporary",
+      "sociable",
+      "capable"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-97-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第11題｜大考中心",
+    "prompt": "【97學測 英文 第11題】Although your plans look good, you have to be _____ and consider what you can actually do.",
+    "options": [
+      "dramatic",
+      "realistic",
+      "stressful",
+      "manageable"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-97-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第12題｜大考中心",
+    "prompt": "【97學測 英文 第12題】Built under the sea in 1994, the _____ between England and France connects the UK more closely with mainland Europe.",
+    "options": [
+      "waterfall",
+      "temple",
+      "tunnel",
+      "channel"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-97-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第13題｜大考中心",
+    "prompt": "【97學測 英文 第13題】This tour package is very appealing, and that one looks _____ attractive. I don’t know which one to choose.",
+    "options": [
+      "equally",
+      "annually",
+      "merely",
+      "gratefully"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-97-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第14題｜大考中心",
+    "prompt": "【97學測 英文 第14題】Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
+    "options": [
+      "performed",
+      "pretended",
+      "postponed",
+      "persuaded"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-97-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "97學測英文第15題｜大考中心",
+    "prompt": "【97學測 英文 第15題】The police searched the house of the suspect _____. They almost turned the whole house upside down.",
+    "options": [
+      "relatively",
+      "thoroughly",
+      "casually",
+      "permanently"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-96-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第1題｜大考中心",
+    "prompt": "【96學測 英文 第1題】The movie director adapted this year’s bestseller into a hit and made a ______.",
+    "options": [
+      "fortune",
+      "request",
+      "companion",
+      "decision"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-96-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第2題｜大考中心",
+    "prompt": "【96學測 英文 第2題】Wang Chien-ming, the Yankees’ best pitcher last year, already showed his great _____ for baseball when he was still a teenager.",
+    "options": [
+      "response",
+      "reluctance",
+      "permission",
+      "potential"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-96-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第3題｜大考中心",
+    "prompt": "【96學測 英文 第3題】Although Jeffery had to keep two part-time jobs to support his family, he never ______ his studies. In fact, he graduated with honors.",
+    "options": [
+      "neglected",
+      "segmented",
+      "financed",
+      "diminished"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-96-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第4題｜大考中心",
+    "prompt": "【96學測 英文 第4題】If it is too cold in this room, you can ______ the air conditioner to make yourself feel comfortable.",
+    "options": [
+      "fasten",
+      "adjust",
+      "defeat",
+      "upload"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-96-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第5題｜大考中心",
+    "prompt": "【96學測 英文 第5題】This course will provide students with a solid ______ for research. It is highly recommended for those who plan to go to graduate school.",
+    "options": [
+      "admission",
+      "circulation",
+      "foundation",
+      "extension"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-96-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第6題｜大考中心",
+    "prompt": "【96學測 英文 第6題】Peter is now living on a ______ of NT$100 per day. He cannot afford any recreational activities.",
+    "options": [
+      "division",
+      "guidance",
+      "measure",
+      "budget"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-96-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第7題｜大考中心",
+    "prompt": "【96學測 英文 第7題】Amy succeeded in ______ for a raise though her boss didn’t agree to increase her salary at first.",
+    "options": [
+      "compensating",
+      "negotiating",
+      "substituting",
+      "advertising"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-96-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第8題｜大考中心",
+    "prompt": "【96學測 英文 第8題】Ms. Li’s business ______ very quickly. She opened her first store two years ago; now she has fifty stores all over the country.",
+    "options": [
+      "discouraged",
+      "transferred",
+      "stretched",
+      "expanded"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-96-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第9題｜大考中心",
+    "prompt": "【96學測 英文 第9題】Ruth is a very ____ person. She cannot take any criticism and always finds excuses to justify herself.",
+    "options": [
+      "shameful",
+      "innocent",
+      "defensive",
+      "outgoing"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-96-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第10題｜大考中心",
+    "prompt": "【96學測 英文 第10題】It’s a pity that you have to leave so soon. I ______ hope that you will come back very soon.",
+    "options": [
+      "sincerely",
+      "scarcely",
+      "reliably",
+      "obviously"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-96-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第11題｜大考中心",
+    "prompt": "【96學測 英文 第11題】We human beings may live without clothes, but food and air are ______ to our life.",
+    "options": [
+      "magnificent",
+      "essential",
+      "influential",
+      "profitable"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-96-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第12題｜大考中心",
+    "prompt": "【96學測 英文 第12題】The manager ______ without hesitation after he had been offered a better job in another company.",
+    "options": [
+      "retreated",
+      "revived",
+      "removed",
+      "resigned"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-96-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第13題｜大考中心",
+    "prompt": "【96學測 英文 第13題】Many important legal ______ concerning the tragic incident have now been preserved in the museum.",
+    "options": [
+      "distributions",
+      "formations",
+      "documents",
+      "constructions"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-96-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第14題｜大考中心",
+    "prompt": "【96學測 英文 第14題】I’m not sure exactly how much scholarship you’ll receive, but it will _____ cover your major expenses.",
+    "options": [
+      "recently",
+      "roughly",
+      "frankly",
+      "variously"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-96-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "96學測英文第15題｜大考中心",
+    "prompt": "【96學測 英文 第15題】Tom was very ill a week ago, but now he looks healthy. We are ______ by his quick recovery.",
+    "options": [
+      "amazed",
+      "convinced",
+      "advised",
+      "confirmed"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-95-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第1題｜大考中心",
+    "prompt": "【95學測 英文 第1題】If we can ______ to, we will take a vacation abroad in the summer.",
+    "options": [
+      "pay",
+      "move",
+      "expose",
+      "afford"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-95-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第2題｜大考中心",
+    "prompt": "【95學測 英文 第2題】A ______ mistake found in parenthood is that parents often set unrealistic goals for their children.",
+    "options": [
+      "terrific",
+      "common",
+      "straight",
+      "favorable"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-95-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第3題｜大考中心",
+    "prompt": "【95學測 英文 第3題】Some words, such as “sandwich” and “hamburger,” were ______ the names of people or even towns.",
+    "options": [
+      "originally",
+      "ideally",
+      "relatively",
+      "sincerely"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-95-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第4題｜大考中心",
+    "prompt": "【95學測 英文 第4題】Have you ever ______ how the ancient Egyptians created such marvelous feats of engineering as the pyramids?",
+    "options": [
+      "concluded",
+      "wondered",
+      "admitted",
+      "persuaded"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-95-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第5題｜大考中心",
+    "prompt": "【95學測 英文 第5題】Mr. Johnson was disappointed at his students for having a passive learning ______.",
+    "options": [
+      "result",
+      "progress",
+      "attitude",
+      "energy"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-95-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第6題｜大考中心",
+    "prompt": "【95學測 英文 第6題】Anne dreaded giving a speech before three hundred people; even thinking about it made her ______.",
+    "options": [
+      "passionate",
+      "anxious",
+      "ambitious",
+      "optimistic"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-95-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第7題｜大考中心",
+    "prompt": "【95學測 英文 第7題】I had to ______ Jack’s invitation to the party because it conflicted with an important business meeting.",
+    "options": [
+      "decline",
+      "depart",
+      "devote",
+      "deserve"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-95-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第8題｜大考中心",
+    "prompt": "【95學測 英文 第8題】Selling fried chicken at the night market doesn’t seem to be a decent business, but it is actually quite ______.",
+    "options": [
+      "plentiful",
+      "precious",
+      "profitable",
+      "productive"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-95-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第9題｜大考中心",
+    "prompt": "【95學測 英文 第9題】The passengers ______ escaped death when a bomb exploded in the subway station, killing sixty people.",
+    "options": [
+      "traditionally",
+      "valuably",
+      "loosely",
+      "narrowly"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-95-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第10題｜大考中心",
+    "prompt": "【95學測 英文 第10題】Jerry didn’t ______ his primary school classmate Mary until he listened to her self-introduction.",
+    "options": [
+      "acquaint",
+      "acquire",
+      "recognize",
+      "realize"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-95-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第11題｜大考中心",
+    "prompt": "【95學測 英文 第11題】With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+    "options": [
+      "transportation",
+      "traffic",
+      "travel",
+      "transfer"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-95-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第12題｜大考中心",
+    "prompt": "【95學測 英文 第12題】With a good ______ of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+    "options": [
+      "writing",
+      "program",
+      "command",
+      "impression"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-95-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "95學測英文第14題｜大考中心",
+    "prompt": "【95學測 英文 第14題】Kim was completely ______ after jogging in the hot sun all afternoon; she had little energy left.",
+    "options": [
+      "kicked out",
+      "handed out",
+      "worn out",
+      "put out"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-94-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第1題｜大考中心",
+    "prompt": "【94學測 英文 第1題】As computers are getting less expensive, they are _______ used in schools and offices today.",
+    "options": [
+      "widely",
+      "expectedly",
+      "consciously",
+      "influentially"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-94-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第2題｜大考中心",
+    "prompt": "【94學測 英文 第2題】Mr. Chang always tries to answer all questions from his students. He will not _____ any of them even if they may sound stupid.",
+    "options": [
+      "reform",
+      "depress",
+      "ignore",
+      "confirm"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-94-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第3題｜大考中心",
+    "prompt": "【94學測 英文 第3題】Irene does not throw away used envelopes. She ____ them by using them for taking telephone messages.",
+    "options": [
+      "designs",
+      "recycles",
+      "disguises",
+      "manufactures"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-94-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第4題｜大考中心",
+    "prompt": "【94學測 英文 第4題】Cheese, powdered milk, and yogurt are common milk ____.",
+    "options": [
+      "produces",
+      "products",
+      "productions",
+      "productivities"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-94-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第5題｜大考中心",
+    "prompt": "【94學測 英文 第5題】Although he is a chef, Roberto _____ cooks his own meals.",
+    "options": [
+      "rarely",
+      "bitterly",
+      "naturally",
+      "skillfully"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-94-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第6題｜大考中心",
+    "prompt": "【94學測 英文 第6題】Due to the yearly bonus system, the 100 ________ positions in this high-tech company have attracted many applicants from around the island.",
+    "options": [
+      "loyal",
+      "evident",
+      "typical",
+      "vacant"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-94-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第7題｜大考中心",
+    "prompt": "【94學測 英文 第7題】If you want to borrow magazines, tapes, or CDs, you can visit the library. They are all ______ there.",
+    "options": [
+      "sufficient",
+      "marvelous",
+      "impressive",
+      "available"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-94-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第8題｜大考中心",
+    "prompt": "【94學測 英文 第8題】The fire in the fireworks factory in Changhua set off a series of powerful _________ and killed four people.",
+    "options": [
+      "explosions",
+      "extensions",
+      "inspections",
+      "impressions"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-94-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第9題｜大考中心",
+    "prompt": "【94學測 英文 第9題】A good government official has to ________ the temptation of money and make the right decision.",
+    "options": [
+      "consist",
+      "insist",
+      "resist",
+      "persist"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-94-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第10題｜大考中心",
+    "prompt": "【94學測 英文 第10題】The drug dealer was ________ by the police while he was selling cocaine to a high school student.",
+    "options": [
+      "threatened",
+      "endangered",
+      "demonstrated",
+      "arrested"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-94-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第11題｜大考中心",
+    "prompt": "【94學測 英文 第11題】The rise of oil prices made scientists search for new energy resources to ______ oil.",
+    "options": [
+      "apply",
+      "replace",
+      "inform",
+      "persuade"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-94-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第12題｜大考中心",
+    "prompt": "【94學測 英文 第12題】Without much contact with the outside world for many years, John found many technological inventions _____ to him.",
+    "options": [
+      "natural",
+      "common",
+      "foreign",
+      "objective"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-94-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第13題｜大考中心",
+    "prompt": "【94學測 英文 第13題】The medicine you take for a cold may cause _____; try not to drive after you take it.",
+    "options": [
+      "incident",
+      "violence",
+      "bacteria",
+      "drowsiness"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-94-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "94學測英文第14題｜大考中心",
+    "prompt": "【94學測 英文 第14題】To gain more ______, some legislators would get into violent physical fights so that they may appear in TV news reports.",
+    "options": [
+      "publicity",
+      "reputation",
+      "significance",
+      "communication"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-93-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第1題｜大考中心",
+    "prompt": "【93學測 英文 第1題】I called the airline to ______ my flight reservation a week before I left for Canada.",
+    "options": [
+      "expand",
+      "attach",
+      "confirm",
+      "strengthen"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-93-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第2題｜大考中心",
+    "prompt": "【93學測 英文 第2題】In order to write a report on stars, we decided to ______ the stars in the sky every night.",
+    "options": [
+      "design",
+      "seize",
+      "quote",
+      "observe"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-93-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第3題｜大考中心",
+    "prompt": "【93學測 英文 第3題】Julie wants to buy a ______ computer so that she can carry it around when she travels.",
+    "options": [
+      "memorable",
+      "portable",
+      "predictable",
+      "readable"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-93-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第4題｜大考中心",
+    "prompt": "【93學測 英文 第4題】My grandmother likes to surprise people. She never calls ______ to inform us of her visits.",
+    "options": [
+      "beforehand",
+      "anyhow",
+      "originally",
+      "consequently"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-93-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第5題｜大考中心",
+    "prompt": "【93學測 英文 第5題】As the tallest building in the world, Taipei 101 has become a new ______ of Taipei City.",
+    "options": [
+      "incident",
+      "geography",
+      "skylight",
+      "landmark"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-93-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第6題｜大考中心",
+    "prompt": "【93學測 英文 第6題】Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+    "options": [
+      "reference",
+      "intention",
+      "conference",
+      "interaction"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-93-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第7題｜大考中心",
+    "prompt": "【93學測 英文 第7題】John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+    "options": [
+      "interrupted",
+      "disconnected",
+      "excluded",
+      "discriminated"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-93-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第8題｜大考中心",
+    "prompt": "【93學測 英文 第8題】The organic food products are made of natural ingredients, with no ______ flavors added.",
+    "options": [
+      "accurate",
+      "regular",
+      "superficial",
+      "artificial"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-93-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第9題｜大考中心",
+    "prompt": "【93學測 英文 第9題】Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+    "options": [
+      "spiritually",
+      "typically",
+      "historically",
+      "officially"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-93-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第10題｜大考中心",
+    "prompt": "【93學測 英文 第10題】Jane usually buys things on ______. Her purchases seem to be driven by some sudden force or desire.",
+    "options": [
+      "accident",
+      "compliment",
+      "justification",
+      "impulse"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-93-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第11題｜大考中心",
+    "prompt": "【93學測 英文 第11題】The week-long rainfall has ______ landslides and flooding in the mountain areas.",
+    "options": [
+      "set about",
+      "brought about",
+      "come about",
+      "put about"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-93-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第12題｜大考中心",
+    "prompt": "【93學測 英文 第12題】In the cross-lake swimming race, a boat will be _____ in case of an emergency.",
+    "options": [
+      "standing by",
+      "turning on",
+      "getting on",
+      "running down"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-93-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第13題｜大考中心",
+    "prompt": "【93學測 英文 第13題】The ground is slippery. Hold onto the rope and don’t ______.",
+    "options": [
+      "put off",
+      "turn up",
+      "let go",
+      "take apart"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-93-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "93學測英文第14題｜大考中心",
+    "prompt": "【93學測 英文 第14題】______ the weather, the athletic meetings will be held on time.",
+    "options": [
+      "Instead of",
+      "In relation to",
+      "On behalf of",
+      "Regardless of"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-109-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "109學測英文第16題｜大考中心",
+    "prompt": "【109學測 英文 第16題】請選出第 16 格的答案。\n\nThe art and tradition of using all-natural paste from the henna plant to create temporary henna tattoos goes back to ancient Asia and the Middle East. Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods. Today, the ancient art form has found a new 17 in the hands of contemporary artists. Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again. They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment. Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads. Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed. According to Frances Darwin, founder of Henna Heals, the number of artists now involved in the project across Canada and the US has grown to over 150.",
+    "options": [
+      "were being",
+      "have been",
+      "will be",
+      "had to be"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-109-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "109學測英文第17題｜大考中心",
+    "prompt": "【109學測 英文 第17題】請選出第 17 格的答案。\n\nThe art and tradition of using all-natural paste from the henna plant to create temporary henna tattoos goes back to ancient Asia and the Middle East. Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods. Today, the ancient art form has found a new 17 in the hands of contemporary artists. Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again. They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment. Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads. Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed. According to Frances Darwin, founder of Henna Heals, the number of artists now involved in the project across Canada and the US has grown to over 150.",
+    "options": [
+      "competition",
+      "application",
+      "investigation",
+      "participation"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-109-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "109學測英文第18題｜大考中心",
+    "prompt": "【109學測 英文 第18題】請選出第 18 格的答案。\n\nThe art and tradition of using all-natural paste from the henna plant to create temporary henna tattoos goes back to ancient Asia and the Middle East. Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods. Today, the ancient art form has found a new 17 in the hands of contemporary artists. Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again. They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment. Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads. Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed. According to Frances Darwin, founder of Henna Heals, the number of artists now involved in the project across Canada and the US has grown to over 150.",
+    "options": [
+      "carry away",
+      "build on",
+      "cope with",
+      "get off"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-109-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "109學測英文第19題｜大考中心",
+    "prompt": "【109學測 英文 第19題】請選出第 19 格的答案。\n\nThe art and tradition of using all-natural paste from the henna plant to create temporary henna tattoos goes back to ancient Asia and the Middle East. Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods. Today, the ancient art form has found a new 17 in the hands of contemporary artists. Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again. They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment. Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads. Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed. According to Frances Darwin, founder of Henna Heals, the number of artists now involved in the project across Canada and the US has grown to over 150.",
+    "options": [
+      "moreover",
+      "altogether",
+      "namely",
+      "otherwise"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-109-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "109學測英文第20題｜大考中心",
+    "prompt": "【109學測 英文 第20題】請選出第 20 格的答案。\n\nThe art and tradition of using all-natural paste from the henna plant to create temporary henna tattoos goes back to ancient Asia and the Middle East. Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods. Today, the ancient art form has found a new 17 in the hands of contemporary artists. Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again. They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment. Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads. Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed. According to Frances Darwin, founder of Henna Heals, the number of artists now involved in the project across Canada and the US has grown to over 150.",
+    "options": [
+      "positive",
+      "general",
+      "flexible",
+      "considerate"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-108-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "108學測英文第16題｜大考中心",
+    "prompt": "【108學測 英文 第16題】請選出第 16 格的答案。\n\nApril Fools’ Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 16 the adoption of a new calendar. Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 17 to celebrate New Year’s Day on April 1. Other people began to make fun of these traditionalists, sending them on “fool’s errands” or trying to fool them into believing something false. 18 , the practice spread throughout Europe and the rest of the world. Nowadays, on April Fools’ Day, people often 19 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.",
+    "options": [
+      "leads to",
+      "brings out",
+      "stems from",
+      "comes across"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-108-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "108學測英文第17題｜大考中心",
+    "prompt": "【108學測 英文 第17題】請選出第 17 格的答案。\n\nApril Fools’ Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 16 the adoption of a new calendar. Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 17 to celebrate New Year’s Day on April 1. Other people began to make fun of these traditionalists, sending them on “fool’s errands” or trying to fool them into believing something false. 18 , the practice spread throughout Europe and the rest of the world. Nowadays, on April Fools’ Day, people often 19 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.",
+    "options": [
+      "continue",
+      "continuing",
+      "to continue",
+      "continued"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-108-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "108學測英文第18題｜大考中心",
+    "prompt": "【108學測 英文 第18題】請選出第 18 格的答案。\n\nApril Fools’ Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 16 the adoption of a new calendar. Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 17 to celebrate New Year’s Day on April 1. Other people began to make fun of these traditionalists, sending them on “fool’s errands” or trying to fool them into believing something false. 18 , the practice spread throughout Europe and the rest of the world. Nowadays, on April Fools’ Day, people often 19 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.",
+    "options": [
+      "Precisely",
+      "Eventually",
+      "Additionally",
+      "Literally"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-108-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "108學測英文第19題｜大考中心",
+    "prompt": "【108學測 英文 第19題】請選出第 19 格的答案。\n\nApril Fools’ Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 16 the adoption of a new calendar. Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 17 to celebrate New Year’s Day on April 1. Other people began to make fun of these traditionalists, sending them on “fool’s errands” or trying to fool them into believing something false. 18 , the practice spread throughout Europe and the rest of the world. Nowadays, on April Fools’ Day, people often 19 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.",
+    "options": [
+      "come to an end",
+      "go to great lengths",
+      "put in service",
+      "hold in store"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-108-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "108學測英文第20題｜大考中心",
+    "prompt": "【108學測 英文 第20題】請選出第 20 格的答案。\n\nApril Fools’ Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 16 the adoption of a new calendar. Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 17 to celebrate New Year’s Day on April 1. Other people began to make fun of these traditionalists, sending them on “fool’s errands” or trying to fool them into believing something false. 18 , the practice spread throughout Europe and the rest of the world. Nowadays, on April Fools’ Day, people often 19 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.",
+    "options": [
+      "fictional",
+      "essential",
+      "ancient",
+      "subjective"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-107-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "107學測英文第16題｜大考中心",
+    "prompt": "【107學測 英文 第16題】請選出第 16 格的答案。\n\nIt has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged. It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections. Another way to increase creativity is to take risks. This is because many breakthroughs come up when people venture 20 their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+    "options": [
+      "more",
+      "less",
+      "better",
+      "worse"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-107-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "107學測英文第17題｜大考中心",
+    "prompt": "【107學測 英文 第17題】請選出第 17 格的答案。\n\nIt has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged. It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections. Another way to increase creativity is to take risks. This is because many breakthroughs come up when people venture 20 their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+    "options": [
+      "spark",
+      "carve",
+      "drill",
+      "grind"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-107-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "107學測英文第18題｜大考中心",
+    "prompt": "【107學測 英文 第18題】請選出第 18 格的答案。\n\nIt has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged. It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections. Another way to increase creativity is to take risks. This is because many breakthroughs come up when people venture 20 their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+    "options": [
+      "refer to",
+      "answer for",
+      "take part in",
+      "put up with"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-107-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "107學測英文第19題｜大考中心",
+    "prompt": "【107學測 英文 第19題】請選出第 19 格的答案。\n\nIt has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged. It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections. Another way to increase creativity is to take risks. This is because many breakthroughs come up when people venture 20 their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+    "options": [
+      "if",
+      "but",
+      "where",
+      "which"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-107-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "107學測英文第20題｜大考中心",
+    "prompt": "【107學測 英文 第20題】請選出第 20 格的答案。\n\nIt has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged. It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections. Another way to increase creativity is to take risks. This is because many breakthroughs come up when people venture 20 their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+    "options": [
+      "into",
+      "without",
+      "under",
+      "beyond"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-106-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "106學測英文第16題｜大考中心",
+    "prompt": "【106學測 英文 第16題】請選出第 16 格的答案。\n\nYou begin to notice a bit of pain on your eyelid each time you blink. You 16 the mirror to find a tiny red spot on the base of your lower lashes. These 17 are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 18 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye. 19 a stye can look unpleasant at times, it is usually harmless and doesn’t cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don’t squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+    "options": [
+      "check out",
+      "look into",
+      "watch over",
+      "see through"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-106-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "106學測英文第17題｜大考中心",
+    "prompt": "【106學測 英文 第17題】請選出第 17 格的答案。\n\nYou begin to notice a bit of pain on your eyelid each time you blink. You 16 the mirror to find a tiny red spot on the base of your lower lashes. These 17 are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 18 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye. 19 a stye can look unpleasant at times, it is usually harmless and doesn’t cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don’t squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+    "options": [
+      "incidents",
+      "measures",
+      "symptoms",
+      "explanations"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-106-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "106學測英文第18題｜大考中心",
+    "prompt": "【106學測 英文 第18題】請選出第 18 格的答案。\n\nYou begin to notice a bit of pain on your eyelid each time you blink. You 16 the mirror to find a tiny red spot on the base of your lower lashes. These 17 are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 18 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye. 19 a stye can look unpleasant at times, it is usually harmless and doesn’t cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don’t squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+    "options": [
+      "attracted",
+      "contributed",
+      "exposed",
+      "transferred"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-106-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "106學測英文第19題｜大考中心",
+    "prompt": "【106學測 英文 第19題】請選出第 19 格的答案。\n\nYou begin to notice a bit of pain on your eyelid each time you blink. You 16 the mirror to find a tiny red spot on the base of your lower lashes. These 17 are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 18 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye. 19 a stye can look unpleasant at times, it is usually harmless and doesn’t cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don’t squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+    "options": [
+      "As",
+      "If",
+      "Unless",
+      "Although"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-106-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "106學測英文第20題｜大考中心",
+    "prompt": "【106學測 英文 第20題】請選出第 20 格的答案。\n\nYou begin to notice a bit of pain on your eyelid each time you blink. You 16 the mirror to find a tiny red spot on the base of your lower lashes. These 17 are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 18 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye. 19 a stye can look unpleasant at times, it is usually harmless and doesn’t cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don’t squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+    "options": [
+      "against",
+      "among",
+      "about",
+      "after"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-105-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "105學測英文第16題｜大考中心",
+    "prompt": "【105學測 英文 第16題】請選出第 16 格的答案。\n\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. 16 , their plan quickly got out of control. Their young captive 17 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 18 the little terror. They lowered the price to $1,500. Yet, knowing perfectly well 19 a troublemaker his son was, the father refused to give them any money. 20 , he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+    "options": [
+      "However",
+      "Otherwise",
+      "Furthermore",
+      "Accordingly"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-105-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "105學測英文第17題｜大考中心",
+    "prompt": "【105學測 英文 第17題】請選出第 17 格的答案。\n\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. 16 , their plan quickly got out of control. Their young captive 17 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 18 the little terror. They lowered the price to $1,500. Yet, knowing perfectly well 19 a troublemaker his son was, the father refused to give them any money. 20 , he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+    "options": [
+      "made believe",
+      "got along",
+      "turned out",
+      "felt like"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-105-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "105學測英文第18題｜大考中心",
+    "prompt": "【105學測 英文 第18題】請選出第 18 格的答案。\n\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. 16 , their plan quickly got out of control. Their young captive 17 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 18 the little terror. They lowered the price to $1,500. Yet, knowing perfectly well 19 a troublemaker his son was, the father refused to give them any money. 20 , he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+    "options": [
+      "hold on to",
+      "get rid of",
+      "make fun of",
+      "take advantage of"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-105-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "105學測英文第19題｜大考中心",
+    "prompt": "【105學測 英文 第19題】請選出第 19 格的答案。\n\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. 16 , their plan quickly got out of control. Their young captive 17 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 18 the little terror. They lowered the price to $1,500. Yet, knowing perfectly well 19 a troublemaker his son was, the father refused to give them any money. 20 , he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+    "options": [
+      "how",
+      "that",
+      "why",
+      "what"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-105-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "105學測英文第20題｜大考中心",
+    "prompt": "【105學測 英文 第20題】請選出第 20 格的答案。\n\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. 16 , their plan quickly got out of control. Their young captive 17 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 18 the little terror. They lowered the price to $1,500. Yet, knowing perfectly well 19 a troublemaker his son was, the father refused to give them any money. 20 , he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+    "options": [
+      "Namely",
+      "Altogether",
+      "Simply",
+      "Instead"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-104-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "104學測英文第16題｜大考中心",
+    "prompt": "【104學測 英文 第16題】請選出第 16 格的答案。\n\nTai Chi Chuan is a type of ancient Chinese martial art. People 16 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States. The most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 17 “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, 18 one to effortlessly experience the vital life force, or the Qi energy, in one’s body. Tai Chi Chuan is not only a physical but also a 19 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 20 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+    "options": [
+      "practice",
+      "consult",
+      "display",
+      "manage"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-104-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "104學測英文第17題｜大考中心",
+    "prompt": "【104學測 英文 第17題】請選出第 17 格的答案。\n\nTai Chi Chuan is a type of ancient Chinese martial art. People 16 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States. The most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 17 “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, 18 one to effortlessly experience the vital life force, or the Qi energy, in one’s body. Tai Chi Chuan is not only a physical but also a 19 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 20 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+    "options": [
+      "from",
+      "like",
+      "between",
+      "regarding"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-104-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "104學測英文第18題｜大考中心",
+    "prompt": "【104學測 英文 第18題】請選出第 18 格的答案。\n\nTai Chi Chuan is a type of ancient Chinese martial art. People 16 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States. The most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 17 “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, 18 one to effortlessly experience the vital life force, or the Qi energy, in one’s body. Tai Chi Chuan is not only a physical but also a 19 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 20 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+    "options": [
+      "allow",
+      "allows",
+      "allowed",
+      "allowing"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-104-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "104學測英文第19題｜大考中心",
+    "prompt": "【104學測 英文 第19題】請選出第 19 格的答案。\n\nTai Chi Chuan is a type of ancient Chinese martial art. People 16 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States. The most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 17 “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, 18 one to effortlessly experience the vital life force, or the Qi energy, in one’s body. Tai Chi Chuan is not only a physical but also a 19 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 20 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+    "options": [
+      "formal",
+      "mental",
+      "social",
+      "global"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-104-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "104學測英文第20題｜大考中心",
+    "prompt": "【104學測 英文 第20題】請選出第 20 格的答案。\n\nTai Chi Chuan is a type of ancient Chinese martial art. People 16 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States. The most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 17 “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, 18 one to effortlessly experience the vital life force, or the Qi energy, in one’s body. Tai Chi Chuan is not only a physical but also a 19 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 20 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+    "options": [
+      "imposes",
+      "offends",
+      "reduces",
+      "disturbs"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-103-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "103學測英文第16題｜大考中心",
+    "prompt": "【103學測 英文 第16題】請選出第 16 格的答案。\n\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I’ll tell you what sort of people you’ll find in Athens.” 16 , the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.” 17 this, Aesop answered, “I’m happy to tell you, my dear friend, that you’ll find the people of Athens much the same.” A few hours later, 18 traveler came down the road. He too stopped and asked Aesop the same question. 19 , Aesop made the same request. But frowning, the man answered, “I’m from Argos and there the people are unfriendly, 20 , and vicious. They’re thieves and murderers, all of them.” “Well, I’m afraid you’ll find the people of Athens much the same,” replied Aesop.",
+    "options": [
+      "Amazing",
+      "Smiling",
+      "Deciding",
+      "Praying"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-103-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "103學測英文第17題｜大考中心",
+    "prompt": "【103學測 英文 第17題】請選出第 17 格的答案。\n\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I’ll tell you what sort of people you’ll find in Athens.” 16 , the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.” 17 this, Aesop answered, “I’m happy to tell you, my dear friend, that you’ll find the people of Athens much the same.” A few hours later, 18 traveler came down the road. He too stopped and asked Aesop the same question. 19 , Aesop made the same request. But frowning, the man answered, “I’m from Argos and there the people are unfriendly, 20 , and vicious. They’re thieves and murderers, all of them.” “Well, I’m afraid you’ll find the people of Athens much the same,” replied Aesop.",
+    "options": [
+      "At",
+      "By",
+      "For",
+      "Into"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-103-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "103學測英文第18題｜大考中心",
+    "prompt": "【103學測 英文 第18題】請選出第 18 格的答案。\n\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I’ll tell you what sort of people you’ll find in Athens.” 16 , the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.” 17 this, Aesop answered, “I’m happy to tell you, my dear friend, that you’ll find the people of Athens much the same.” A few hours later, 18 traveler came down the road. He too stopped and asked Aesop the same question. 19 , Aesop made the same request. But frowning, the man answered, “I’m from Argos and there the people are unfriendly, 20 , and vicious. They’re thieves and murderers, all of them.” “Well, I’m afraid you’ll find the people of Athens much the same,” replied Aesop.",
+    "options": [
+      "a",
+      "the",
+      "other",
+      "another"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-103-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "103學測英文第19題｜大考中心",
+    "prompt": "【103學測 英文 第19題】請選出第 19 格的答案。\n\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I’ll tell you what sort of people you’ll find in Athens.” 16 , the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.” 17 this, Aesop answered, “I’m happy to tell you, my dear friend, that you’ll find the people of Athens much the same.” A few hours later, 18 traveler came down the road. He too stopped and asked Aesop the same question. 19 , Aesop made the same request. But frowning, the man answered, “I’m from Argos and there the people are unfriendly, 20 , and vicious. They’re thieves and murderers, all of them.” “Well, I’m afraid you’ll find the people of Athens much the same,” replied Aesop.",
+    "options": [
+      "Again",
+      "Indeed",
+      "Together",
+      "Moreover"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-103-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "103學測英文第20題｜大考中心",
+    "prompt": "【103學測 英文 第20題】請選出第 20 格的答案。\n\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I’ll tell you what sort of people you’ll find in Athens.” 16 , the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.” 17 this, Aesop answered, “I’m happy to tell you, my dear friend, that you’ll find the people of Athens much the same.” A few hours later, 18 traveler came down the road. He too stopped and asked Aesop the same question. 19 , Aesop made the same request. But frowning, the man answered, “I’m from Argos and there the people are unfriendly, 20 , and vicious. They’re thieves and murderers, all of them.” “Well, I’m afraid you’ll find the people of Athens much the same,” replied Aesop.",
+    "options": [
+      "brave",
+      "lonely",
+      "mean",
+      "skinny"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-110-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "110學測英文第16題｜大考中心",
+    "prompt": "【110學測 英文 第16題】請選出第 16 格的答案。\n\nStreet pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists. The city council originally proposed 18 the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control. In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders 20 throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+    "options": [
+      "as",
+      "for",
+      "though",
+      "without"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-110-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "110學測英文第17題｜大考中心",
+    "prompt": "【110學測 英文 第17題】請選出第 17 格的答案。\n\nStreet pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists. The city council originally proposed 18 the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control. In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders 20 throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+    "options": [
+      "set up",
+      "hang on",
+      "take over",
+      "break down"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-110-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "110學測英文第18題｜大考中心",
+    "prompt": "【110學測 英文 第18題】請選出第 18 格的答案。\n\nStreet pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists. The city council originally proposed 18 the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control. In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders 20 throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+    "options": [
+      "counting",
+      "reducing",
+      "displaying",
+      "maintaining"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-110-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "110學測英文第19題｜大考中心",
+    "prompt": "【110學測 英文 第19題】請選出第 19 格的答案。\n\nStreet pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists. The city council originally proposed 18 the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control. In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders 20 throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+    "options": [
+      "nearly",
+      "shortly",
+      "precisely",
+      "similarly"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-110-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "110學測英文第20題｜大考中心",
+    "prompt": "【110學測 英文 第20題】請選出第 20 格的答案。\n\nStreet pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists. The city council originally proposed 18 the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control. In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders 20 throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+    "options": [
+      "installing",
+      "installed",
+      "to install",
+      "having installed"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-115-english-cloze-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第11題｜大考中心",
+    "prompt": "【115學測 英文 第11題】請選出第 11 格的答案。\n\nFrom the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, 11 , do the same thing—only their choice of meeting place is a giant pile of poop. A new study indicates that rhinos have a smelly way to 12 . Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important 13 about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what’s going on with each other, it is 14 that they will fight. The researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly 15 the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+    "options": [
+      "what is more",
+      "it turns out",
+      "in other words",
+      "all in all"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-115-english-cloze-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第12題｜大考中心",
+    "prompt": "【115學測 英文 第12題】請選出第 12 格的答案。\n\nFrom the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, 11 , do the same thing—only their choice of meeting place is a giant pile of poop. A new study indicates that rhinos have a smelly way to 12 . Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important 13 about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what’s going on with each other, it is 14 that they will fight. The researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly 15 the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+    "options": [
+      "demonstrate",
+      "immigrate",
+      "communicate",
+      "manipulate"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-115-english-cloze-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第13題｜大考中心",
+    "prompt": "【115學測 英文 第13題】請選出第 13 格的答案。\n\nFrom the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, 11 , do the same thing—only their choice of meeting place is a giant pile of poop. A new study indicates that rhinos have a smelly way to 12 . Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important 13 about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what’s going on with each other, it is 14 that they will fight. The researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly 15 the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+    "options": [
+      "doubts",
+      "icons",
+      "matches",
+      "clues"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-115-english-cloze-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第14題｜大考中心",
+    "prompt": "【115學測 英文 第14題】請選出第 14 格的答案。\n\nFrom the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, 11 , do the same thing—only their choice of meeting place is a giant pile of poop. A new study indicates that rhinos have a smelly way to 12 . Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important 13 about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what’s going on with each other, it is 14 that they will fight. The researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly 15 the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+    "options": [
+      "hardly surprising",
+      "more acceptable",
+      "truly important",
+      "less likely"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-115-english-cloze-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第15題｜大考中心",
+    "prompt": "【115學測 英文 第15題】請選出第 15 格的答案。\n\nFrom the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, 11 , do the same thing—only their choice of meeting place is a giant pile of poop. A new study indicates that rhinos have a smelly way to 12 . Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important 13 about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what’s going on with each other, it is 14 that they will fight. The researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly 15 the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+    "options": [
+      "responsive to",
+      "annoyed at",
+      "considerate of",
+      "tolerant with"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-115-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第16題｜大考中心",
+    "prompt": "【115學測 英文 第16題】請選出第 16 格的答案。\n\nThe history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born. Dim sum is more than just an example of Chinese cuisine. It is 18 an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and 19 were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as 20 . Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+    "options": [
+      "accommodate",
+      "compensate",
+      "anticipate",
+      "reinforce"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-115-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第17題｜大考中心",
+    "prompt": "【115學測 英文 第17題】請選出第 17 格的答案。\n\nThe history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born. Dim sum is more than just an example of Chinese cuisine. It is 18 an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and 19 were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as 20 . Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+    "options": [
+      "would hardly develop",
+      "had yet to develop",
+      "was fast developing",
+      "had almost developed"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-115-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第18題｜大考中心",
+    "prompt": "【115學測 英文 第18題】請選出第 18 格的答案。\n\nThe history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born. Dim sum is more than just an example of Chinese cuisine. It is 18 an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and 19 were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as 20 . Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+    "options": [
+      "passed on to",
+      "brought up as",
+      "thought to have",
+      "meant to be"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-115-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第19題｜大考中心",
+    "prompt": "【115學測 英文 第19題】請選出第 19 格的答案。\n\nThe history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born. Dim sum is more than just an example of Chinese cuisine. It is 18 an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and 19 were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as 20 . Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+    "options": [
+      "if so",
+      "as such",
+      "by then",
+      "in that"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-115-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "115學測英文第20題｜大考中心",
+    "prompt": "【115學測 英文 第20題】請選出第 20 格的答案。\n\nThe history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born. Dim sum is more than just an example of Chinese cuisine. It is 18 an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and 19 were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as 20 . Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+    "options": [
+      "a widely known delicacy",
+      "an intimate romantic dinner",
+      "a joyful social activity",
+      "an amazing local cuisine"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-114-english-cloze-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第11題｜大考中心",
+    "prompt": "【114學測 英文 第11題】請選出第 11 格的答案。\n\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 11 rapidly around the world. The group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 12 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion. The World Café was 15 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+    "options": [
+      "had spread",
+      "would spread",
+      "had been spreading",
+      "would have spread"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-114-english-cloze-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第12題｜大考中心",
+    "prompt": "【114學測 英文 第12題】請選出第 12 格的答案。\n\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 11 rapidly around the world. The group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 12 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion. The World Café was 15 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+    "options": [
+      "facilitated",
+      "disrupted",
+      "disclosed",
+      "fulfilled"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-114-english-cloze-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第13題｜大考中心",
+    "prompt": "【114學測 英文 第13題】請選出第 13 格的答案。\n\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 11 rapidly around the world. The group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 12 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion. The World Café was 15 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+    "options": [
+      "circulate",
+      "emphasize",
+      "recover",
+      "preserve"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-114-english-cloze-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第14題｜大考中心",
+    "prompt": "【114學測 英文 第14題】請選出第 14 格的答案。\n\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 11 rapidly around the world. The group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 12 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion. The World Café was 15 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+    "options": [
+      "made up for",
+      "kept track of",
+      "gave rise to",
+      "looked out for"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-114-english-cloze-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第15題｜大考中心",
+    "prompt": "【114學測 英文 第15題】請選出第 15 格的答案。\n\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 11 rapidly around the world. The group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 12 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion. The World Café was 15 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+    "options": [
+      "still",
+      "also",
+      "further",
+      "thus"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-114-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第16題｜大考中心",
+    "prompt": "【114學測 英文 第16題】請選出第 16 格的答案。\n\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 16 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting. Motion sickness occurs when the signals your brain receives from your eyes, ears, and body 17 . Your brain doesn’t know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 18 . Your brain’s confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope. You can take some 19 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 20 . You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+    "options": [
+      "crash",
+      "flush",
+      "burst",
+      "strike"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-114-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第17題｜大考中心",
+    "prompt": "【114學測 英文 第17題】請選出第 17 格的答案。\n\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 16 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting. Motion sickness occurs when the signals your brain receives from your eyes, ears, and body 17 . Your brain doesn’t know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 18 . Your brain’s confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope. You can take some 19 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 20 . You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+    "options": [
+      "are not regular",
+      "can hardly move",
+      "do not match",
+      "are rarely cued"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-114-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第18題｜大考中心",
+    "prompt": "【114學測 英文 第18題】請選出第 18 格的答案。\n\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 16 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting. Motion sickness occurs when the signals your brain receives from your eyes, ears, and body 17 . Your brain doesn’t know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 18 . Your brain’s confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope. You can take some 19 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 20 . You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+    "options": [
+      "aren’t",
+      "won’t",
+      "don’t",
+      "haven’t"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-114-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第19題｜大考中心",
+    "prompt": "【114學測 英文 第19題】請選出第 19 格的答案。\n\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 16 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting. Motion sickness occurs when the signals your brain receives from your eyes, ears, and body 17 . Your brain doesn’t know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 18 . Your brain’s confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope. You can take some 19 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 20 . You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+    "options": [
+      "special opportunities",
+      "preventive measures",
+      "potential risks",
+      "significant advantages"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-114-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "114學測英文第20題｜大考中心",
+    "prompt": "【114學測 英文 第20題】請選出第 20 格的答案。\n\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 16 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting. Motion sickness occurs when the signals your brain receives from your eyes, ears, and body 17 . Your brain doesn’t know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 18 . Your brain’s confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope. You can take some 19 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 20 . You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+    "options": [
+      "as well",
+      "by far",
+      "at least",
+      "after all"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-113-english-cloze-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第11題｜大考中心",
+    "prompt": "【113學測 英文 第11題】請選出第 11 格的答案。\n\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned. When evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13 . They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+    "options": [
+      "call for",
+      "pose as",
+      "attend to",
+      "engage in"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-113-english-cloze-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第12題｜大考中心",
+    "prompt": "【113學測 英文 第12題】請選出第 12 格的答案。\n\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned. When evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13 . They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+    "options": [
+      "in that",
+      "with which",
+      "for that",
+      "to which"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-113-english-cloze-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第13題｜大考中心",
+    "prompt": "【113學測 英文 第13題】請選出第 13 格的答案。\n\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned. When evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13 . They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+    "options": [
+      "keen competitions",
+      "financial hardship",
+      "racial conflicts",
+      "personal bias"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-113-english-cloze-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第14題｜大考中心",
+    "prompt": "【113學測 英文 第14題】請選出第 14 格的答案。\n\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned. When evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13 . They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+    "options": [
+      "difficult",
+      "potential",
+      "constant",
+      "anonymous"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-113-english-cloze-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第15題｜大考中心",
+    "prompt": "【113學測 英文 第15題】請選出第 15 格的答案。\n\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned. When evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13 . They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+    "options": [
+      "distribution",
+      "expectation",
+      "improvement",
+      "management"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-113-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第16題｜大考中心",
+    "prompt": "【113學測 英文 第16題】請選出第 16 格的答案。\n\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day’s work. But how did people get to work on time before alarm clocks were widely used? During the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a “knocker-up.” 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work. Whether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people’s houses until they were sure their customers were awake. While the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
+    "options": [
+      "must be using",
+      "could have used",
+      "had hardly used",
+      "were mostly using"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-113-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第17題｜大考中心",
+    "prompt": "【113學測 英文 第17題】請選出第 17 格的答案。\n\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day’s work. But how did people get to work on time before alarm clocks were widely used? During the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a “knocker-up.” 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work. Whether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people’s houses until they were sure their customers were awake. While the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
+    "options": [
+      "Aimed at",
+      "Trained for",
+      "Equipped with",
+      "Exhausted by"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-113-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第18題｜大考中心",
+    "prompt": "【113學測 英文 第18題】請選出第 18 格的答案。\n\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day’s work. But how did people get to work on time before alarm clocks were widely used? During the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a “knocker-up.” 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work. Whether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people’s houses until they were sure their customers were awake. While the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
+    "options": [
+      "familiar presences",
+      "distant memories",
+      "vague images",
+      "public eyesores"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-113-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第19題｜大考中心",
+    "prompt": "【113學測 英文 第19題】請選出第 19 格的答案。\n\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day’s work. But how did people get to work on time before alarm clocks were widely used? During the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a “knocker-up.” 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work. Whether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people’s houses until they were sure their customers were awake. While the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
+    "options": [
+      "remained",
+      "dismissed",
+      "revised",
+      "declined"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-113-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "113學測英文第20題｜大考中心",
+    "prompt": "【113學測 英文 第20題】請選出第 20 格的答案。\n\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day’s work. But how did people get to work on time before alarm clocks were widely used? During the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a “knocker-up.” 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work. Whether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people’s houses until they were sure their customers were awake. While the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
+    "options": [
+      "forget",
+      "change",
+      "match",
+      "regret"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-112-english-cloze-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第11題｜大考中心",
+    "prompt": "【112學測 英文 第11題】請選出第 11 格的答案。\n\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree. This beautiful phenomenon is called crown shyness. Scientists have been discussing crown shyness since the 1920s, proposing 12 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain “shyness gaps”—spaces large enough to prevent them from touching their neighbors. Other scientists suggest that plants, like animals, 13 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 14 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+    "options": [
+      "in no time",
+      "by all means",
+      "but not quite",
+      "and pretty much"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-112-english-cloze-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第12題｜大考中心",
+    "prompt": "【112學測 英文 第12題】請選出第 12 格的答案。\n\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree. This beautiful phenomenon is called crown shyness. Scientists have been discussing crown shyness since the 1920s, proposing 12 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain “shyness gaps”—spaces large enough to prevent them from touching their neighbors. Other scientists suggest that plants, like animals, 13 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 14 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+    "options": [
+      "universal",
+      "productive",
+      "conventional",
+      "multiple"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-112-english-cloze-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第13題｜大考中心",
+    "prompt": "【112學測 英文 第13題】請選出第 13 格的答案。\n\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree. This beautiful phenomenon is called crown shyness. Scientists have been discussing crown shyness since the 1920s, proposing 12 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain “shyness gaps”—spaces large enough to prevent them from touching their neighbors. Other scientists suggest that plants, like animals, 13 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 14 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+    "options": [
+      "get over",
+      "compete for",
+      "give way to",
+      "make up for"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-112-english-cloze-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第14題｜大考中心",
+    "prompt": "【112學測 英文 第14題】請選出第 14 格的答案。\n\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree. This beautiful phenomenon is called crown shyness. Scientists have been discussing crown shyness since the 1920s, proposing 12 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain “shyness gaps”—spaces large enough to prevent them from touching their neighbors. Other scientists suggest that plants, like animals, 13 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 14 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+    "options": [
+      "reliance on",
+      "exposure to",
+      "sensitivity to",
+      "reflection on"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-112-english-cloze-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第15題｜大考中心",
+    "prompt": "【112學測 英文 第15題】請選出第 15 格的答案。\n\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree. This beautiful phenomenon is called crown shyness. Scientists have been discussing crown shyness since the 1920s, proposing 12 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain “shyness gaps”—spaces large enough to prevent them from touching their neighbors. Other scientists suggest that plants, like animals, 13 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 14 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+    "options": [
+      "For",
+      "Besides",
+      "Despite",
+      "Concerning"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-112-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第16題｜大考中心",
+    "prompt": "【112學測 英文 第16題】請選出第 16 格的答案。\n\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts’ 17 condition. Our bodies have evolved to exist within Earth’s gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity. However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 20 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+    "options": [
+      "back to",
+      "free of",
+      "long before",
+      "straight on"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-112-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第17題｜大考中心",
+    "prompt": "【112學測 英文 第17題】請選出第 17 格的答案。\n\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts’ 17 condition. Our bodies have evolved to exist within Earth’s gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity. However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 20 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+    "options": [
+      "physical",
+      "perceptual",
+      "mental",
+      "external"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-112-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第18題｜大考中心",
+    "prompt": "【112學測 英文 第18題】請選出第 18 格的答案。\n\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts’ 17 condition. Our bodies have evolved to exist within Earth’s gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity. However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 20 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+    "options": [
+      "redistribute",
+      "redistributed",
+      "redistributing",
+      "being redistributed"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-112-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第19題｜大考中心",
+    "prompt": "【112學測 英文 第19題】請選出第 19 格的答案。\n\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts’ 17 condition. Our bodies have evolved to exist within Earth’s gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity. However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 20 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+    "options": [
+      "contagious",
+      "unusual",
+      "severe",
+      "aggressive"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-112-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "112學測英文第20題｜大考中心",
+    "prompt": "【112學測 英文 第20題】請選出第 20 格的答案。\n\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts’ 17 condition. Our bodies have evolved to exist within Earth’s gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity. However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 20 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+    "options": [
+      "varied with",
+      "brought about",
+      "transferred from",
+      "accompanied by"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-111-english-cloze-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第11題｜大考中心",
+    "prompt": "【111學測 英文 第11題】請選出第 11 格的答案。\n\nA book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was 11 by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye 12 up all over the world. Although all book towns have a great number of bookshops, that’s where the similarities 13 . Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest 14 . As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to 15 . The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+    "options": [
+      "initiated",
+      "represented",
+      "acknowledged",
+      "manipulated"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-111-english-cloze-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第12題｜大考中心",
+    "prompt": "【111學測 英文 第12題】請選出第 12 格的答案。\n\nA book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was 11 by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye 12 up all over the world. Although all book towns have a great number of bookshops, that’s where the similarities 13 . Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest 14 . As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to 15 . The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+    "options": [
+      "spring",
+      "sprang",
+      "had sprung",
+      "have been springing"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-111-english-cloze-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第13題｜大考中心",
+    "prompt": "【111學測 英文 第13題】請選出第 13 格的答案。\n\nA book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was 11 by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye 12 up all over the world. Although all book towns have a great number of bookshops, that’s where the similarities 13 . Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest 14 . As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to 15 . The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+    "options": [
+      "form",
+      "count",
+      "end",
+      "matter"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-111-english-cloze-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第14題｜大考中心",
+    "prompt": "【111學測 英文 第14題】請選出第 14 格的答案。\n\nA book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was 11 by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye 12 up all over the world. Although all book towns have a great number of bookshops, that’s where the similarities 13 . Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest 14 . As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to 15 . The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+    "options": [
+      "trends",
+      "releases",
+      "agendas",
+      "announcements"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-111-english-cloze-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第15題｜大考中心",
+    "prompt": "【111學測 英文 第15題】請選出第 15 格的答案。\n\nA book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was 11 by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye 12 up all over the world. Although all book towns have a great number of bookshops, that’s where the similarities 13 . Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest 14 . As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to 15 . The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+    "options": [
+      "get their worldwide fame",
+      "conform to the new mode",
+      "make their visitors satisfied",
+      "keep the printed word alive"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-111-english-cloze-16",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第16題｜大考中心",
+    "prompt": "【111學測 英文 第16題】請選出第 16 格的答案。\n\nAirline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics. In the early days of aviation, plane windows 17 square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is 18 when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 . Curved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can 20 extreme differences in pressure inside and outside of an aircraft. Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+    "options": [
+      "contrary to",
+      "except for",
+      "more of",
+      "other than"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-111-english-cloze-17",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第17題｜大考中心",
+    "prompt": "【111學測 英文 第17題】請選出第 17 格的答案。\n\nAirline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics. In the early days of aviation, plane windows 17 square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is 18 when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 . Curved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can 20 extreme differences in pressure inside and outside of an aircraft. Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+    "options": [
+      "used to be",
+      "were to be",
+      "would have been",
+      "must have been"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-111-english-cloze-18",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第18題｜大考中心",
+    "prompt": "【111學測 英文 第18題】請選出第 18 格的答案。\n\nAirline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics. In the early days of aviation, plane windows 17 square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is 18 when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 . Curved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can 20 extreme differences in pressure inside and outside of an aircraft. Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+    "options": [
+      "disguised",
+      "understood",
+      "confronted",
+      "intensified"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-111-english-cloze-19",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第19題｜大考中心",
+    "prompt": "【111學測 英文 第19題】請選出第 19 格的答案。\n\nAirline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics. In the early days of aviation, plane windows 17 square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is 18 when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 . Curved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can 20 extreme differences in pressure inside and outside of an aircraft. Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+    "options": [
+      "cause conflict",
+      "rebuild strength",
+      "spell disaster",
+      "endure shock"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-111-english-cloze-20",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜綜合測驗",
+    "skill": "歷屆試題",
+    "source": "111學測英文第20題｜大考中心",
+    "prompt": "【111學測 英文 第20題】請選出第 20 格的答案。\n\nAirline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics. In the early days of aviation, plane windows 17 square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is 18 when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 . Curved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can 20 extreme differences in pressure inside and outside of an aircraft. Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+    "options": [
+      "tolerate",
+      "improve",
+      "justify",
+      "obtain"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
   }
 ]
