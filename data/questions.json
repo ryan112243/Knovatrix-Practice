@@ -120101,5 +120101,1756 @@
     ],
     "answer": 2,
     "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-109-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第1題｜大考中心",
+    "prompt": "【109學測 英文 第1題】After hours of discussion, our class finally reached the _____ that we would go to Hualien for our graduation trip.",
+    "options": [
+      "balance",
+      "conclusion",
+      "definition",
+      "harmony"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-109-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第2題｜大考中心",
+    "prompt": "【109學測 英文 第2題】Jane _____ her teacher by passing the exam with a nearly perfect score; she almost failed the course last semester.",
+    "options": [
+      "bored",
+      "amazed",
+      "charmed",
+      "informed"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-109-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第3題｜大考中心",
+    "prompt": "【109學測 英文 第3題】The vacuum cleaner is not working. Let’s send it back to the _____ to have it inspected and repaired.",
+    "options": [
+      "lecturer",
+      "publisher",
+      "researcher",
+      "manufacturer"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-109-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第4題｜大考中心",
+    "prompt": "【109學測 英文 第4題】Due to the global financial crisis, the country’s exports _____ by 40 percent last month, the largest drop since 2000.",
+    "options": [
+      "flattered",
+      "transformed",
+      "relieved",
+      "decreased"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-109-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第5題｜大考中心",
+    "prompt": "【109學測 英文 第5題】The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+    "options": [
+      "solid",
+      "crispy",
+      "original",
+      "smooth"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-109-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第6題｜大考中心",
+    "prompt": "【109學測 英文 第6題】The townspeople built a _____ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+    "options": [
+      "monument",
+      "refugee",
+      "souvenir",
+      "firecracker"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-109-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第7題｜大考中心",
+    "prompt": "【109學測 英文 第7題】The students in Professor Smith’s classical Chinese class are required to _____ poems by famous Chinese poets.",
+    "options": [
+      "construct",
+      "expose",
+      "recite",
+      "install"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-109-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第8題｜大考中心",
+    "prompt": "【109學測 英文 第8題】Although Mr. Tang claims that the house belongs to him, he has not offered any proof of _____.",
+    "options": [
+      "convention",
+      "relationship",
+      "insurance",
+      "ownership"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-109-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第9題｜大考中心",
+    "prompt": "【109學測 英文 第9題】Ancient Athens, famous for its early development of the democratic system, is often said to be the _____ of democracy.",
+    "options": [
+      "mission",
+      "target",
+      "cradle",
+      "milestone"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-109-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第10題｜大考中心",
+    "prompt": "【109學測 英文 第10題】The candy can no longer be sold because it was found to contain artificial ingredients far beyond the _____ level.",
+    "options": [
+      "abundant",
+      "immense",
+      "permissible",
+      "descriptive"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-109-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第11題｜大考中心",
+    "prompt": "【109學測 英文 第11題】Jack’s excellent performance in last week’s game has _____ all the doubts about his ability to play on our school basketball team.",
+    "options": [
+      "erased",
+      "canceled",
+      "overlooked",
+      "replaced"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-109-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第12題｜大考中心",
+    "prompt": "【109學測 英文 第12題】It is bullying to _____ a foreign speaker’s accent. No one deserves to be laughed at for their pronunciation.",
+    "options": [
+      "mock",
+      "sneak",
+      "prompt",
+      "glare"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-109-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第13題｜大考中心",
+    "prompt": "【109學測 英文 第13題】Mary lost ten kilograms in three months, so her _____ skin-tight jeans are now hanging off her hips.",
+    "options": [
+      "barely",
+      "evenly",
+      "currently",
+      "formerly"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-109-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第14題｜大考中心",
+    "prompt": "【109學測 英文 第14題】The police officer showed us pictures of drunk driving accidents to highlight the importance of staying _____ on the road.",
+    "options": [
+      "sober",
+      "majestic",
+      "vigorous",
+      "noticeable"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-109-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "109學測英文第15題｜大考中心",
+    "prompt": "【109學測 英文 第15題】The claim that eating chocolate can prevent heart disease is _____ because there is not enough scientific evidence to support it.",
+    "options": [
+      "creative",
+      "disputable",
+      "circular",
+      "magnificent"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-108-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第1題｜大考中心",
+    "prompt": "【108學測 英文 第1題】Bobby cared a lot about his _____ at home and asked his parents not to go through his things without his permission.",
+    "options": [
+      "discipline",
+      "facility",
+      "privacy",
+      "representation"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-108-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第2題｜大考中心",
+    "prompt": "【108學測 英文 第2題】The new manager is a real gentleman. He is kind and humble, totally different from the former manager, who was _____ and bossy.",
+    "options": [
+      "eager",
+      "liberal",
+      "mean",
+      "inferior"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-108-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第3題｜大考中心",
+    "prompt": "【108學測 英文 第3題】The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+    "options": [
+      "conveyed",
+      "associated",
+      "interpreted",
+      "predicted"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-108-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第4題｜大考中心",
+    "prompt": "【108學測 英文 第4題】Different airlines have different _____ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+    "options": [
+      "landmarks",
+      "restrictions",
+      "percentages",
+      "circumstances"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-108-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第5題｜大考中心",
+    "prompt": "【108學測 英文 第5題】Many people were happy that the government had finally _____ Children’s Day as a national holiday.",
+    "options": [
+      "appointed",
+      "declared",
+      "performed",
+      "involved"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-108-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第6題｜大考中心",
+    "prompt": "【108學測 英文 第6題】To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
+    "options": [
+      "advised",
+      "occupied",
+      "proposed",
+      "recognized"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-108-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第7題｜大考中心",
+    "prompt": "【108學測 英文 第7題】Silence in some way is as _____ as speech. It can be used to show, for example, disagreement or lack of interest.",
+    "options": [
+      "sociable",
+      "expressive",
+      "reasonable",
+      "objective"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-108-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第8題｜大考中心",
+    "prompt": "【108學測 英文 第8題】This TV program is designed for children, _____ for those under five. It contains no violence or strong language.",
+    "options": [
+      "particularly",
+      "sensibly",
+      "moderately",
+      "considerably"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-108-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第9題｜大考中心",
+    "prompt": "【108學測 英文 第9題】Tommy, please put away the toys in the box, or you might _____ on them and hurt yourself.",
+    "options": [
+      "stumble",
+      "graze",
+      "navigate",
+      "dwell"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-108-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第10題｜大考中心",
+    "prompt": "【108學測 英文 第10題】The _____ costume party, held every September, is one of the biggest events of the school year.",
+    "options": [
+      "initial",
+      "annual",
+      "evident",
+      "occasional"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-108-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第11題｜大考中心",
+    "prompt": "【108學測 英文 第11題】In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
+    "options": [
+      "factors",
+      "outcomes",
+      "missions",
+      "identities"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-108-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第12題｜大考中心",
+    "prompt": "【108學測 英文 第12題】The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader’s eyes.",
+    "options": [
+      "distantly",
+      "meaningfully",
+      "cheerfully",
+      "vividly"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-108-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第13題｜大考中心",
+    "prompt": "【108學測 英文 第13題】Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+    "options": [
+      "napping",
+      "scooping",
+      "flipping",
+      "chirping"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-108-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第14題｜大考中心",
+    "prompt": "【108學測 英文 第14題】It is essential for us to maintain constant _____ with our friends to ensure that we have someone to talk to in times of need.",
+    "options": [
+      "benefit",
+      "contact",
+      "gesture",
+      "favor"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-108-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "108學測英文第15題｜大考中心",
+    "prompt": "【108學測 英文 第15題】The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+    "options": [
+      "causal",
+      "durable",
+      "manual",
+      "violent"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-107-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第1題｜大考中心",
+    "prompt": "【107學測 英文 第1題】Mangoes are a _____ fruit here in Taiwan; most of them reach their peak of sweetness in July.",
+    "options": [
+      "mature",
+      "usual",
+      "seasonal",
+      "particular"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-107-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第2題｜大考中心",
+    "prompt": "【107學測 英文 第2題】Writing term papers and giving oral reports are typical course _____ for college students.",
+    "options": [
+      "requirements",
+      "techniques",
+      "situations",
+      "principles"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-107-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第3題｜大考中心",
+    "prompt": "【107學測 英文 第3題】If we work hard to _____ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+    "options": [
+      "distribute",
+      "fulfill",
+      "convince",
+      "monitor"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-107-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第4題｜大考中心",
+    "prompt": "【107學測 英文 第4題】Few people will trust you if you continue making _____ promises and never make efforts to keep them.",
+    "options": [
+      "chilly",
+      "liberal",
+      "hollow",
+      "definite"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-107-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第5題｜大考中心",
+    "prompt": "【107學測 英文 第5題】Becky _____ her ankle while she was playing tennis last week. Now it still hurts badly.",
+    "options": [
+      "slipped",
+      "dumped",
+      "twisted",
+      "recovered"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-107-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第6題｜大考中心",
+    "prompt": "【107學測 英文 第6題】Research shows that men and women usually think differently. For example, they have quite different _____ about what marriage means in their life.",
+    "options": [
+      "decisions",
+      "beliefs",
+      "styles",
+      "degrees"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-107-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第7題｜大考中心",
+    "prompt": "【107學測 英文 第7題】The new manager is very _____. For instance, the employees are given much shorter deadlines for the same tasks than before.",
+    "options": [
+      "persuasive",
+      "tolerable",
+      "suspicious",
+      "demanding"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-107-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第8題｜大考中心",
+    "prompt": "【107學測 英文 第8題】While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+    "options": [
+      "anxiously",
+      "precisely",
+      "evidently",
+      "distinctly"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-107-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第9題｜大考中心",
+    "prompt": "【107學測 英文 第9題】After delivering a very powerful speech, the award winner was _____ by a group of fans asking for her signature.",
+    "options": [
+      "deposited",
+      "reserved",
+      "vanished",
+      "surrounded"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-107-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第10題｜大考中心",
+    "prompt": "【107學測 英文 第10題】The interviewees were trying very hard to _____ the interviewers that they were very capable and should be given the job.",
+    "options": [
+      "credit",
+      "impress",
+      "relieve",
+      "acquire"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-107-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第11題｜大考中心",
+    "prompt": "【107學測 英文 第11題】After the first snow of the year, the entire grassland disappeared under a _____ of snow.",
+    "options": [
+      "flake",
+      "blossom",
+      "blanket",
+      "flash"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-107-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第12題｜大考中心",
+    "prompt": "【107學測 英文 第12題】Peter likes books with wide _____, which provide him with enough space to write notes.",
+    "options": [
+      "angles",
+      "margins",
+      "exceptions",
+      "limitations"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-107-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第13題｜大考中心",
+    "prompt": "【107學測 英文 第13題】At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a _____.",
+    "options": [
+      "hardship",
+      "comment",
+      "bargain",
+      "penalty"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-107-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第14題｜大考中心",
+    "prompt": "【107學測 英文 第14題】Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+    "options": [
+      "conducted",
+      "confirmed",
+      "implied",
+      "improved"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-107-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "107學測英文第15題｜大考中心",
+    "prompt": "【107學測 英文 第15題】Intense, fast-moving fires raged across much of California last week. The _____ firestorm has claimed the lives of thirty people.",
+    "options": [
+      "efficient",
+      "reliable",
+      "massive",
+      "adequate"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-106-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第1題｜大考中心",
+    "prompt": "【106學測 英文 第1題】John’s clock is not functioning _____. The alarm rings even when it’s not set to go off.",
+    "options": [
+      "tenderly",
+      "properly",
+      "solidly",
+      "favorably"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-106-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第2題｜大考中心",
+    "prompt": "【106學測 英文 第2題】Michael has decided to _____ a career in physics and has set his mind on becoming a professor.",
+    "options": [
+      "pursue",
+      "swear",
+      "reserve",
+      "draft"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-106-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第3題｜大考中心",
+    "prompt": "【106學測 英文 第3題】Peter plans to hike in a _____ part of Africa, where he might not meet another human being for days.",
+    "options": [
+      "native",
+      "tricky",
+      "remote",
+      "vacant"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-106-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第4題｜大考中心",
+    "prompt": "【106學測 英文 第4題】People in this community tend to _____ with the group they belong to, and often put group interests before personal ones.",
+    "options": [
+      "appoint",
+      "eliminate",
+      "occupy",
+      "identify"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-106-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第5題｜大考中心",
+    "prompt": "【106學測 英文 第5題】I mistook the man for a well-known actor and asked for his autograph; it was really _____.",
+    "options": [
+      "relaxing",
+      "embarrassing",
+      "appealing",
+      "defending"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-106-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第6題｜大考中心",
+    "prompt": "【106學測 英文 第6題】After spending most of her salary on rent and food, Amelia _____ had any money left for entertainment and other expenses.",
+    "options": [
+      "barely",
+      "fairly",
+      "merely",
+      "readily"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-106-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第7題｜大考中心",
+    "prompt": "【106學測 英文 第7題】In the Bermuda Triangle, a region in the western part of the North Atlantic Ocean, some airplanes and ships were reported to have mysteriously disappeared without a _____.",
+    "options": [
+      "guide",
+      "trace",
+      "code",
+      "print"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-106-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第8題｜大考中心",
+    "prompt": "【106學測 英文 第8題】Shouting greetings and waving a big sign, Tony _____ the passing shoppers to visit his shop and buy the freshly baked bread.",
+    "options": [
+      "accessed",
+      "edited",
+      "imposed",
+      "urged"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-106-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第9題｜大考中心",
+    "prompt": "【106學測 英文 第9題】With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+    "options": [
+      "constitutions",
+      "objections",
+      "sculptures",
+      "adventures"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-106-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第10題｜大考中心",
+    "prompt": "【106學測 英文 第10題】The clouds parted and a _____ of light fell on the church, through the windows, and onto the floor.",
+    "options": [
+      "dip",
+      "beam",
+      "spark",
+      "path"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-106-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第11題｜大考中心",
+    "prompt": "【106學測 英文 第11題】Instead of a gift, Tim’s grandmother always _____ some money in the birthday card she gave him.",
+    "options": [
+      "enclosed",
+      "installed",
+      "preserved",
+      "rewarded"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-106-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第12題｜大考中心",
+    "prompt": "【106學測 英文 第12題】While winning a gold _____ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+    "options": [
+      "signal",
+      "glory",
+      "medal",
+      "profit"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-106-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第13題｜大考中心",
+    "prompt": "【106學測 英文 第13題】The thief went into the apartment building and stole some jewelry. He then _____ himself as a security guard and walked out the front gate.",
+    "options": [
+      "balanced",
+      "calculated",
+      "disguised",
+      "registered"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-106-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第14題｜大考中心",
+    "prompt": "【106學測 英文 第14題】Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+    "options": [
+      "aware",
+      "ashamed",
+      "doubtful",
+      "guilty"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-106-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "106學測英文第15題｜大考中心",
+    "prompt": "【106學測 英文 第15題】Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of _____ and his knowledge of trivial facts.",
+    "options": [
+      "innocence",
+      "estimation",
+      "assurance",
+      "observation"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-105-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第1題｜大考中心",
+    "prompt": "【105學測 英文 第1題】Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+    "options": [
+      "journey",
+      "traffic",
+      "concert",
+      "record"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-105-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第2題｜大考中心",
+    "prompt": "【105學測 英文 第2題】Maria didn’t want to deliver the bad news to David about his failing the job interview. She herself was quite _____ about it.",
+    "options": [
+      "awful",
+      "drowsy",
+      "tragic",
+      "upset"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-105-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第3題｜大考中心",
+    "prompt": "【105學測 英文 第3題】The newcomer speaks with a strong Irish _____; he must be from Ireland.",
+    "options": [
+      "accent",
+      "identity",
+      "gratitude",
+      "signature"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-105-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第4題｜大考中心",
+    "prompt": "【105學測 英文 第4題】Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+    "options": [
+      "ceased",
+      "committed",
+      "confined",
+      "conveyed"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-105-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第5題｜大考中心",
+    "prompt": "【105學測 英文 第5題】All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of _____ in case of an accident.",
+    "options": [
+      "injury",
+      "offense",
+      "sacrifice",
+      "victim"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-105-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第6題｜大考中心",
+    "prompt": "【105學測 英文 第6題】The principal of this school is a man of exceptional _____. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+    "options": [
+      "security",
+      "maturity",
+      "facility",
+      "generosity"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-105-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第7題｜大考中心",
+    "prompt": "【105學測 英文 第7題】The science teacher always _____ the use of the laboratory equipment before she lets her students use it on their own.",
+    "options": [
+      "tolerates",
+      "associates",
+      "demonstrates",
+      "exaggerates"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-105-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第8題｜大考中心",
+    "prompt": "【105學測 英文 第8題】Most of the area is covered by woods, where bird species are so _____ that it is a paradise for birdwatchers.",
+    "options": [
+      "durable",
+      "private",
+      "realistic",
+      "numerous"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-105-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第9題｜大考中心",
+    "prompt": "【105學測 英文 第9題】In most cases, the committee members can reach agreement quickly. _____, however, they differ greatly in opinion and have a hard time making decisions.",
+    "options": [
+      "Occasionally",
+      "Automatically",
+      "Enormously",
+      "Innocently"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-105-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第10題｜大考中心",
+    "prompt": "【105學測 英文 第10題】Many people try to save a lot of money before _____, since having enough money would give them a sense of security for their future.",
+    "options": [
+      "isolation",
+      "promotion",
+      "retirement",
+      "announcement"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-105-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第11題｜大考中心",
+    "prompt": "【105學測 英文 第11題】In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+    "options": [
+      "alert",
+      "itchy",
+      "steady",
+      "flexible"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-105-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第12題｜大考中心",
+    "prompt": "【105學測 英文 第12題】Benson married Julie soon after he had _____ her heart and gained her parents’ approval.",
+    "options": [
+      "conquered",
+      "estimated",
+      "guaranteed",
+      "intensified"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-105-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第13題｜大考中心",
+    "prompt": "【105學測 英文 第13題】The recent flood completely _____ my parents’ farm. The farmhouse and fruit trees were all gone and nothing was left.",
+    "options": [
+      "ruined",
+      "cracked",
+      "hastened",
+      "neglected"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-105-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第14題｜大考中心",
+    "prompt": "【105學測 英文 第14題】The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.",
+    "options": [
+      "primitive",
+      "spiritual",
+      "representative",
+      "informative"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-105-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "105學測英文第15題｜大考中心",
+    "prompt": "【105學測 英文 第15題】In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution.",
+    "options": [
+      "liberally",
+      "individually",
+      "financially",
+      "environmentally"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-104-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第1題｜大考中心",
+    "prompt": "【104學測 英文 第1題】Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m.",
+    "options": [
+      "relative",
+      "severe",
+      "primitive",
+      "flexible"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-104-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第2題｜大考中心",
+    "prompt": "【104學測 英文 第2題】To teach children right from wrong, some parents will ______ their children when they behave well and punish them when they misbehave.",
+    "options": [
+      "settle",
+      "declare",
+      "reward",
+      "neglect"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-104-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第3題｜大考中心",
+    "prompt": "【104學測 英文 第3題】To stick to a tight budget, Robert bought a more ______ LED TV instead of a fancy, expensive 3D TV.",
+    "options": [
+      "technical",
+      "significant",
+      "affordable",
+      "expressive"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-104-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第4題｜大考中心",
+    "prompt": "【104學測 英文 第4題】David’s new book made it to the best-seller list because of its beautiful ______ and amusing stories.",
+    "options": [
+      "operations",
+      "illustrations",
+      "engagements",
+      "accomplishments"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-104-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第5題｜大考中心",
+    "prompt": "【104學測 英文 第5題】The airport was closed because of the snowstorm, and our ______ for Paris had to be delayed until the following day.",
+    "options": [
+      "movement",
+      "registration",
+      "tendency",
+      "departure"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-104-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第6題｜大考中心",
+    "prompt": "【104學測 英文 第6題】The moment the students felt the earthquake, they ran ______ out of the classroom to an open area outside.",
+    "options": [
+      "swiftly",
+      "nearly",
+      "loosely",
+      "formally"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-104-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第7題｜大考中心",
+    "prompt": "【104學測 英文 第7題】The ______ capacity of this elevator is 400 kilograms. For safety reasons, it shouldn’t be overloaded.",
+    "options": [
+      "delicate",
+      "automatic",
+      "essential",
+      "maximum"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-104-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第8題｜大考中心",
+    "prompt": "【104學測 英文 第8題】An open display of ______ behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+    "options": [
+      "intimate",
+      "ashamed",
+      "earnest",
+      "urgent"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-104-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第9題｜大考中心",
+    "prompt": "【104學測 英文 第9題】When taking medicine, we should read the instructions on the ______ carefully because they provide important information such as how and when to take it.",
+    "options": [
+      "medals",
+      "quotes",
+      "labels",
+      "recipes"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-104-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第10題｜大考中心",
+    "prompt": "【104學測 英文 第10題】The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+    "options": [
+      "evidently",
+      "furiously",
+      "obediently",
+      "suspiciously"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-104-english-vocab-11",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第11題｜大考中心",
+    "prompt": "【104學測 英文 第11題】To ______ the new product, the company offered some free samples before they officially launched it.",
+    "options": [
+      "contribute",
+      "impress",
+      "promote",
+      "estimate"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-104-english-vocab-12",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第12題｜大考中心",
+    "prompt": "【104學測 英文 第12題】I was worried about my first overseas trip, but my father ______ me that he would help plan the trip so that nothing would go wrong.",
+    "options": [
+      "rescued",
+      "assured",
+      "inspired",
+      "conveyed"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-104-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第13題｜大考中心",
+    "prompt": "【104學測 英文 第13題】The recent cooking oil scandals have led to calls for tougher ______ of sales of food products.",
+    "options": [
+      "tolerance",
+      "guarantee",
+      "regulation",
+      "distribution"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-104-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第14題｜大考中心",
+    "prompt": "【104學測 英文 第14題】John should ______ more often with his friends and family after work, instead of staying in his room to play computer games.",
+    "options": [
+      "explore",
+      "interact",
+      "negotiate",
+      "participate"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-104-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "104學測英文第15題｜大考中心",
+    "prompt": "【104學測 英文 第15題】To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ______ for passengers from the infected areas.",
+    "options": [
+      "screenings",
+      "listings",
+      "clippings",
+      "blockings"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-103-english-vocab-1",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第1題｜大考中心",
+    "prompt": "【103學測 英文 第1題】Lost and scared, the little dog ______ along the streets, looking for its master.",
+    "options": [
+      "dismissed",
+      "glided",
+      "wandered",
+      "marched"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-103-english-vocab-2",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第2題｜大考中心",
+    "prompt": "【103學測 英文 第2題】On a sunny afternoon last month, we all took off our shoes and walked on the grass with _____ feet.",
+    "options": [
+      "bare",
+      "raw",
+      "tough",
+      "slippery"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-103-english-vocab-3",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第3題｜大考中心",
+    "prompt": "【103學測 英文 第3題】It is both legally and _______ wrong to spread rumors about other people on the Internet.",
+    "options": [
+      "morally",
+      "physically",
+      "literarily",
+      "commercially"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-103-english-vocab-4",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第4題｜大考中心",
+    "prompt": "【103學測 英文 第4題】These warm-up exercises are designed to help people _____ their muscles and prevent injuries.",
+    "options": [
+      "produce",
+      "connect",
+      "broaden",
+      "loosen"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-103-english-vocab-5",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第5題｜大考中心",
+    "prompt": "【103學測 英文 第5題】Mei-ling has a very close relationship with her parents. She always ______ them before she makes important decisions.",
+    "options": [
+      "impresses",
+      "advises",
+      "consults",
+      "motivates"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-103-english-vocab-6",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第6題｜大考中心",
+    "prompt": "【103學測 英文 第6題】The restaurant has a _____ charge of NT$250 per person. So the four of us need to pay at least NT$1,000 to eat there.",
+    "options": [
+      "definite",
+      "minimum",
+      "flexible",
+      "numerous"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-103-english-vocab-7",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第7題｜大考中心",
+    "prompt": "【103學測 英文 第7題】At the Book Fair, exhibitors from 21 countries will _______ textbooks, novels, and comic books.",
+    "options": [
+      "predict",
+      "require",
+      "display",
+      "target"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-103-english-vocab-8",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第8題｜大考中心",
+    "prompt": "【103學測 英文 第8題】Before John got on the stage to give the speech, he took a deep ________ to calm himself down.",
+    "options": [
+      "order",
+      "rest",
+      "effort",
+      "breath"
+    ],
+    "answer": 3,
+    "explanation": "官方公布答案：D。"
+  },
+  {
+    "id": "gsat-103-english-vocab-9",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第9題｜大考中心",
+    "prompt": "【103學測 英文 第9題】Most young people in Taiwan are not satisfied with a high school _____ and continue to pursue further education in college.",
+    "options": [
+      "maturity",
+      "diploma",
+      "foundation",
+      "guarantee"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-103-english-vocab-10",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第10題｜大考中心",
+    "prompt": "【103學測 英文 第10題】Residents are told not to dump all household waste _____ into the trash can; reusable materials should first be sorted out and recycled.",
+    "options": [
+      "shortly",
+      "straight",
+      "forward",
+      "namely"
+    ],
+    "answer": 1,
+    "explanation": "官方公布答案：B。"
+  },
+  {
+    "id": "gsat-103-english-vocab-13",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第13題｜大考中心",
+    "prompt": "【103學測 英文 第13題】People in that remote village feed themselves by hunting and engaging in _____ forms of agriculture. No modern agricultural methods are used.",
+    "options": [
+      "universal",
+      "splendid",
+      "primitive",
+      "courteous"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
+  },
+  {
+    "id": "gsat-103-english-vocab-14",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第14題｜大考中心",
+    "prompt": "【103學測 英文 第14題】The government issued a travel _____ for Taiwanese in response to the outbreak of civil war in Syria.",
+    "options": [
+      "alert",
+      "monument",
+      "exit",
+      "circulation"
+    ],
+    "answer": 0,
+    "explanation": "官方公布答案：A。"
+  },
+  {
+    "id": "gsat-103-english-vocab-15",
+    "level": "高中",
+    "subject": "英文",
+    "deck": "學測歷屆｜詞彙",
+    "skill": "歷屆試題",
+    "source": "103學測英文第15題｜大考中心",
+    "prompt": "【103學測 英文 第15題】The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth. She was ______ by zookeepers for a while.",
+    "options": [
+      "departed",
+      "jailed",
+      "tended",
+      "captured"
+    ],
+    "answer": 2,
+    "explanation": "官方公布答案：C。"
   }
 ]
