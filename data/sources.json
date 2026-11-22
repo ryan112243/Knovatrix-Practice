@@ -1,7 +1,26 @@
-﻿{
-  "policy": "未取得明確重製授權的外部試題只保留來源索引，不在刷題站重製全文。",
+{
+  "policy": "官方依法舉行之會考、學測、分科測驗歷屆試題依著作權法第9條第1項第5款納入；原題保留官方題幹與選項，解析僅標示官方答案。",
   "sources": [
-    {"name":"Knovatrix 主站題庫","url":"https://ryan112243.github.io/Knovatrix/#/","status":"待逐題授權或改寫"},
-    {"name":"外部競賽官方頁面","status":"保留外連，不自動抓取全文"}
+    {
+      "name": "Knovatrix 主站題庫",
+      "url": "https://ryan112243.github.io/Knovatrix/#/",
+      "status": "待逐題授權或改寫"
+    },
+    {
+      "name": "外部競賽官方頁面",
+      "status": "保留外連，不自動抓取全文"
+    },
+    {
+      "name": "國中教育會考國文科103–115歷屆試題",
+      "url": "https://cap-guowen.pages.dev/about",
+      "status": "只匯入原題、選項及官方答案；題目原始來源為心測中心／國中教育會考全國試務委員會官方題本與答案",
+      "official_url": "https://cap.rcpet.edu.tw/examination.html"
+    },
+    {
+      "name": "大學入學考試中心學測與分科測驗歷年試題",
+      "url": "https://www.ceec.edu.tw/xmfile?xsmsid=0J052424829869345634",
+      "status": "依大考中心公布之題本與選擇題答案核對；英文科新增115年選擇題原題",
+      "ast_official_url": "https://www.ceec.edu.tw/xmfile?xsmsid=0J052427633128416650"
+    }
   ]
 }
