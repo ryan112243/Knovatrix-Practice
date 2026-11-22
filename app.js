@@ -133,6 +133,11 @@ function formatMath(value) {
 }
 const normal = value => String(value ?? "").trim().replace(/\s+/g, "").toLowerCase();
 const typeName = type => type === "short" ? "填充題" : "選擇題";
+const questionImage = question => {
+  const path = String(question.image || "");
+  if (!/^assets\/cap\/\d{3}\/q\d{2,3}\.(png|jpe?g|webp)$/i.test(path)) return "";
+  return `<figure class="question-image"><img src="${esc(path)}" alt="題目附圖" loading="lazy"></figure>`;
+};
 const normalizeQuestion = question => {
   const options = Array.isArray(question.options) ? question.options.filter(option => String(option ?? "").trim()) : [];
   const source = `${question.source || ""} ${question.deck || ""}`;
@@ -575,7 +580,7 @@ function renderQuiz() {
     const status = itemAnswer?.submitted ? (itemAnswer.correct ? "correct" : "wrong") : state.flagged.has(item.id) ? "flagged" : "";
     return `<button class="${index === state.index ? "active" : ""} ${status}" data-question-index="${index}" title="第 ${index + 1} 題">${index + 1}</button>`;
   }).join("")}</div><div class="navigator-key"><span><i class="done"></i>已作答</span><span><i class="flag"></i>稍後再看</span></div><div class="session-score"><span>本次答對</span><b>${correctCount} / ${answeredCount}</b></div></aside>
-  <section class="question-stage">${adSlot("mobile-top")}<article class="question-card"><div class="question-meta"><span>${esc(question.level)} · ${esc(question.subject)} · ${esc(question.deck)}</span><span>${typeName(question.type)}</span></div><div class="question-title"><span>Q${state.index + 1}</span><h1>${formatMath(question.prompt)}</h1></div>${answerHtml}<div class="question-actions"><button class="button secondary" id="flag-question">${state.flagged.has(question.id) ? "取消標記" : "稍後再看"}</button><button class="button" id="submit-answer" ${answer.submitted || answer.value === null || answer.value === "" ? "disabled" : ""}>確認答案</button></div>${answer.submitted ? `<section class="answer-feedback ${answer.correct ? "ok" : "no"}"><b>${answer.correct ? "答對了" : "這題答錯了"}</b><p>正確答案：${formatMath(correctAnswerLabel(question))}</p><span>${formatMath(question.explanation)}</span></section>` : ""}</article>${adSlot("mobile-bottom")}<div class="question-pagination"><button class="button secondary" id="previous-question" ${state.index === 0 ? "disabled" : ""}>上一題</button><button class="button secondary" id="next-question">${state.index === state.session.length - 1 ? "回到第一題" : "下一題"}</button></div></section></div></section>`, false);
+  <section class="question-stage">${adSlot("mobile-top")}<article class="question-card"><div class="question-meta"><span>${esc(question.level)} · ${esc(question.subject)} · ${esc(question.deck)}</span><span>${typeName(question.type)}</span></div><div class="question-title"><span>Q${state.index + 1}</span><h1>${formatMath(question.prompt)}</h1></div>${questionImage(question)}${answerHtml}<div class="question-actions"><button class="button secondary" id="flag-question">${state.flagged.has(question.id) ? "取消標記" : "稍後再看"}</button><button class="button" id="submit-answer" ${answer.submitted || answer.value === null || answer.value === "" ? "disabled" : ""}>確認答案</button></div>${answer.submitted ? `<section class="answer-feedback ${answer.correct ? "ok" : "no"}"><b>${answer.correct ? "答對了" : "這題答錯了"}</b><p>正確答案：${formatMath(correctAnswerLabel(question))}</p><span>${formatMath(question.explanation)}</span></section>` : ""}</article>${adSlot("mobile-bottom")}<div class="question-pagination"><button class="button secondary" id="previous-question" ${state.index === 0 ? "disabled" : ""}>上一題</button><button class="button secondary" id="next-question">${state.index === state.session.length - 1 ? "回到第一題" : "下一題"}</button></div></section></div></section>`, false);
 
   root.querySelectorAll("[data-question-index]").forEach(button => button.onclick = () => {
     state.index = Number(button.dataset.questionIndex);
