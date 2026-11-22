@@ -25,7 +25,7 @@ const state = {
     types: new Set([savedSetup.types?.includes("short") ? "short" : "mcq"]),
     size: Number(savedSetup.size) || 10
   },
-  catalog: { level: "all", subject: "all", type: "all", search: "" },
+  catalog: { level: "all", subject: "all", type: "all", search: "", collection: "all" },
   session: [],
   sessionLabel: "",
   answers: {},
@@ -135,7 +135,13 @@ const normal = value => String(value ?? "").trim().replace(/\s+/g, "").toLowerCa
 const typeName = type => type === "short" ? "填充題" : "選擇題";
 const normalizeQuestion = question => {
   const options = Array.isArray(question.options) ? question.options.filter(option => String(option ?? "").trim()) : [];
-  return { ...question, options, type: options.length >= 4 ? "mcq" : "short" };
+  const source = `${question.source || ""} ${question.deck || ""}`;
+  const collection = question.collection || (question.skill === "歷屆試題"
+    ? /會考|基測/.test(source) ? "會考歷屆原題"
+      : /分科|指考/.test(source) ? "分科歷屆原題"
+        : /學測/.test(source) ? "學測歷屆原題" : ""
+    : "");
+  return { ...question, collection, options, type: options.length >= 4 ? "mcq" : "short" };
 };
 const routeName = () => location.hash.slice(1).split("?")[0] || "/";
 const adSlot = placement => `<div class="ad-slot ad-slot-flow" data-ad-slot="${placement}" aria-label="贊助內容"></div>`;
@@ -330,11 +336,13 @@ function renderDashboard() {
 }
 function renderCatalog() {
   const filter = state.catalog;
+  const collectionCounts = Object.fromEntries(["會考歷屆原題", "學測歷屆原題", "分科歷屆原題"].map(name => [name, state.questions.filter(question => question.collection === name).length]));
   const levelItems = values("level");
   const levelQuestions = filter.level === "all" ? state.questions : state.questions.filter(question => question.level === filter.level);
   const subjectItems = values("subject", levelQuestions);
   if (filter.subject !== "all" && !subjectItems.includes(filter.subject)) filter.subject = "all";
   const filtered = state.questions.filter(question =>
+    (filter.collection === "all" || question.collection === filter.collection) &&
     (filter.level === "all" || question.level === filter.level) &&
     (filter.subject === "all" || question.subject === filter.subject) &&
     (filter.type === "all" || question.type === filter.type) &&
@@ -352,7 +360,8 @@ function renderCatalog() {
     map.get(key).questions.push(question);
   });
 
-  mount(`${globalNav("/catalog")}${pageHeading("QUESTION LIBRARY", "從單元開始選題", "只顯示已完成答案核對、能直接練習的題目。")}
+  mount(`${globalNav("/catalog")}${pageHeading("QUESTION LIBRARY", "從單元開始選題", "依課程單元練習，或進入只收正式歷屆原題的考試專區。")}
+  <section class="unit-catalog exam-collections" aria-label="歷屆原題專區">${["會考歷屆原題", "學測歷屆原題", "分科歷屆原題"].map(name => `<article class="unit-row exam-collection ${filter.collection === name ? "selected" : ""}"><div class="unit-color" aria-hidden="true"></div><div class="unit-copy"><span>只包含已核對的正式歷屆原題</span><h2>${esc(name)}</h2><p>${collectionCounts[name]} 題</p></div><button class="button secondary" data-collection="${esc(name)}" ${collectionCounts[name] ? "" : "disabled"}>${filter.collection === name ? "正在瀏覽" : "查看專區"}</button><button class="button" data-collection-start="${esc(name)}" ${collectionCounts[name] ? "" : "disabled"}>開始練習</button></article>`).join("")}</section>
   <section class="catalog-toolbar">
     <label><span>學段</span><select id="catalog-level"><option value="all">全部學段</option>${levelItems.map(item => `<option value="${esc(item)}" ${filter.level === item ? "selected" : ""}>${esc(item)}</option>`).join("")}</select></label>
     <label><span>科目</span><select id="catalog-subject"><option value="all">全部科目</option>${subjectItems.map(item => `<option value="${esc(item)}" ${filter.subject === item ? "selected" : ""}>${esc(item)}</option>`).join("")}</select></label>
@@ -384,6 +393,12 @@ function renderCatalog() {
     filter.search = event.target.value;
     renderCatalog();
   };
+  root.querySelectorAll("[data-collection]").forEach(button => button.onclick = () => {
+    filter.collection = filter.collection === button.dataset.collection ? "all" : button.dataset.collection;
+    filter.level = "all";
+    filter.subject = "all";
+    renderCatalog();
+  });
   root.querySelectorAll("[data-unit-start]").forEach(button => button.onclick = () => {
     const [level, subject, deck] = button.dataset.unitStart.split("|");
     state.setup.level = level;
@@ -392,6 +407,13 @@ function renderCatalog() {
     state.setup.types = new Set(["mcq"]);
     saveSetup();
     location.hash = "/setup/options";
+  });
+  root.querySelectorAll("[data-collection-start]").forEach(button => button.onclick = () => {
+    const name = button.dataset.collectionStart;
+    const questions = state.questions.filter(question => question.collection === name);
+    if (!questions.length) return;
+    state.setup.size = Math.min(state.setup.size, questions.length);
+    beginSession(questions, name);
   });
 }
 

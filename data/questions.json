@@ -119164,7 +119164,8 @@
       "90 元"
     ],
     "answer": 1,
-    "explanation": "兩次皆吉及兩次皆祥的機率各為 1/9；期望值為 180 × 1/9 + 90 × 1/9 = 30 元。"
+    "explanation": "兩次皆吉及兩次皆祥的機率各為 1/9；期望值為 180 × 1/9 + 90 × 1/9 = 30 元。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-mathb-01",
@@ -119182,7 +119183,8 @@
       "10 個"
     ],
     "answer": 3,
-    "explanation": "由 |N − 95| < 4.75，得 90.25 < N < 99.75。符合的整數為 91 至 99，共 9 個。"
+    "explanation": "由 |N − 95| < 4.75，得 90.25 < N < 99.75。符合的整數為 91 至 99，共 9 個。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-1",
@@ -119199,7 +119201,8 @@
       "routine"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-2",
@@ -119216,7 +119219,8 @@
       "elementary"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-3",
@@ -119233,7 +119237,8 @@
       "inspiration"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-4",
@@ -119250,7 +119255,8 @@
       "fundamentally"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-5",
@@ -119267,7 +119273,8 @@
       "consumption"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-6",
@@ -119284,7 +119291,8 @@
       "escapes"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-7",
@@ -119301,7 +119309,8 @@
       "emphasis"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-8",
@@ -119318,7 +119327,8 @@
       "condemned"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-9",
@@ -119335,7 +119345,8 @@
       "struggle"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-vocab-10",
@@ -119352,7 +119363,8 @@
       "grave"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-1",
@@ -119369,7 +119381,8 @@
       "marker"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-2",
@@ -119386,7 +119399,8 @@
       "trend"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-3",
@@ -119403,7 +119417,8 @@
       "glaring"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-4",
@@ -119420,7 +119435,8 @@
       "stubborn"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-5",
@@ -119437,7 +119453,8 @@
       "plot"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-6",
@@ -119454,7 +119471,8 @@
       "vacant"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-7",
@@ -119471,7 +119489,8 @@
       "enormous"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-8",
@@ -119488,7 +119507,8 @@
       "reinforced"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-9",
@@ -119505,7 +119525,8 @@
       "credited"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-vocab-10",
@@ -119522,7 +119543,8 @@
       "relevantly"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-1",
@@ -119539,7 +119561,8 @@
       "slippery"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-2",
@@ -119556,7 +119579,8 @@
       "floating"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-3",
@@ -119573,7 +119597,8 @@
       "docked"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-4",
@@ -119590,7 +119615,8 @@
       "atmosphere"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-5",
@@ -119607,7 +119633,8 @@
       "stand"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-6",
@@ -119624,7 +119651,8 @@
       "distinctive"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-7",
@@ -119641,7 +119669,8 @@
       "credit"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-8",
@@ -119658,7 +119687,8 @@
       "confirms"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-9",
@@ -119675,7 +119705,8 @@
       "observation"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-vocab-10",
@@ -119692,7 +119723,8 @@
       "consequently"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-vocab-4",
@@ -119709,7 +119741,8 @@
       "queer"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-1",
@@ -119726,7 +119759,8 @@
       "stretched"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-2",
@@ -119743,7 +119777,8 @@
       "politician"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-3",
@@ -119760,7 +119795,8 @@
       "variety"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-5",
@@ -119777,7 +119813,8 @@
       "Snapping"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-6",
@@ -119794,7 +119831,8 @@
       "ultimate"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-7",
@@ -119811,7 +119849,8 @@
       "remarkable"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-8",
@@ -119828,7 +119867,8 @@
       "eventual"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-9",
@@ -119845,7 +119885,8 @@
       "quest"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-vocab-10",
@@ -119862,7 +119903,8 @@
       "transfers"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-1",
@@ -119879,7 +119921,8 @@
       "oppose"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-2",
@@ -119896,7 +119939,8 @@
       "instrument"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-3",
@@ -119913,7 +119957,8 @@
       "thoroughly"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-4",
@@ -119930,7 +119975,8 @@
       "fertile"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-5",
@@ -119947,7 +119993,8 @@
       "parachute"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-6",
@@ -119964,7 +120011,8 @@
       "revolutionary"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-7",
@@ -119981,7 +120029,8 @@
       "explanation"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-8",
@@ -119998,7 +120047,8 @@
       "tumbled"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-9",
@@ -120015,7 +120065,8 @@
       "proofs"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-10",
@@ -120032,7 +120083,8 @@
       "naturally"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-11",
@@ -120049,7 +120101,8 @@
       "exceeding"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-12",
@@ -120066,7 +120119,8 @@
       "obstinate"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-13",
@@ -120083,7 +120137,8 @@
       "defensive"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-vocab-14",
@@ -120100,7 +120155,8 @@
       "associated"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-1",
@@ -120117,7 +120173,8 @@
       "harmony"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-2",
@@ -120134,7 +120191,8 @@
       "informed"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-3",
@@ -120151,7 +120209,8 @@
       "manufacturer"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-4",
@@ -120168,7 +120227,8 @@
       "decreased"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-5",
@@ -120185,7 +120245,8 @@
       "smooth"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-6",
@@ -120202,7 +120263,8 @@
       "firecracker"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-7",
@@ -120219,7 +120281,8 @@
       "install"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-8",
@@ -120236,7 +120299,8 @@
       "ownership"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-9",
@@ -120253,7 +120317,8 @@
       "milestone"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-10",
@@ -120270,7 +120335,8 @@
       "descriptive"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-11",
@@ -120287,7 +120353,8 @@
       "replaced"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-12",
@@ -120304,7 +120371,8 @@
       "glare"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-13",
@@ -120321,7 +120389,8 @@
       "formerly"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-14",
@@ -120338,7 +120407,8 @@
       "noticeable"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-vocab-15",
@@ -120355,7 +120425,8 @@
       "magnificent"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-1",
@@ -120372,7 +120443,8 @@
       "representation"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-2",
@@ -120389,7 +120461,8 @@
       "inferior"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-3",
@@ -120406,7 +120479,8 @@
       "predicted"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-4",
@@ -120423,7 +120497,8 @@
       "circumstances"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-5",
@@ -120440,7 +120515,8 @@
       "involved"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-6",
@@ -120457,7 +120533,8 @@
       "recognized"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-7",
@@ -120474,7 +120551,8 @@
       "objective"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-8",
@@ -120491,7 +120569,8 @@
       "considerably"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-9",
@@ -120508,7 +120587,8 @@
       "dwell"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-10",
@@ -120525,7 +120605,8 @@
       "occasional"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-11",
@@ -120542,7 +120623,8 @@
       "identities"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-12",
@@ -120559,7 +120641,8 @@
       "vividly"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-13",
@@ -120576,7 +120659,8 @@
       "chirping"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-14",
@@ -120593,7 +120677,8 @@
       "favor"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-vocab-15",
@@ -120610,7 +120695,8 @@
       "violent"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-1",
@@ -120627,7 +120713,8 @@
       "particular"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-2",
@@ -120644,7 +120731,8 @@
       "principles"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-3",
@@ -120661,7 +120749,8 @@
       "monitor"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-4",
@@ -120678,7 +120767,8 @@
       "definite"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-5",
@@ -120695,7 +120785,8 @@
       "recovered"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-6",
@@ -120712,7 +120803,8 @@
       "degrees"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-7",
@@ -120729,7 +120821,8 @@
       "demanding"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-8",
@@ -120746,7 +120839,8 @@
       "distinctly"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-9",
@@ -120763,7 +120857,8 @@
       "surrounded"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-10",
@@ -120780,7 +120875,8 @@
       "acquire"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-11",
@@ -120797,7 +120893,8 @@
       "flash"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-12",
@@ -120814,7 +120911,8 @@
       "limitations"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-13",
@@ -120831,7 +120929,8 @@
       "penalty"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-14",
@@ -120848,7 +120947,8 @@
       "improved"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-vocab-15",
@@ -120865,7 +120965,8 @@
       "adequate"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-1",
@@ -120882,7 +120983,8 @@
       "favorably"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-2",
@@ -120899,7 +121001,8 @@
       "draft"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-3",
@@ -120916,7 +121019,8 @@
       "vacant"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-4",
@@ -120933,7 +121037,8 @@
       "identify"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-5",
@@ -120950,7 +121055,8 @@
       "defending"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-6",
@@ -120967,7 +121073,8 @@
       "readily"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-7",
@@ -120984,7 +121091,8 @@
       "print"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-8",
@@ -121001,7 +121109,8 @@
       "urged"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-9",
@@ -121018,7 +121127,8 @@
       "adventures"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-10",
@@ -121035,7 +121145,8 @@
       "path"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-11",
@@ -121052,7 +121163,8 @@
       "rewarded"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-12",
@@ -121069,7 +121181,8 @@
       "profit"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-13",
@@ -121086,7 +121199,8 @@
       "registered"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-14",
@@ -121103,7 +121217,8 @@
       "guilty"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-vocab-15",
@@ -121120,7 +121235,8 @@
       "observation"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-1",
@@ -121137,7 +121253,8 @@
       "record"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-2",
@@ -121154,7 +121271,8 @@
       "upset"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-3",
@@ -121171,7 +121289,8 @@
       "signature"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-4",
@@ -121188,7 +121307,8 @@
       "conveyed"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-5",
@@ -121205,7 +121325,8 @@
       "victim"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-6",
@@ -121222,7 +121343,8 @@
       "generosity"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-7",
@@ -121239,7 +121361,8 @@
       "exaggerates"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-8",
@@ -121256,7 +121379,8 @@
       "numerous"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-9",
@@ -121273,7 +121397,8 @@
       "Innocently"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-10",
@@ -121290,7 +121415,8 @@
       "announcement"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-11",
@@ -121307,7 +121433,8 @@
       "flexible"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-12",
@@ -121324,7 +121451,8 @@
       "intensified"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-13",
@@ -121341,7 +121469,8 @@
       "neglected"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-14",
@@ -121358,7 +121487,8 @@
       "informative"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-vocab-15",
@@ -121375,7 +121505,8 @@
       "environmentally"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-1",
@@ -121392,7 +121523,8 @@
       "flexible"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-2",
@@ -121409,7 +121541,8 @@
       "neglect"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-3",
@@ -121426,7 +121559,8 @@
       "expressive"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-4",
@@ -121443,7 +121577,8 @@
       "accomplishments"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-5",
@@ -121460,7 +121595,8 @@
       "departure"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-6",
@@ -121477,7 +121613,8 @@
       "formally"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-7",
@@ -121494,7 +121631,8 @@
       "maximum"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-8",
@@ -121511,7 +121649,8 @@
       "urgent"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-9",
@@ -121528,7 +121667,8 @@
       "recipes"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-10",
@@ -121545,7 +121685,8 @@
       "suspiciously"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-11",
@@ -121562,7 +121703,8 @@
       "estimate"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-12",
@@ -121579,7 +121721,8 @@
       "conveyed"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-13",
@@ -121596,7 +121739,8 @@
       "distribution"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-14",
@@ -121613,7 +121757,8 @@
       "participate"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-vocab-15",
@@ -121630,7 +121775,8 @@
       "blockings"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-1",
@@ -121647,7 +121793,8 @@
       "marched"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-2",
@@ -121664,7 +121811,8 @@
       "slippery"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-3",
@@ -121681,7 +121829,8 @@
       "commercially"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-4",
@@ -121698,7 +121847,8 @@
       "loosen"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-5",
@@ -121715,7 +121865,8 @@
       "motivates"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-6",
@@ -121732,7 +121883,8 @@
       "numerous"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-7",
@@ -121749,7 +121901,8 @@
       "target"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-8",
@@ -121766,7 +121919,8 @@
       "breath"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-9",
@@ -121783,7 +121937,8 @@
       "guarantee"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-10",
@@ -121800,7 +121955,8 @@
       "namely"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-13",
@@ -121817,7 +121973,8 @@
       "courteous"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-14",
@@ -121834,7 +121991,8 @@
       "circulation"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-vocab-15",
@@ -121851,7 +122009,8 @@
       "captured"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-1",
@@ -121868,7 +122027,8 @@
       "conclusion"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-2",
@@ -121885,7 +122045,8 @@
       "gradually"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-3",
@@ -121902,7 +122063,8 @@
       "inspire"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-4",
@@ -121919,7 +122081,8 @@
       "legend"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-5",
@@ -121936,7 +122099,8 @@
       "sincere"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-6",
@@ -121953,7 +122117,8 @@
       "triumph"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-7",
@@ -121970,7 +122135,8 @@
       "optimistic"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-8",
@@ -121987,7 +122153,8 @@
       "temporarily"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-9",
@@ -122004,7 +122171,8 @@
       "universal"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-10",
@@ -122021,7 +122189,8 @@
       "confessing"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-11",
@@ -122038,7 +122207,8 @@
       "scarcely"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-12",
@@ -122055,7 +122225,8 @@
       "whistling"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-13",
@@ -122072,7 +122243,8 @@
       "stingy"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-14",
@@ -122089,7 +122261,8 @@
       "revise"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-101-english-vocab-15",
@@ -122106,7 +122279,8 @@
       "machinery"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-1",
@@ -122123,7 +122297,8 @@
       "reluctant"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-2",
@@ -122140,7 +122315,8 @@
       "maintain"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-3",
@@ -122157,7 +122333,8 @@
       "awake"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-4",
@@ -122174,7 +122351,8 @@
       "condition"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-5",
@@ -122191,7 +122369,8 @@
       "overthrow"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-6",
@@ -122208,7 +122387,8 @@
       "contain"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-7",
@@ -122225,7 +122405,8 @@
       "current"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-8",
@@ -122242,7 +122423,8 @@
       "contests"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-9",
@@ -122259,7 +122441,8 @@
       "realistic"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-10",
@@ -122276,7 +122459,8 @@
       "incidents"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-11",
@@ -122293,7 +122477,8 @@
       "Originally"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-12",
@@ -122310,7 +122495,8 @@
       "mutual"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-13",
@@ -122327,7 +122513,8 @@
       "collapse"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-99-english-vocab-14",
@@ -122344,7 +122531,8 @@
       "client"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-1",
@@ -122361,7 +122549,8 @@
       "courageous"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-2",
@@ -122378,7 +122567,8 @@
       "yield"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-3",
@@ -122395,7 +122585,8 @@
       "intentionally"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-4",
@@ -122412,7 +122603,8 @@
       "brilliant"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-5",
@@ -122429,7 +122621,8 @@
       "tendency"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-6",
@@ -122446,7 +122639,8 @@
       "brutal"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-7",
@@ -122463,7 +122657,8 @@
       "texture"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-8",
@@ -122480,7 +122675,8 @@
       "interrupting"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-9",
@@ -122497,7 +122693,8 @@
       "motivate"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-10",
@@ -122514,7 +122711,8 @@
       "anxious"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-11",
@@ -122531,7 +122729,8 @@
       "leadership"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-12",
@@ -122548,7 +122747,8 @@
       "technically"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-13",
@@ -122565,7 +122765,8 @@
       "inputs"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-98-english-vocab-14",
@@ -122582,7 +122783,8 @@
       "remind"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-1",
@@ -122599,7 +122801,8 @@
       "delay"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-2",
@@ -122616,7 +122819,8 @@
       "squeeze"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-3",
@@ -122633,7 +122837,8 @@
       "digest"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-4",
@@ -122650,7 +122855,8 @@
       "promote"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-5",
@@ -122667,7 +122873,8 @@
       "intimate"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-6",
@@ -122684,7 +122891,8 @@
       "fragrance"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-7",
@@ -122701,7 +122909,8 @@
       "rebels"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-8",
@@ -122718,7 +122927,8 @@
       "occupation"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-9",
@@ -122735,7 +122945,8 @@
       "typical"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-10",
@@ -122752,7 +122963,8 @@
       "capable"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-11",
@@ -122769,7 +122981,8 @@
       "manageable"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-12",
@@ -122786,7 +122999,8 @@
       "channel"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-13",
@@ -122803,7 +123017,8 @@
       "gratefully"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-14",
@@ -122820,7 +123035,8 @@
       "persuaded"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-97-english-vocab-15",
@@ -122837,7 +123053,8 @@
       "permanently"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-1",
@@ -122854,7 +123071,8 @@
       "decision"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-2",
@@ -122871,7 +123089,8 @@
       "potential"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-3",
@@ -122888,7 +123107,8 @@
       "diminished"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-4",
@@ -122905,7 +123125,8 @@
       "upload"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-5",
@@ -122922,7 +123143,8 @@
       "extension"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-6",
@@ -122939,7 +123161,8 @@
       "budget"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-7",
@@ -122956,7 +123179,8 @@
       "advertising"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-8",
@@ -122973,7 +123197,8 @@
       "expanded"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-9",
@@ -122990,7 +123215,8 @@
       "outgoing"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-10",
@@ -123007,7 +123233,8 @@
       "obviously"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-11",
@@ -123024,7 +123251,8 @@
       "profitable"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-12",
@@ -123041,7 +123269,8 @@
       "resigned"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-13",
@@ -123058,7 +123287,8 @@
       "constructions"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-14",
@@ -123075,7 +123305,8 @@
       "variously"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-96-english-vocab-15",
@@ -123092,7 +123323,8 @@
       "confirmed"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-1",
@@ -123109,7 +123341,8 @@
       "afford"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-2",
@@ -123126,7 +123359,8 @@
       "favorable"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-3",
@@ -123143,7 +123377,8 @@
       "sincerely"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-4",
@@ -123160,7 +123395,8 @@
       "persuaded"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-5",
@@ -123177,7 +123413,8 @@
       "energy"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-6",
@@ -123194,7 +123431,8 @@
       "optimistic"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-7",
@@ -123211,7 +123449,8 @@
       "deserve"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-8",
@@ -123228,7 +123467,8 @@
       "productive"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-9",
@@ -123245,7 +123485,8 @@
       "narrowly"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-10",
@@ -123262,7 +123503,8 @@
       "realize"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-11",
@@ -123279,7 +123521,8 @@
       "transfer"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-12",
@@ -123296,7 +123539,8 @@
       "impression"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-95-english-vocab-14",
@@ -123313,7 +123557,8 @@
       "put out"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-1",
@@ -123330,7 +123575,8 @@
       "influentially"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-2",
@@ -123347,7 +123593,8 @@
       "confirm"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-3",
@@ -123364,7 +123611,8 @@
       "manufactures"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-4",
@@ -123381,7 +123629,8 @@
       "productivities"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-5",
@@ -123398,7 +123647,8 @@
       "skillfully"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-6",
@@ -123415,7 +123665,8 @@
       "vacant"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-7",
@@ -123432,7 +123683,8 @@
       "available"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-8",
@@ -123449,7 +123701,8 @@
       "impressions"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-9",
@@ -123466,7 +123719,8 @@
       "persist"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-10",
@@ -123483,7 +123737,8 @@
       "arrested"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-11",
@@ -123500,7 +123755,8 @@
       "persuade"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-12",
@@ -123517,7 +123773,8 @@
       "objective"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-13",
@@ -123534,7 +123791,8 @@
       "drowsiness"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-94-english-vocab-14",
@@ -123551,7 +123809,8 @@
       "communication"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-1",
@@ -123568,7 +123827,8 @@
       "strengthen"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-2",
@@ -123585,7 +123845,8 @@
       "observe"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-3",
@@ -123602,7 +123863,8 @@
       "readable"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-4",
@@ -123619,7 +123881,8 @@
       "consequently"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-5",
@@ -123636,7 +123899,8 @@
       "landmark"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-6",
@@ -123653,7 +123917,8 @@
       "interaction"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-7",
@@ -123670,7 +123935,8 @@
       "discriminated"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-8",
@@ -123687,7 +123953,8 @@
       "artificial"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-9",
@@ -123704,7 +123971,8 @@
       "officially"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-10",
@@ -123721,7 +123989,8 @@
       "impulse"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-11",
@@ -123738,7 +124007,8 @@
       "put about"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-12",
@@ -123755,7 +124025,8 @@
       "running down"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-13",
@@ -123772,7 +124043,8 @@
       "take apart"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-93-english-vocab-14",
@@ -123789,7 +124061,8 @@
       "Regardless of"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-cloze-16",
@@ -123806,7 +124079,8 @@
       "had to be"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-cloze-17",
@@ -123823,7 +124097,8 @@
       "participation"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-cloze-18",
@@ -123840,7 +124115,8 @@
       "get off"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-cloze-19",
@@ -123857,7 +124133,8 @@
       "otherwise"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-109-english-cloze-20",
@@ -123874,7 +124151,8 @@
       "considerate"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-cloze-16",
@@ -123891,7 +124169,8 @@
       "comes across"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-cloze-17",
@@ -123908,7 +124187,8 @@
       "continued"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-cloze-18",
@@ -123925,7 +124205,8 @@
       "Literally"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-cloze-19",
@@ -123942,7 +124223,8 @@
       "hold in store"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-108-english-cloze-20",
@@ -123959,7 +124241,8 @@
       "subjective"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-cloze-16",
@@ -123976,7 +124259,8 @@
       "worse"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-cloze-17",
@@ -123993,7 +124277,8 @@
       "grind"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-cloze-18",
@@ -124010,7 +124295,8 @@
       "put up with"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-cloze-19",
@@ -124027,7 +124313,8 @@
       "which"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-107-english-cloze-20",
@@ -124044,7 +124331,8 @@
       "beyond"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-cloze-16",
@@ -124061,7 +124349,8 @@
       "see through"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-cloze-17",
@@ -124078,7 +124367,8 @@
       "explanations"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-cloze-18",
@@ -124095,7 +124385,8 @@
       "transferred"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-cloze-19",
@@ -124112,7 +124403,8 @@
       "Although"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-106-english-cloze-20",
@@ -124129,7 +124421,8 @@
       "after"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-cloze-16",
@@ -124146,7 +124439,8 @@
       "Accordingly"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-cloze-17",
@@ -124163,7 +124457,8 @@
       "felt like"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-cloze-18",
@@ -124180,7 +124475,8 @@
       "take advantage of"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-cloze-19",
@@ -124197,7 +124493,8 @@
       "what"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-105-english-cloze-20",
@@ -124214,7 +124511,8 @@
       "Instead"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-cloze-16",
@@ -124231,7 +124529,8 @@
       "manage"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-cloze-17",
@@ -124248,7 +124547,8 @@
       "regarding"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-cloze-18",
@@ -124265,7 +124565,8 @@
       "allowing"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-cloze-19",
@@ -124282,7 +124583,8 @@
       "global"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-104-english-cloze-20",
@@ -124299,7 +124601,8 @@
       "disturbs"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-cloze-16",
@@ -124316,7 +124619,8 @@
       "Praying"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-cloze-17",
@@ -124333,7 +124637,8 @@
       "Into"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-cloze-18",
@@ -124350,7 +124655,8 @@
       "another"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-cloze-19",
@@ -124367,7 +124673,8 @@
       "Moreover"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-103-english-cloze-20",
@@ -124384,7 +124691,8 @@
       "skinny"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-cloze-16",
@@ -124401,7 +124709,8 @@
       "without"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-cloze-17",
@@ -124418,7 +124727,8 @@
       "break down"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-cloze-18",
@@ -124435,7 +124745,8 @@
       "maintaining"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-cloze-19",
@@ -124452,7 +124763,8 @@
       "similarly"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-110-english-cloze-20",
@@ -124469,7 +124781,8 @@
       "having installed"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-11",
@@ -124486,7 +124799,8 @@
       "all in all"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-12",
@@ -124503,7 +124817,8 @@
       "manipulate"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-13",
@@ -124520,7 +124835,8 @@
       "clues"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-14",
@@ -124537,7 +124853,8 @@
       "less likely"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-15",
@@ -124554,7 +124871,8 @@
       "tolerant with"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-16",
@@ -124571,7 +124889,8 @@
       "reinforce"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-17",
@@ -124588,7 +124907,8 @@
       "had almost developed"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-18",
@@ -124605,7 +124925,8 @@
       "meant to be"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-19",
@@ -124622,7 +124943,8 @@
       "in that"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-115-english-cloze-20",
@@ -124639,7 +124961,8 @@
       "an amazing local cuisine"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-11",
@@ -124656,7 +124979,8 @@
       "would have spread"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-12",
@@ -124673,7 +124997,8 @@
       "fulfilled"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-13",
@@ -124690,7 +125015,8 @@
       "preserve"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-14",
@@ -124707,7 +125033,8 @@
       "looked out for"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-15",
@@ -124724,7 +125051,8 @@
       "thus"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-16",
@@ -124741,7 +125069,8 @@
       "strike"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-17",
@@ -124758,7 +125087,8 @@
       "are rarely cued"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-18",
@@ -124775,7 +125105,8 @@
       "haven’t"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-19",
@@ -124792,7 +125123,8 @@
       "significant advantages"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-114-english-cloze-20",
@@ -124809,7 +125141,8 @@
       "after all"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-11",
@@ -124826,7 +125159,8 @@
       "engage in"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-12",
@@ -124843,7 +125177,8 @@
       "to which"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-13",
@@ -124860,7 +125195,8 @@
       "personal bias"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-14",
@@ -124877,7 +125213,8 @@
       "anonymous"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-15",
@@ -124894,7 +125231,8 @@
       "management"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-16",
@@ -124911,7 +125249,8 @@
       "were mostly using"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-17",
@@ -124928,7 +125267,8 @@
       "Exhausted by"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-18",
@@ -124945,7 +125285,8 @@
       "public eyesores"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-19",
@@ -124962,7 +125303,8 @@
       "declined"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-113-english-cloze-20",
@@ -124979,7 +125321,8 @@
       "regret"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-11",
@@ -124996,7 +125339,8 @@
       "and pretty much"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-12",
@@ -125013,7 +125357,8 @@
       "multiple"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-13",
@@ -125030,7 +125375,8 @@
       "make up for"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-14",
@@ -125047,7 +125393,8 @@
       "reflection on"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-15",
@@ -125064,7 +125411,8 @@
       "Concerning"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-16",
@@ -125081,7 +125429,8 @@
       "straight on"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-17",
@@ -125098,7 +125447,8 @@
       "external"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-18",
@@ -125115,7 +125465,8 @@
       "being redistributed"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-19",
@@ -125132,7 +125483,8 @@
       "aggressive"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-112-english-cloze-20",
@@ -125149,7 +125501,8 @@
       "accompanied by"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-11",
@@ -125166,7 +125519,8 @@
       "manipulated"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-12",
@@ -125183,7 +125537,8 @@
       "have been springing"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-13",
@@ -125200,7 +125555,8 @@
       "matter"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-14",
@@ -125217,7 +125573,8 @@
       "announcements"
     ],
     "answer": 1,
-    "explanation": "官方公布答案：B。"
+    "explanation": "官方公布答案：B。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-15",
@@ -125234,7 +125591,8 @@
       "keep the printed word alive"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-16",
@@ -125251,7 +125609,8 @@
       "other than"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-17",
@@ -125268,7 +125627,8 @@
       "must have been"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-18",
@@ -125285,7 +125645,8 @@
       "intensified"
     ],
     "answer": 3,
-    "explanation": "官方公布答案：D。"
+    "explanation": "官方公布答案：D。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-19",
@@ -125302,7 +125663,8 @@
       "endure shock"
     ],
     "answer": 2,
-    "explanation": "官方公布答案：C。"
+    "explanation": "官方公布答案：C。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "gsat-111-english-cloze-20",
@@ -125319,7 +125681,8 @@
       "obtain"
     ],
     "answer": 0,
-    "explanation": "官方公布答案：A。"
+    "explanation": "官方公布答案：A。",
+    "collection": "學測歷屆原題"
   },
   {
     "id": "practice-20261121-b01-01",
@@ -322520,5 +322883,44 @@
     ],
     "answer": 2,
     "explanation": "123000×8%=9840 元。"
+  },
+  {
+    "level": "國中",
+    "subject": "數學",
+    "deck": "國中｜根式與無理數",
+    "skill": "歷屆試題",
+    "collection": "會考歷屆原題",
+    "source": "115會考數學第3題｜教育部國中教育會考",
+    "sourceUrl": "https://cap.rcpet.edu.tw/",
+    "id": "cap-115-math-03",
+    "prompt": "【115會考 數學 第3題】若 $\\sqrt{504}$ 的最簡根式為 $a\\sqrt{b}$，則 $a+b$ 之值為何？",
+    "answer": 2,
+    "explanation": "$\\sqrt{504}=\\sqrt{36\\times14}=6\\sqrt{14}$，因此 $a=6$、$b=14$，$a+b=20$。",
+    "options": [
+      "13",
+      "19",
+      "20",
+      "50"
+    ]
+  },
+  {
+    "level": "高中",
+    "subject": "數學",
+    "deck": "高三選修｜數列與級數",
+    "skill": "歷屆試題",
+    "collection": "分科歷屆原題",
+    "source": "115分科數學甲第2題｜大考中心",
+    "sourceUrl": "https://www.ceec.edu.tw/files/file_pool/1/0q219352733537345169/01-115%E5%88%86%E7%A7%91%E6%B8%AC%E9%A9%97%E6%95%B8%E5%AD%B8%E7%94%B2%E8%80%83%E7%A7%91%E8%A9%A6%E5%8D%B7.pdf",
+    "id": "ds-115-matha-02",
+    "prompt": "【115分科 數學甲 第2題】已知 $a_1,a_2,a_3,\\ldots$ 為首項為 1、公比為 $r$ 的無窮等比數列（其中 $r$ 為非零實數），且知兩無窮等比級數 $a_1+a_2+a_3+\\cdots$ 與 $a_1+a_3+a_5+\\cdots$ 皆收斂且其乘積為 1。試選出正確的 $r$ 值。",
+    "options": [
+      "$-\\frac{1}{2}$",
+      "$\\frac{1-\\sqrt{3}}{2}$",
+      "$\\frac{1+\\sqrt{3}}{2}$",
+      "$\\frac{1-\\sqrt{5}}{2}$",
+      "$\\frac{1+\\sqrt{5}}{2}$"
+    ],
+    "answer": 3,
+    "explanation": "設兩級數和為 $\\frac{1}{1-r}$ 與 $\\frac{1}{1-r^2}$。乘積為 1 得 $(1-r)(1-r^2)=1$，又 $r\\ne0$，故 $r^2-r-1=0$。兩根中只有 $\\frac{1-\\sqrt5}{2}$ 滿足收斂條件 $|r|<1$。官方答案為第 4 選項。"
   }
 ]
