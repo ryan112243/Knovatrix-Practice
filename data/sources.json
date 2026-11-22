@@ -13,14 +13,50 @@
     {
       "name": "國中教育會考國文科103–115歷屆試題",
       "url": "https://cap-guowen.pages.dev/about",
-      "status": "只匯入原題、選項及官方答案；題目原始來源為心測中心／國中教育會考全國試務委員會官方題本與答案",
-      "official_url": "https://cap.rcpet.edu.tw/examination.html"
+      "status": "103–115 年題目逐題存錄；保留題幹、選項、官方答案及原圖，題組材料附在各自題目，未收錄第三方詳解。",
+      "official_url": "https://cap.rcpet.edu.tw/examination.html",
+      "retrieval_sources": [
+        {
+          "name": "會考數學題庫整理",
+          "url": "https://cap-math.pages.dev/"
+        },
+        {
+          "name": "會考社會題庫整理",
+          "url": "https://cap-shehui.pages.dev/"
+        },
+        {
+          "name": "會考英語題庫整理",
+          "url": "https://cap-english.pages.dev/"
+        },
+        {
+          "name": "會考自然題庫整理",
+          "url": "https://cap-ziran.pages.dev/"
+        }
+      ]
     },
     {
       "name": "大學入學考試中心學測與分科測驗歷年試題",
       "url": "https://www.ceec.edu.tw/xmfile?xsmsid=0J052424829869345634",
-      "status": "依大考中心公布之題本與選擇題答案核對；英文科新增115年選擇題原題",
-      "ast_official_url": "https://www.ceec.edu.tw/xmfile?xsmsid=0J052427633128416650"
+      "status": "學測與指考／分科各題分別存錄；僅保留題幹、選項、官方答案或原題影像，不收錄第三方詳解。",
+      "ast_official_url": "https://www.ceec.edu.tw/xmfile?xsmsid=0J052427633128416650",
+      "retrieval_sources": [
+        {
+          "name": "學測國文題庫整理",
+          "url": "https://gsat-guowen.pages.dev/"
+        },
+        {
+          "name": "學測英文題庫整理",
+          "url": "https://gsat-english-bqe.pages.dev/"
+        },
+        {
+          "name": "學測自然題庫整理",
+          "url": "https://gsat-ziran.pages.dev/"
+        },
+        {
+          "name": "學測數學題本影像整理",
+          "url": "https://gsat-math.pages.dev/"
+        }
+      ]
     }
   ]
 }

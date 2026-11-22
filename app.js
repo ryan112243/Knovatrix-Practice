@@ -135,7 +135,7 @@ const normal = value => String(value ?? "").trim().replace(/\s+/g, "").toLowerCa
 const typeName = type => type === "short" ? "填充題" : "選擇題";
 const questionImage = question => {
   const path = String(question.image || "");
-  if (!/^assets\/cap\/\d{3}\/q\d{2,3}\.(png|jpe?g|webp)$/i.test(path)) return "";
+  if (!/^(?:assets\/cap\/\d{3}\/q\d{2,3}|assets\/exam\/(?:cap|gsat|ast)\/\d{2,3}\/[a-z0-9-]+)\.(png|jpe?g|webp)$/i.test(path)) return "";
   return `<figure class="question-image"><img src="${esc(path)}" alt="題目附圖" loading="lazy"></figure>`;
 };
 const normalizeQuestion = question => {
